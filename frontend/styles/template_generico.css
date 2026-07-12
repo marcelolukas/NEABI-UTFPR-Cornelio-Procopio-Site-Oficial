@@ -1,0 +1,208 @@
+/* ======================================================
+   Modelo de Página Genérica - Estética alinhada à página inicial
+   ====================================================== */
+
+.template-intro {
+  display: flex;
+  gap: 24px;
+  padding: clamp(32px, 4vw, 56px);
+  max-width: 1180px;
+  margin: 0 auto;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.template-intro__content {
+  flex: 1 1 320px;
+  background: rgba(250, 244, 225, 0.95);
+  border-radius: 20px;
+  padding: 26px;
+  border: 1px solid rgba(23, 21, 18, 0.08);
+}
+
+.template-intro__content h1 {
+  margin-top: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.template-intro__card {
+  flex: 0 0 320px;
+  background: rgba(250, 244, 225, 0.95);
+  border-radius: 18px;
+  padding: 28px;
+  box-shadow: 0 20px 36px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.template-cards {
+  margin: clamp(24px, 3vw, 48px) auto;
+  max-width: 1180px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+.template-card {
+  display: flex;
+  flex-direction: column;
+  background: rgba(250, 244, 225, 0.95);
+  border-radius: 20px;
+  border: 1px solid rgba(193, 31, 38, 0.2);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+
+.template-card__image {
+  height: 200px;
+  background: linear-gradient(135deg, rgba(193, 31, 38, 0.5), rgba(15, 107, 55, 0.7));
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.template-card__body {
+  flex: 1;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.template-card__body h3 {
+  margin: 0;
+  font-size: 1.4rem;
+  color: #111;
+}
+
+.template-images {
+  margin: clamp(32px, 4vw, 56px) auto;
+  max-width: 1180px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.template-images__item {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+.template-images__placeholder {
+  width: 100%;
+  padding-top: 60%;
+  background: rgba(250, 244, 225, 0.8);
+  border-radius: 18px;
+  border: 1px dashed rgba(193, 31, 38, 0.5);
+  position: relative;
+}
+
+.template-images__placeholder::after {
+  content: "";
+  position: absolute;
+  inset: 15%;
+  border: 1px dashed rgba(15, 107, 55, 0.6);
+  border-radius: 12px;
+}
+
+.template-timeline {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+  padding: clamp(24px, 3vw, 48px);
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.template-timeline__card {
+  background: rgba(250, 244, 225, 0.95);
+  border-radius: 20px;
+  padding: 24px 20px;
+  border: 1px solid rgba(23, 21, 18, 0.08);
+  box-shadow: 0 18px 34px rgba(0, 0, 0, 0.12);
+}
+
+.template-timeline__card .tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  background: rgba(15, 107, 55, 0.12);
+  color: #0f6b37;
+  margin-bottom: 12px;
+}
+
+.template-resources {
+  margin: clamp(24px, 3vw, 48px);
+  padding: clamp(32px, 4vw, 56px);
+  background: #111111;
+  color: #fff;
+  text-align: center;
+  border-radius: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 24px 40px rgba(0, 0, 0, 0.35);
+}
+
+.template-resources h2 {
+  margin-top: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.template-resources ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px auto 32px;
+  max-width: 620px;
+  text-align: left;
+}
+
+.template-resources li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.template-resources__actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.template-resources__actions .card-botao {
+  background: linear-gradient(135deg, #0f6b37, #094a26);
+}
+
+.template-contato .contact-info {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 768px) {
+  .template-intro {
+    flex-direction: column;
+  }
+
+  .template-cards,
+  .template-timeline,
+  .template-images {
+    padding: 0 16px 32px;
+  }
+}
+
+@media (max-width: 480px) {
+  .template-resources {
+    padding: 24px 16px;
+  }
+
+  .template-resources ul {
+    text-align: left;
+  }
+}

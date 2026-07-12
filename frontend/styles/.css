@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.destaques {
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+  max-width: 85%; /* Limita a largura máxima */
+  margin: 5% auto -0% auto; /* Centraliza horizontalmente e mantém o topo */
+  padding: 0 5%; /* Segurança para não encostar na borda em telas pequenas */
+  align-items: flex-start;
+}
+
+.texto-principal {
+  flex: 1;
+  color: #171512;
+  line-height: 1.2;
+  font-family: Roboto;
+  margin-left: 0;
+  max-width: 60%;
+  margin-top: 40px;
+}
+.texto-principal .titulo {
+  font-size: 48px;
+  font-weight: 700;
+}
+.texto-principal p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 auto;
+  margin-top: 45px;
+  font-weight: 400;
+}
+
+.texto-principal .botao {
+  text-decoration: none; /* Tira o sublinhado */
+  background: linear-gradient(135deg, #0f6b37, #094a26);
+  color: white;
+  padding: 13px 32px; /* Como você colocaria os valores de 10px e 20px aqui? */
+  border-radius: 4px;
+  display: inline-block; /* Importante para o padding funcionar bem em links */
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 30px;
+  width: 142x;
+  transition:                /* transições suaves */
+    background-color 0.4s ease,
+    border-color 0.2s ease;
+}
+.texto-principal .botao:hover {
+  font-weight: 600;
+  transform: scale(1.08); /* aumenta levemente */
+  will-change: transform; /* otimiza performance */
+}
+
+.cards {
+  flex: 1; /* Ocupa o espaço disponível na largura */
+  display: flex; /* Ativa o flexbox para os cards filhos */
+  flex-direction: column; /* Coloca um card abaixo do outro */
+  gap: 35px; /* O espaço de respiro entre os cards */
+  background:
+    linear-gradient(180deg, #111111 0%, #1d1d1d 100%);
+  border-radius: 25px;
+  margin-bottom: 20px;
+  padding: 20px 16px;
+  margin-left: auto;
+  transition:
+    transform 0.35s ease,
+    opacity 0.35s ease;
+  transform: translateX(0);
+}
+
+.cards.slide-right {
+  transform: translateX(7px);
+}
+
+.cards.slide-left {
+  transform: translateX(-7px);
+}
+
+.card-item {
+  display: flex;
+  gap: 16px;
+}
+
+.card-conteudo {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-start;
+}
+.card.sumindo {
+  opacity: 0;
+  transform: translateX(-20px); /* Move um pouco para o lado */
+}
+.card-conteudo p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.6;
+}
+
+.card-conteudo time {
+  color: #e0bb4f; /* destaque quente */
+  font-size: 12px;
+  align-self: flex-start;
+}
+.card-conteudo h3 {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 700;
+  color: #f7f0d8;
+}
+
+.card-imagem img {
+  max-width: 100%;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 15px; /* Opcional: para deixar os cantos arredondados como no Figma */
+}
+
+.controles {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  font-family: Roboto;
+}
+.clicado {
+  /* Diminui o botão para 95% do tamanho (efeito de apertar) */
+  transform: scale(0.95);
+}
+#btn-pause,
+#btn-anterior,
+#btn-proximo {
+  background: linear-gradient(135deg, #c11f26, #8f131a);
+  color: white;
+  border: 1px solid #111111;
+  transition: transform 0.1s ease;
+  width: 100px;
+  height: 29px;
+  border-radius: 15px;
+}

@@ -1,0 +1,227 @@
+/* ==================================================
+   ESTILOS COMPLEMENTARES - Quem Somos Genérico
+   ================================================== */
+
+:root {
+  --primary-color: #c11f26;
+  --secondary-color: #0f6b37;
+  --light-text: #ffffff;
+  --muted-text: rgba(23, 21, 18, 0.92);
+  --card-bg: rgba(250, 244, 225, 0.95);
+}
+
+body {
+  background:#D13A35;
+  width: 100%;
+      overflow: hidden;
+
+
+}
+.sobre-extra {
+  padding: clamp(32px, 4vw, 56px);
+  background: linear-gradient(180deg, rgba(255, 191, 0, 0.12), transparent 60%);
+}
+
+.sobre-extra__grid {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.sobre-extra__item {
+  background: var(--card-bg);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 24px;
+  box-shadow: 0 24px 36px rgba(0, 0, 0, 0.12);
+  transition:
+    transform 260ms ease,
+    box-shadow 260ms ease;
+}
+
+.sobre-extra__item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 32px 44px rgba(0, 0, 0, 0.18);
+}
+
+.sobre-extra__item h3 {
+  margin: 0 0 12px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  letter-spacing: -0.01em;
+}
+
+.sobre-extra__item p {
+  margin: 0;
+  color: #1a1a17;
+  line-height: 1.6;
+}
+
+.contato-rodape {
+  margin: 0 auto;
+  padding: clamp(32px, 4vw, 64px);
+  min-width: 1150px;
+  width: 100%;
+  min-height: calc(100vh - 96px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  color: black;
+  border-radius: 38px;
+}
+
+.email {
+  color: #0f6b37;
+}
+.contato-rodape__inner {
+  max-width: 1180px;
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 32px;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 38px;
+  padding: clamp(32px, 4vw, 64px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+.contato-rodape__label {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.35em;
+  color: black;
+  margin-bottom: 8px;
+}
+
+.contato-rodape__texto h2 {
+  margin: 0 0 12px;
+  font-family: "Inter", sans-serif;
+  font-size: clamp(2rem, 3vw, 2.9rem);
+  letter-spacing: -0.02em;
+  color:black;
+}
+
+.contato-rodape__texto p {
+  margin: 0;
+  max-width: 480px;
+  line-height: 1.6;
+  color: black;
+}
+
+.contact-info {
+  background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  padding: 24px 28px;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
+}
+
+.contact-info p {
+  margin: 10px 0;
+  color: #1a1a17;
+  font-size: 0.95rem;
+}
+
+.contact-info strong {
+  font-weight: 700;
+}
+
+.contact-info a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+
+
+.social-links {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.social-links li {
+  margin: 0;
+}
+
+.social-links a {
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--card-bg);
+  border: 1px solid rgba(23, 21, 18, 0.08);
+  color: #1a1a17;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition:
+    transform 220ms ease,
+    background 220ms ease;
+  display: inline-flex;
+}
+
+.social-links a:hover {
+  transform: translateY(-2px);
+  background: #0f6b37;
+  border-color: black;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .contato-rodape {
+    min-height: auto;
+  }
+
+  .contato-rodape__inner {
+    padding: clamp(24px, 3vw, 40px);
+  }
+
+  .contato-rodape__texto p {
+    max-width: 100%;
+  }
+
+  .sobre-extra__grid {
+    gap: 16px;
+  }
+
+  .contact-info {
+    padding: 18px 20px;
+  }
+
+  .social-links {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .sobre-extra {
+    padding: 24px 16px;
+  }
+
+  .contato-rodape {
+    padding: 16px;
+    min-height: auto;
+  }
+
+  .contato-rodape__inner {
+    gap: 20px;
+    padding: 24px 16px;
+  }
+
+  .social-links {
+    flex-direction: column;
+
+  }
+
+  .social-links a {
+    width: 100%;
+    justify-content: center;
+    
+  }
+}

@@ -1,0 +1,405 @@
+/* ========================================
+   ESTILOS - PÁGINA EVENTOS PASSADOS
+   INSPIRAÇÃO: SITE GELEDES
+   ======================================== */
+
+:root {
+  --primary-color: #c11f26;
+  --secondary-color: #0f6b37;
+  --dark-bg: #171512;
+  --light-text: #ffffff;
+  --accent-color: #8f131a;
+  --card-bg: rgba(250, 244, 225, 0.95);
+}
+
+/* ========================================
+   LAYOUT GERAL
+   ======================================== */
+
+.eventos-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background:
+    radial-gradient(circle at top, rgba(193, 31, 38, 0.12), transparent 30%),
+    linear-gradient(180deg, #f4e6b4 0%, #efddb0 100%);
+}
+
+/* ========================================
+   HERO SECTION
+   ======================================== */
+
+.eventos-hero {
+  position: relative;
+  height: clamp(260px, 45vw, 440px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #c11f26, #8f131a);
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.eventos-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="10" cy="10" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="30" cy="20" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="50" cy="30" r="1" fill="rgba(255,255,255,0.1)"/></svg>');
+  opacity: 0.3;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: var(--light-text);
+  max-width: 800px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 16px;
+}
+
+.hero-content h1 {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  margin: 0 0 16px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.hero-content p {
+  font-size: 1.05rem;
+  margin: 0;
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+/* ========================================
+   SEÇÃO DE EVENTOS
+   ======================================== */
+
+.eventos-secao {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.secao-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.secao-header h2 {
+  color: #171512;
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  margin: 0 0 12px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  letter-spacing: -0.5px;
+}
+
+.secao-header h2 i {
+  color: var(--accent-color);
+}
+
+.secao-desc {
+  color: rgba(23, 21, 18, 0.75);
+  font-size: 1.05rem;
+  margin: 0;
+  font-weight: 400;
+}
+
+/* ========================================
+   TIMELINE DE EVENTOS PASSADOS
+   ======================================== */
+
+.eventos-passados-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: relative;
+}
+
+.eventos-passados-timeline::before {
+  content: "";
+  position: absolute;
+  left: 40px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, var(--primary-color), rgba(193, 31, 38, 0.3));
+  z-index: 1;
+}
+
+.evento-passado-item {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 30px;
+  padding: 24px 0 24px 0;
+  position: relative;
+  padding-left: 30px;
+  border-bottom: 1px solid rgba(193, 31, 38, 0.2);
+  transition: all 0.3s ease;
+}
+
+.evento-passado-item:last-child {
+  border-bottom: none;
+}
+
+.evento-passado-item:hover {
+  background: rgba(193, 31, 38, 0.06);
+  padding-left: 40px;
+}
+
+.evento-passado-ano {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 2;
+  margin-left: 12px;
+}
+
+.evento-passado-ano {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 800;
+  text-align: center;
+  background: linear-gradient(145deg, #c11f26, #8f131a);
+  width: 65px;
+  height: 65px;
+  border-radius: 4px;
+  border: 2px solid rgba(23, 21, 18, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.evento-passado-item::before {
+  content: "";
+  position: absolute;
+  left: 34px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background: var(--primary-color);
+  border: 3px solid #f4e6b4;
+  border-radius: 50%;
+  z-index: 3;
+}
+
+.evento-passado-conteudo {
+  padding: 20px 24px;
+  background: var(--card-bg);
+  border: 1px solid rgba(23, 21, 18, 0.08);
+  border-radius: 4px;
+  border-left: 4px solid var(--primary-color);
+  transition: all 0.3s ease;
+}
+
+.evento-passado-item:hover .evento-passado-conteudo {
+  background: var(--card-bg);
+  border-color: rgba(193, 31, 38, 0.2);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+}
+
+.evento-passado-conteudo h4 {
+  color: #171512;
+  font-size: 1.2rem;
+  margin: 0 0 8px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+}
+
+.evento-passado-data {
+  display: inline-block;
+  color: var(--primary-color);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+
+.evento-passado-conteudo p {
+  color: #433328;
+  font-size: 0.95rem;
+  margin: 10px 0 15px;
+  line-height: 1.5;
+}
+
+.evento-passado-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  padding: 8px 12px;
+  background: linear-gradient(135deg, var(--secondary-color), #094a26);
+  border: 1px solid rgba(15, 107, 55, 0.2);
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.evento-passado-link:hover {
+  background: linear-gradient(135deg, #0f7a3f, var(--secondary-color));
+  border-color: rgba(15, 107, 55, 0.3);
+  color: #ffffff;
+  transform: translateX(4px);
+}
+
+/* ========================================
+   RESPONSIVIDADE
+   ======================================== */
+
+@media (max-width: 768px) {
+  .eventos-secao {
+    padding: 40px 16px;
+  }
+
+  .eventos-hero {
+    padding: 30px 16px;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .secao-header h2 {
+    font-size: 1.8rem;
+  }
+
+  .eventos-passados-timeline::before {
+    left: 30px;
+  }
+
+  .evento-passado-item {
+    grid-template-columns: 70px 1fr;
+    gap: 20px;
+    padding-left: 20px;
+  }
+
+  .evento-passado-item::before {
+    left: 25px;
+  }
+
+  .evento-passado-ano {
+    width: 55px;
+    height: 55px;
+    font-size: 1.3rem;
+    margin-left: 8px;
+  }
+
+  .evento-passado-conteudo {
+    padding: 16px 20px;
+  }
+
+  .evento-passado-conteudo h4 {
+    font-size: 1.05rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .eventos-secao {
+    padding: 30px 12px;
+  }
+
+  .eventos-hero {
+    padding: 20px 12px;
+  }
+
+  .hero-content h1 {
+    font-size: 1.6rem;
+    margin-bottom: 8px;
+  }
+
+  .hero-content p {
+    font-size: 0.9rem;
+  }
+
+  .secao-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .secao-header h2 i {
+    font-size: 1.2rem;
+  }
+
+  .secao-desc {
+    font-size: 0.9rem;
+  }
+
+  .eventos-passados-timeline::before {
+    left: 20px;
+  }
+
+  .evento-passado-item {
+    grid-template-columns: 60px 1fr;
+    gap: 15px;
+    padding-left: 15px;
+  }
+
+  .evento-passado-item::before {
+    left: 18px;
+    width: 12px;
+    height: 12px;
+  }
+
+  .evento-passado-ano {
+    width: 50px;
+    height: 50px;
+    font-size: 1.1rem;
+    margin-left: 5px;
+    border-width: 2px;
+  }
+
+  .evento-passado-conteudo {
+    padding: 14px 16px;
+    border-left-width: 3px;
+  }
+
+  .evento-passado-conteudo h4 {
+    font-size: 0.95rem;
+  }
+
+  .evento-passado-data {
+    font-size: 0.75rem;
+  }
+
+  .evento-passado-conteudo p {
+    font-size: 0.85rem;
+    margin: 8px 0 12px;
+  }
+
+  .evento-passado-link {
+    font-size: 0.8rem;
+    padding: 6px 10px;
+  }
+}

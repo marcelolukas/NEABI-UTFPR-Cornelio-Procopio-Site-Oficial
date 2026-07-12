@@ -1,0 +1,541 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="./styles/pagina_inicial.css" />
+    <link rel="stylesheet" href="./styles/transicao.css" />
+    <link rel="stylesheet" href="./styles/global.css" />
+  </head>
+
+  <body>
+    <div class="div_transicao"></div>
+
+    <header class="cabecalho">
+      <div class="identidade_do_site">
+        <img
+          class="logo_do_site"
+          src="./assets/site/logoDoSite.png"
+          alt="Logo do Site"
+        />
+      </div>
+
+      <nav class="navegacao">
+        <ul class="menu-pagina-inicial">
+          <li><a href="./index.html">Início</a></li>
+          <li><a href="./pages/template_quem_somos.html">Quem Somos</a></li>
+          <li><a href="#" class="Projetos">Projetos</a></li>
+          <li><a href="#">Eventos</a></li>
+        </ul>
+      </nav>
+
+      <a href="./pages/fale_Conosco.html" class="botao-contato">
+        <span class="texto-botao">Fale Conosco</span>
+        <video
+          class="icone-punho"
+          src="./assets/ui/animacao_punho.webm"
+          muted
+          playsinline
+          preload="metadata"
+        ></video>
+      </a>
+    </header>
+
+    <main>
+      <section class="hero" data-hero-carousel>
+        <div class="hero__backgrounds" aria-hidden="true">
+          <img
+            class="hero__background is-active"
+            src="./assets/home/pagina-inicial-hero-1.png"
+            alt=""
+            decoding="async"
+            fetchpriority="high"
+          />
+          <img
+            class="hero__background"
+            src="./assets/optimized/IMG_0247.jpg"
+            alt=""
+            loading="lazy"
+            decoding="async"
+          />
+
+          <img
+            class="hero__background"
+            src="./assets/optimized/coletivo-ubuntu-hero.jpg"
+            alt=""
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+
+        <div class="hero__carousel">
+          <div class="hero__slides">
+            <article class="hero__slide is-active">
+              <h1>
+                EXPOSIÇÃO VOZES <br />
+                NEGRAS E INDÍGENAS
+              </h1>
+              <p>
+                A exposição "Vozes negras e indígenas" valoriza e dá
+                visibilidade às trajetórias de mulheres negras e indígenas que
+                marcaram e continuam marcando a sociedade.
+              </p>
+              <a
+                class="botao__carousel_primeiro_hero"
+                href="./pages/ver_todas.html"
+              >
+                Conheça essas Mulheres Extraordinárias
+              </a>
+            </article>
+
+            <article class="hero__slide">
+              <h1>VII SEMANA NEGRAS RAÍZES</h1>
+              <p>
+                A programação reuniu arte, educação, cultura e diálogo,
+                promovendo reflexões sobre quilombo urbano, identidade,
+                pertencimento e resistência no espaço universitário. As
+                atividades incentivaram a troca de experiências e a valorização
+                da diversidade, fortalecendo os vínculos entre a comunidade
+                acadêmica e os movimentos sociais.
+              </p>
+              <a class="botao__carousel" href="#semana-negras-raizes">
+                Ver atividades da Semana
+              </a>
+            </article>
+
+            <article class="hero__slide">
+              <h1>ENCONTRO EENEABI</h1>
+              <p>
+                O encontro do ENEABI reuniu estudantes, educadores e a
+                comunidade para fortalecer ações antirracistas, compartilhar
+                saberes e celebrar trajetórias coletivas. O evento promoveu o
+                diálogo, valorizou a diversidade e contribuiu para reflexões
+                sobre igualdade racial.
+              </p>
+              <a class="botao__carousel" href="./pages/encontro-eeneabi.html">
+                Acompanhe o encontro
+              </a>
+            </article>
+          </div>
+
+          <div class="hero__controls" aria-label="Controles do carrossel">
+            <button
+              class="hero__nav"
+              type="button"
+              aria-label="Slide anterior"
+              data-hero-prev
+            >
+              ‹
+            </button>
+
+            <div class="hero__dots" aria-label="Slides do hero">
+              <button
+                class="hero__dot is-active"
+                type="button"
+                aria-label="Ir para o slide 1"
+                data-hero-dot="0"
+              ></button>
+              <button
+                class="hero__dot"
+                type="button"
+                aria-label="Ir para o slide 2"
+                data-hero-dot="1"
+              ></button>
+              <button
+                class="hero__dot"
+                type="button"
+                aria-label="Ir para o slide 3"
+                data-hero-dot="2"
+              ></button>
+            </div>
+
+            <button
+              class="hero__nav"
+              type="button"
+              aria-label="Próximo slide"
+              data-hero-next
+            >
+              ›
+            </button>
+          </div>
+        </div>
+
+        <div class="hero__card-delayed">
+          <button class="close-btn">&times;</button>
+          <div class="card-content">
+            <h3>Deputada Carol Dartora</h3>
+            <p class="card-note">
+              Você sabia que este site foi desenvolvido com recursos
+              provenientes de emenda da deputada federal Carol Dartora?
+            </p>
+            <p class="card-saiba-mais">
+              <a href="./pages/carol_dartora.html">Saiba Mais</a>
+            </p>
+          </div>
+          <img
+            src="./assets/optimized/carol_dartora.jpg"
+            alt="Imagem de Carol Dartora"
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+      </section>
+
+      <section
+        class="atividades-destaque"
+        id="semana-negras-raizes"
+        data-lightbox-galeria
+      >
+        <div class="eventos-semana-raizes-negras">
+          <h2 class="eventos-semana-raizes-negras-titulo">
+            Eventos e encontros do NEABI
+          </h2>
+
+          <p class="eventos-semana-raizes-negras-descricao">
+            As ações do NEABI aproximam universidade e comunidade por meio de
+            rodas de conversa, oficinas, atividades culturais e encontros
+            formativos voltados à valorização da história, da memória e da
+            cultura afro-brasileira.
+          </p>
+
+          <div class="container-cards-eventos">
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/encontro-eeneabi.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver pagina de encontros formativos"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/coletivo-ubuntu-hero.jpg"
+                  data-full-src="./assets/eventos/coletivo-ubuntu-hero.png"
+                  alt="Registro de atividade institucional do NEABI"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2><b>Encontros formativos</b></h2>
+                <p class="data">Formação e diálogo</p>
+                <p>
+                  Espaços de conversa e aprendizagem que reúnem estudantes,
+                  servidores e comunidade externa para discutir educação
+                  antirracista, identidade, território e pertencimento.
+                </p>
+              </div>
+            </article>
+
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/eventos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver pagina de eventos"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/IMG_2746.jpg"
+                  data-full-src="./assets/eventos/IMG_2746.JPG"
+                  alt="Participantes em atividade cultural do NEABI"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2><b>Ações culturais</b></h2>
+                <p class="data">Arte, memória e resistência</p>
+                <p>
+                  Atividades culturais que fortalecem a presença negra no espaço
+                  universitário, valorizando saberes, expressões artísticas e
+                  práticas coletivas de resistência.
+                </p>
+              </div>
+            </article>
+
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/template_quem_somos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Conhecer o projeto"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/IMG_2710.jpg"
+                  data-full-src="./assets/eventos/IMG_2710.JPG"
+                  alt="Registro de encontro e integração comunitária"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2><b>Integração com a comunidade</b></h2>
+                <p class="data">Universidade e território</p>
+                <p>
+                  Iniciativas que conectam o campus às comunidades da região,
+                  promovendo escuta, troca de experiências e construção coletiva
+                  de ações afirmativas.
+                </p>
+              </div>
+            </article>
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/eventos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver pagina de oficinas e vivencias"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/IMG_2703.jpg"
+                  data-full-src="./assets/eventos/IMG_2703.JPG"
+                  alt="Participantes em oficina e vivencia educativa do NEABI"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2><b>Oficinas e vivencias</b></h2>
+                <p class="data">Praticas educativas</p>
+                <p>
+                  Atividades participativas que articulam saberes academicos,
+                  culturais e comunitarios, criando experiencias de aprendizagem
+                  voltadas a diversidade, a memoria e a educacao antirracista.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="atividades-destaque-texto">
+          <h2>Artes produzidas durante a VII Semana Negras Raízes 2025</h2>
+          <p>
+            Com o tema “Quilombo Urbano, Resistir para Existir”, a VII Semana
+            Negras Raízes 2025 foi realizada na UTFPR – Câmpus Cornélio
+            Procópio, entre os dias 17 e 19 de novembro de 2025.
+          </p>
+        </div>
+
+        <div class="cards-atividades-destaque">
+          <article
+            class="cards-atividades"
+            data-card-link="./pages/eventos.html"
+            role="link"
+            tabindex="0"
+            aria-label="Ver evento Raizes Indigenas"
+          >
+            <div class="container-zoom">
+              <div class="card-imagem">
+                <img
+                  src="./assets/optimized/IMG_0260-1.jpg"
+                  data-full-src="./assets/eventos/IMG_0260 (1).jpg"
+                  alt="Roda de Capoeira Angola e Samba Rural"
+                  loading="lazy"
+                  decoding="async"
+                  class="img-zoom"
+                />
+                <div class="segunda-img"></div>
+              </div>
+            </div>
+
+            <div class="card_conteudo-atividades">
+              <h2>
+                <b>Raízes Indígenas: Natureza, Identidade e Resistência </b>
+              </h2>
+              <p class="data">20 de novembro de 2025</p>
+              <p>
+                Durante a VII Semana Negras Raízes 2025, realizada na UTFPR –
+                Câmpus Cornélio Procópio, a equipe de grafite Kepstyle, da
+                região de Londrina–PR, participou das atividades culturais do
+                evento. A pintura contou com a atuação do artista Huggo Rocha, a
+                convite do coletivo Ubuntu Negras Raízes, transformando o espaço
+                universitário por meio da arte urbana e da valorização da
+                cultura negra.
+              </p>
+            </div>
+          </article>
+
+          <article
+            class="cards-atividades"
+            data-card-link="./pages/eventos.html"
+            role="link"
+            tabindex="0"
+            aria-label="Ver evento Geracoes Negras"
+          >
+            <div class="card-imagem-second">
+              <img
+                src="./assets/optimized/IMG_0247.jpg"
+                data-full-src="./assets/eventos/IMG_0247.jpg"
+                alt="Roda de conversa Quilombo Urbano"
+                class="img-zoom"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+
+            <div class="card_conteudo-atividades">
+              <h2>
+                <b>Gerações Negras: Ancestralidade, Sabedoria e Força </b>
+              </h2>
+              <p class="data">20 de novembro de 2025</p>
+              <p>
+                A segunda pintura registra a obra realizada pelo artista Carrão,
+                também integrante da intervenção artística promovida durante a
+                VII Semana Negras Raízes 2025. A pintura, feita na UTFPR –
+                Câmpus Cornélio Procópio, teve como tema as “gerações”,
+                representando a criança, o homem negro mais velho e a mulher
+                preta como símbolos de ancestralidade, sabedoria, força e
+                resistência.
+              </p>
+            </div>
+          </article>
+        </div>
+
+        <div class="eventos-semana-raizes-negras">
+          <h2 class="eventos-semana-raizes-negras-titulo">
+            Programação e ações realizadas na VI Semana Negras Raízes
+          </h2>
+
+          <p class="eventos-semana-raizes-negras-descricao">
+            A VII Semana Negras Raízes teve como objetivo fortalecer e propagar
+            a cultura afro-brasileira dentro e fora da UTFPR, aproximando
+            estudantes, professores e moradores da região por meio de atividades
+            culturais, educativas e de troca de vivências. O evento promoveu
+            reflexões sobre ancestralidade, resistência, identidade e educação
+            antirracista, reafirmando o compromisso da universidade com a
+            valorização da diversidade e a construção de uma sociedade mais
+            justa e plural.
+          </p>
+
+          <div class="container-cards-eventos">
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/eventos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver evento Atividade com as Criancas da Comunidade"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/img-crianca-roda-capoeiara.jpg"
+                  data-full-src="./assets/eventos/img-crianca-roda-capoeiara.jpg"
+                  alt="Atividade com crianças da comunidade"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2><b>Atividade com as Crianças da Comunidade</b></h2>
+                <p class="data">17 de novembro de 2025</p>
+                <p>
+                  As crianças participaram de uma roda de Capoeira Angola com
+                  músicas lúdicas ligadas à infância. Depois, assistiram a um
+                  curta sobre autoestima e cuidado com os cabelos das crianças
+                  negras, produziram desenhos e compartilharam um lanche.
+                </p>
+              </div>
+            </article>
+
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/eventos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver evento sobre autoestima e cuidado com os cabelos"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/IMG_2703.jpg"
+                  data-full-src="./assets/eventos/IMG_2703.JPG"
+                  alt="Oficina de SCRUM com as Meninas Digitais"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2>
+                  <b
+                    >Curta sobre autoestima e cuidado com os cabelos das
+                    crianças negras.</b
+                  >
+                </h2>
+                <p class="data">17 de novembro de 2025</p>
+                <p>
+                  Em seguida, o grupo assistiu a um curta sobre autoestima e
+                  cuidado com os cabelos das crianças negras. Depois do filme,
+                  foram disponibilizados materiais de desenho para que as
+                  crianças ilustrassem algo que tinham visto. As produções foram
+                  fotografadas, houve um momento de lanche e, ao final, todas as
+                  crianças foram acompanhadas até o portão.
+                </p>
+              </div>
+            </article>
+
+            <article
+              class="cards-atividades-semana-raizes-negras"
+              data-card-link="./pages/eventos.html"
+              role="link"
+              tabindex="0"
+              aria-label="Ver evento Roda de Conversa Quilombo Urbano"
+            >
+              <div class="card-imagem-semana-raizes-negras">
+                <img
+                  src="./assets/optimized/IMG_2651.jpg"
+                  data-full-src="./assets/eventos/IMG_2651.JPG"
+                  alt="Encerramento da VII Semana Negras Raízes"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+
+              <div class="card_conteudo-atividades-semana-raizes-negras">
+                <h2>
+                  <b
+                    >Roda de Conversa - “Quilombo Urbano: Resistir para Existir”
+                  </b>
+                </h2>
+                <p class="data">17 de novembro de 2025</p>
+                <p>
+                  Também aconteceu uma roda de conversa sobre resistência
+                  urbana, quilombos, favelas e outras comunidades que surgiram
+                  como resposta às desigualdades raciais e sociais no Brasil. O
+                  encontro teve um formato mais intimista, permitindo trocas
+                  reais, relatos pessoais e reflexões sobre identidade,
+                  território, pertencimento e resistência.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="noticia-cta" id="contato">
+        <div>
+          <p class="noticia-editoria-contato">Contato</p>
+          <h2>Tem uma pauta, acervo ou parceria para compartilhar?</h2>
+          <p>
+            Use esta chamada para orientar envio de sugestoes, materiais e
+            propostas para a equipe.
+          </p>
+        </div>
+        <a class="card-botao" href="mailto:contato@mulheresextraordinarias.com"
+          >Falar com a equipe</a
+        >
+      </section>
+    </main>
+
+    <script src="./scripts/mulheres.js"></script>
+    <script src="./scripts/carrosel.js"></script>
+    <script src="./scripts/animacoes.js"></script>
+    <script src="./scripts/transicao.js"></script>
+    <script src="./scripts/galeria_lightbox.js"></script>
+  </body>
+</html>

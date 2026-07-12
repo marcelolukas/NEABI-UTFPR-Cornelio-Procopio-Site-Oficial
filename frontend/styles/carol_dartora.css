@@ -1,0 +1,881 @@
+/* ========================================
+   ESTILOS - PÁGINA CAROL DARTORA
+   DESIGN MINIMALISTA E INSTITUCIONAL
+   ======================================== */
+
+:root {
+  --primary-color: #c11f26;
+  --secondary-color: #0f6b37;
+  --dark-bg: #1a1a1a;
+  --light-text: black;
+  --accent-color: goldenrod;
+}
+
+/* ========================================
+   LAYOUT GERAL
+   ======================================== */
+body {
+  background:#D13A35;
+}
+.carol-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #8f131a;
+}
+
+/* ========================================
+   HERO SECTION
+   ======================================== */
+
+.carol-hero {
+  position: relative;
+  height: clamp(260px, 45vw, 520px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.carol-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="10" cy="10" r="1" fill="rgba(255,255,255,0.1)"/></svg>');
+  opacity: 0.2;
+}
+
+.carol-imagem-hero {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.carol-imagem-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: var(--light-text);
+  max-width: 800px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 16px;
+}
+
+.hero-content h1 {
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  margin: 1px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.hero-desc {
+  font-size: 1.1rem;
+  margin-bottom: clamp(12px, 8vw, 48px);
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+/* ========================================
+   SEÇÃO APRESENTAÇÃO
+   ======================================== */
+
+.carol-apresentacao {
+  padding: clamp(24px, 4vw, 40px);
+  margin: 40px auto;
+  background: rgba(250, 244, 225, 0.95);
+  width: min(100%, 1200px);
+  border-radius: 16px;
+  min-height: 620px;
+  height: auto;
+  box-shadow: 0 18px 32px rgba(0, 0, 0, 0.12);
+}
+
+.carol-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+}
+
+.carol-apresentacao .carol-container {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.95fr) minmax(360px, 1.05fr);
+  gap: clamp(24px, 4vw, 40px);
+}
+
+.carol-imagem-container {
+  position: relative;
+  background-color: rgba(250, 244, 225, 0.95);
+  border: 1px solid rgba(23, 21, 18, 0.08);
+  width: min(100%, 520px);
+  aspect-ratio: 3 / 4;
+  border-radius: 14px;
+  justify-self: center;
+}
+
+.carol-imagem {
+  position: relative;
+  z-index: 2;
+}
+
+.carol-imagem img {
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+  display: block;
+  padding: 4px;
+  margin: 0px;
+}
+
+/* ========================================
+   REDES SOCIAIS AO LADO DA IMAGEM
+   ======================================== */
+
+.carol-redes-sociais {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 24px;
+  padding: 8px;
+}
+
+.carol-redes-sociais-title {
+  margin: 0px;
+  padding: 0px;
+  color: black;
+  font-size: 17px;
+}
+.social-link {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  padding: 14px 20px;
+  background-color: #0f6b37;
+  border: 2px solid rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: #433328;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  transform: translateX(4px);
+}
+
+.social-link i {
+  font-size: 1.3rem;
+  min-width: 30px;
+}
+
+.social-link.instagram {
+  color: whitesmoke;
+}
+
+.social-link.instagram:hover {
+  color: #e4405f;
+}
+
+.social-link.twitter {
+  color: whitesmoke;
+}
+
+.social-link.twitter:hover {
+  color: #1d9bf0;
+}
+
+.social-link.facebook {
+  color: whitesmoke;
+}
+
+.social-link.facebook:hover {
+  color: #1877f2;
+}
+
+/* TEXTO LATERAL */
+
+.carol-texto {
+  width: 100%;
+  max-width: 740px;
+}
+.carol-texto h2 {
+  color: var(--light-text);
+  font-size: 2rem;
+  margin: 0 0 2px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.carol-texto p {
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 1rem;
+  line-height: 1.8;
+  margin: 0 0 8px;
+}
+
+.carol-texto p strong {
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+/* INFO CARDS */
+
+.carol-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.info-card {
+  background: rgba(250, 244, 225, 0.95);
+  border: 1px solid rgba(23, 21, 18, 0.08);
+  border-radius: 6px;
+  padding: 10px;
+  text-align: center;
+  width: min(100%, 275px);
+  margin: 0 auto;
+}
+
+.info-card i {
+  font-size: 2rem;
+  color: var(--accent-color);
+  margin-top: 12px;
+  justify-content: baseline;
+}
+
+.info-card h4 {
+  color: #171512;
+  font-size: 1.05rem;
+  margin: 0 0 8px;
+  font-weight: 700;
+  justify-content: baseline;
+  text-align: justify;
+  line-height: 1.6;
+  hyphens: auto;
+}
+
+.info-card p {
+  color: #433328;
+  font-size: 0.9rem;
+  margin: 0;
+  text-align: justify;
+  line-height: 1.6;
+  hyphens: auto;
+}
+
+/* ========================================
+   SEÇÃO IMPACTO
+   ======================================== */
+
+.carol-impacto {
+  padding: 60px 20px;
+  background: linear-gradient(
+    
+  );
+  background-color: whitesmoke;
+  margin: 95px;
+}
+
+.secao-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.secao-header h2 {
+  color: var(--light-text);
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  margin: 0 0 12px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.secao-subtitulo {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1.05rem;
+  margin: 0;
+  font-weight: 400;
+}
+
+.impacto-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 28px;
+}
+
+.card-impacto {
+  background: linear-gradient(
+    135deg,
+    rgba(193, 31, 38, 0.08),
+    rgba(15, 107, 55, 0.08)
+  );
+  border: 1px solid rgba(193, 31, 38, 0.15);
+  border-radius: 4px;
+  padding: 32px 24px;
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-impacto::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--primary-color),
+    var(--secondary-color)
+  );
+}
+
+.card-impacto:hover {
+  transform: translateY(-8px);
+  background: linear-gradient(
+    135deg,
+    rgba(193, 31, 38, 0.15),
+    rgba(15, 107, 55, 0.12)
+  );
+  border-color: var(--primary-color);
+  box-shadow: 0 12px 30px rgba(193, 31, 38, 0.2);
+}
+
+.card-icon {
+  font-size: 2.8rem;
+  color: var(--accent-color);
+  margin-bottom: 16px;
+}
+
+.card-impacto h3 {
+  color: var(--light-text);
+  font-size: 1.2rem;
+  margin: 0 0 12px;
+  font-weight: 700;
+}
+
+.card-impacto p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ========================================
+   SEÇÃO VALORES
+   ======================================== */
+
+
+
+.valores-lista {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+}
+
+.valor-item {
+  position: relative;
+  padding-left: 60px;
+}
+
+.valor-numero {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(
+    135deg,
+    rgba(193, 31, 38, 0.15),
+    rgba(15, 107, 55, 0.12)
+  );
+  border: 2px solid rgba(193, 31, 38, 0.2);
+  border-radius: 4px;
+  color: var(--accent-color);
+  font-weight: 800;
+  font-size: 1.3rem;
+}
+
+.valor-item h3 {
+  color: var(--light-text);
+  font-size: 1.15rem;
+  margin: 0 0 10px;
+  font-weight: 700;
+}
+
+.valor-item p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ========================================
+   SEÇÃO RECURSO/EMENDA
+   ======================================== */
+
+.carol-recurso {
+  padding: 60px 20px;
+  background: linear-gradient(
+    135deg,
+    rgba(193, 31, 38, 0.08),
+    rgba(15, 107, 55, 0.08)
+  );
+  border-top: 1px solid rgba(193, 31, 38, 0.15);
+}
+
+.recurso-box {
+  background: linear-gradient(
+    135deg,
+    rgba(193, 31, 38, 0.1),
+    rgba(15, 107, 55, 0.09)
+  );
+  border-left: 5px solid var(--primary-color);
+  border: 1px solid rgba(193, 31, 38, 0.15);
+  border-left: 5px solid var(--primary-color);
+  border-radius: 4px;
+  padding: 40px;
+}
+
+.recurso-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.recurso-header i {
+  font-size: 2rem;
+  color: var(--accent-color);
+}
+
+.recurso-header h2 {
+  color: var(--light-text);
+  font-size: 1.8rem;
+  margin: 0;
+  font-weight: 800;
+}
+
+.recurso-box p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+  line-height: 1.8;
+  margin: 0 0 16px;
+}
+
+.recurso-box p:last-of-type {
+  margin-bottom: 28px;
+}
+
+.recurso-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--primary-color);
+  color: white;
+  padding: 14px 32px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+.recurso-btn:hover {
+  background: var(--secondary-color);
+  transform: translateX(4px);
+}
+
+/* ========================================
+   SEÇÃO CTA FINAL
+   ======================================== */
+
+.carol-cta {
+  padding: 60px 20px;
+  border-top: 1px solid rgba(193, 31, 38, 0.15);
+}
+
+.cta-content {
+  text-align: center;
+}
+
+.cta-content h2 {
+  color: var(--light-text);
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  margin: 0 0 12px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.cta-content p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.05rem;
+  margin: 0 0 32px;
+  line-height: 1.6;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--primary-color);
+  color: white;
+  padding: 14px 32px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background: var(--secondary-color);
+  transform: translateX(4px);
+  box-shadow: 0 6px 16px rgba(193, 31, 38, 0.3);
+}
+
+/* ========================================
+   RESPONSIVIDADE
+   ======================================== */
+
+@media (max-width: 768px) {
+  .carol-hero {
+    padding: 30px 16px;
+  }
+
+  .carol-apresentacao .carol-container {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-content h1 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    color: whitesmoke;
+  }
+
+  .hero-desc {
+    font-size: 0.95rem;
+  }
+
+  .carol-apresentacao .carol-container {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .carol-apresentacao {
+    min-height: 0;
+    margin: 24px 16px;
+  }
+
+  .carol-texto h2 {
+    font-size: 1.6rem;
+    color: black;
+  }
+
+  .carol-texto p {
+    font-size: 0.95rem;
+  }
+
+  .carol-redes-sociais {
+    gap: 12px;
+    margin-top: 20px;
+  }
+
+  .social-link {
+    padding: 12px 16px;
+    font-size: 0.9rem;
+  }
+
+  .social-link i {
+    font-size: 1.1rem;
+  }
+
+  .carol-info-grid {
+    gap: 16px;
+  }
+
+  .carol-impacto {
+    padding: 40px 16px;
+  }
+
+  .secao-header {
+    margin-bottom: 40px;
+  }
+
+  .secao-header h2 {
+    font-size: 1.6rem;
+  }
+
+  .impacto-cards {
+    gap: 20px;
+  }
+
+  .card-impacto {
+    padding: 24px 18px;
+  }
+
+  .card-icon {
+    font-size: 2.2rem;
+  }
+
+  .card-impacto h3 {
+    font-size: 1.05rem;
+  }
+
+  .carol-valores {
+    padding: 40px 16px;
+  }
+
+  .valores-lista {
+    gap: 24px;
+  }
+
+  .carol-recurso {
+    padding: 40px 16px;
+  }
+
+  .recurso-box {
+    padding: 28px 20px;
+  }
+
+  .recurso-header i {
+    font-size: 1.6rem;
+  }
+
+  .recurso-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .carol-cta {
+    padding: 40px 16px;
+  }
+
+  .cta-content h2 {
+    font-size: 1.6rem;
+  }
+
+  .cta-content p {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .carol-hero {
+    padding: 20px 12px;
+  }
+
+  .hero-badge {
+    font-size: 0.75rem;
+    padding: 6px 12px;
+  }
+
+  .hero-content h1 {
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+  }
+
+  .hero-desc {
+    font-size: 0.85rem;
+  }
+
+  .carol-apresentacao {
+    padding: 24px 12px;
+    margin: 16px 12px;
+  }
+
+  .carol-texto h2 {
+    font-size: 1.3rem;
+    margin-bottom: 16px;
+  }
+
+  .carol-texto p {
+    font-size: 0.85rem;
+  }
+
+  .carol-redes-sociais {
+    gap: 10px;
+  }
+
+  .social-link {
+    padding: 10px 14px;
+    font-size: 0.8rem;
+  }
+
+  .social-link i {
+    font-size: 0.95rem;
+  }
+
+  .carol-info-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .info-card {
+    padding: 16px;
+  }
+
+  .info-card i {
+    font-size: 1.6rem;
+  }
+
+  .info-card h4 {
+    font-size: 0.95rem;
+  }
+
+  .info-card p {
+    font-size: 0.8rem;
+  }
+
+  .carol-impacto {
+    padding: 30px 12px;
+  }
+
+  .secao-header {
+    margin-bottom: 30px;
+  }
+
+  .secao-header h2 {
+    font-size: 1.3rem;
+  }
+
+  .secao-subtitulo {
+    font-size: 0.9rem;
+  }
+
+  .impacto-cards {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .card-impacto {
+    padding: 20px 16px;
+  }
+
+  .card-icon {
+    font-size: 1.8rem;
+  }
+
+  .card-impacto h3 {
+    font-size: 0.95rem;
+  }
+
+  .card-impacto p {
+    font-size: 0.8rem;
+  }
+
+  .carol-valores {
+    padding: 30px 12px;
+  }
+
+  .valores-lista {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .valor-numero {
+    width: 45px;
+    height: 45px;
+    font-size: 1.1rem;
+  }
+
+  .valor-item {
+    padding-left: 55px;
+  }
+
+  .valor-item h3 {
+    font-size: 1rem;
+  }
+
+  .valor-item p {
+    font-size: 0.8rem;
+  }
+
+  .carol-recurso {
+    padding: 30px 12px;
+  }
+
+  .recurso-box {
+    padding: 20px 16px;
+  }
+
+  .recurso-header {
+    margin-bottom: 16px;
+  }
+
+  .recurso-header i {
+    font-size: 1.4rem;
+  }
+
+  .recurso-header h2 {
+    font-size: 1.2rem;
+  }
+
+  .recurso-box p {
+    font-size: 0.85rem;
+    margin-bottom: 12px;
+  }
+
+  .recurso-btn {
+    padding: 10px 20px;
+    font-size: 0.8rem;
+  }
+
+  .carol-cta {
+    padding: 30px 12px;
+  }
+
+  .cta-content h2 {
+    font-size: 1.3rem;
+  }
+
+  .cta-content p {
+    font-size: 0.85rem;
+    margin-bottom: 20px;
+  }
+
+  .cta-button {
+    padding: 10px 20px;
+    font-size: 0.8rem;
+  }
+}

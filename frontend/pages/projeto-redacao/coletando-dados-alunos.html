@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coletando Dados Alunos</title>
+    <link rel="stylesheet" href="../../styles/global.css" />
+    <link rel="stylesheet" href="../../styles/transicao.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style-redacao.css" />
+  </head>
+
+  <body>
+    <div class="div_transicao"></div>
+
+    <header class="cabecalho">
+      <div class="identidade_do_site">
+        <img
+          class="logo_do_site"
+          src="../../assets/site/logoDoSite.png"
+          alt="Logo do Site"
+        />
+      </div>
+
+      <nav class="navegacao">
+        <ul class="menu-pagina-inicial">
+          <li><a href="../../index.html">Início</a></li>
+          <li><a href="../template_quem_somos.html">Quem Somos</a></li>
+          <li><a href="../ver_todas.html">Projetos</a></li>
+          <li><a href="../eventos.html">Eventos</a></li>
+        </ul>
+      </nav>
+
+      <a href="#" class="botao-contato">
+        <span class="texto-botao">Fale Conosco</span>
+        <video
+          class="icone-punho"
+          src="../../assets/ui/animacao_punho.webm"
+          muted
+          playsinline
+          preload="auto"
+        ></video>
+      </a>
+    </header>
+
+    <main class="pagina-formulario">
+      <section class="container-formulario">
+        <section class="header">
+          <h2>Conte um pouco sobre você!</h2>
+          <p>
+            Queremos conhecer você melhor para apresentar uma mulher que
+            compartilha sonhos e experiências parecidas com as suas.
+          </p>
+        </section>
+
+        <form id="formulario" class="form">
+          <div class="form-content">
+            <div class="campo-formulario campo-curto">
+              <label for="nome-aluno">Qual é o seu nome?</label>
+              <input
+                type="text"
+                id="nome-aluno"
+                name="nome"
+                required
+                placeholder="Digite seu nome"
+              />
+            </div>
+
+            <div class="campo-formulario campo-curto">
+              <label for="como-descreveria">
+                Como você se descreveria em 3 palavras?
+              </label>
+              <input
+                type="text"
+                id="como-descreveria"
+                name="como-se-descreveria"
+                required
+                placeholder="Ex.: criativo, divertido, esforçado"
+              />
+            </div>
+
+            <div class="campo-formulario">
+              <label for="atividade-preferida">
+                O que você mais gosta de fazer no seu tempo livre?
+              </label>
+              <textarea
+                id="atividade-preferida"
+                name="atividade-preferida"
+                required
+                placeholder="Conte uma atividade que você gosta de fazer"
+              ></textarea>
+            </div>
+
+            <div class="campo-formulario">
+              <label for="pessoa-inspira">
+                Quem é uma pessoa que te inspira? Por quê?
+              </label>
+              <textarea
+                id="pessoa-inspira"
+                name="pessoa-inspira"
+                required
+                placeholder="Pode ser alguém da família, da escola, da comunidade ou da história"
+              ></textarea>
+            </div>
+
+            <div class="campo-formulario">
+              <label for="maior-sonho">Qual é o seu maior sonho?</label>
+              <textarea
+                id="maior-sonho"
+                name="maior-sonho"
+                required
+                placeholder="Escreva um sonho que você gostaria de realizar"
+              ></textarea>
+            </div>
+
+            <div class="campo-formulario">
+              <label for="o-que-gostaria-de-mudar">
+                O que você gostaria de mudar no mundo ou na sua comunidade?
+              </label>
+              <textarea
+                id="o-que-gostaria-de-mudar"
+                name="o-que-gostaria-de-mudar"
+                required
+                placeholder="Fale sobre uma mudança que você considera importante"
+              ></textarea>
+            </div>
+
+            <div class="acoes-formulario">
+              <button type="submit" class="botao-enviar">
+                <i class="fa-solid fa-paper-plane"></i>
+                Enviar respostas
+              </button>
+
+              <p class="envio-form-error">
+                Para enviar sua resposta, todos os campos devem ser preenchidos.
+              </p>
+            </div>
+          </div>
+        </form>
+      </section>
+    </main>
+
+
+    <script src="../projeto-redacao/formulario.js"></script>
+    <script src="../../scripts/transicao.js"></script>
+    <script src="../../scripts/animacoes.js"></script>
+  </body>
+</html>

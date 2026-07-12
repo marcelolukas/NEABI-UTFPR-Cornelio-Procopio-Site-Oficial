@@ -1,0 +1,240 @@
+/* Template de eventos alinhado ao visual do site */
+
+:root {
+  --primary: #c11f26;
+  --secondary: #0f6b37;
+  --surface: rgba(250, 244, 225, 0.95);
+  --text: #19130f;
+  --muted: rgba(25, 19, 15, 0.7);
+  --radius: 22px;
+}
+
+.eventos-template {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding-bottom: 40px;
+}
+
+.hero-evento {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin: 20px clamp(12px, 4vw, 40px);
+  padding: clamp(24px, 5vw, 48px);
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, rgba(193, 31, 38, 0.96), rgba(15, 107, 55, 0.85));
+  color: #fff;
+  align-items: center;
+  box-shadow: 0 24px 46px rgba(0, 0, 0, 0.15);
+}
+
+.hero-texto h1 {
+  margin: 6px 0 10px;
+  font-size: clamp(2.2rem, 3vw, 3.2rem);
+}
+
+.hero-desc {
+  margin: 0 0 14px;
+  line-height: 1.7;
+}
+
+.hero-badge {
+  display: inline-flex;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+}
+
+.hero-cta {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.hero-metas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.hero-metas strong {
+  display: block;
+  font-size: 1.1rem;
+}
+
+.hero-media img {
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.25);
+}
+
+.secao-header h2 {
+  margin: 0 0 6px;
+  font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+  color: var(--text);
+}
+
+.secao-subtitulo,
+.secao-header p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.cards-eventos,
+.programacao,
+.timeline-eventos,
+.cta-eventos {
+  margin: 0 clamp(12px, 4vw, 40px);
+}
+
+.grid-cards {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.card-evento {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 18px 18px 16px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 12px 26px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card-topo {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+}
+
+.data-badge,
+.local-badge {
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: rgba(193, 31, 38, 0.12);
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.local-badge.online {
+  background: rgba(15, 107, 55, 0.12);
+}
+
+.card-evento h3 {
+  margin: 4px 0;
+  color: var(--text);
+}
+
+.card-evento p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-top: 6px;
+  flex-wrap: wrap;
+}
+
+.card-footer .horario {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.programacao-grid {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.programacao-grid article {
+  background: var(--surface);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+}
+
+.timeline-eventos .linha-tempo {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.item-tempo {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 12px;
+  background: var(--surface);
+  border-radius: 16px;
+  padding: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
+}
+
+.item-tempo .ano {
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.item-tempo h4 {
+  margin: 0 0 4px;
+}
+
+.item-tempo a {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.cta-eventos {
+  margin-bottom: 32px;
+}
+
+.cta-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 18px;
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid rgba(25, 19, 15, 0.08);
+  border-top: 4px solid var(--primary);
+  border-radius: var(--radius);
+  box-shadow: 0 14px 26px rgba(0, 0, 0, 0.08);
+}
+
+.cta-label {
+  margin: 0;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .hero-evento {
+    margin: 12px;
+  }
+
+  .cta-box {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
