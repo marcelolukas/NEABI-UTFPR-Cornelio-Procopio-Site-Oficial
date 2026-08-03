@@ -52,6 +52,16 @@ body {
   background-image: inherit;
 }
 
+.trajetoria-hero.hero-bg-inline {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.trajetoria-hero.hero-bg-contain::before {
+  background-size: contain;
+}
+
 .trajetoria-hero.hero-imagem-limpa::before,
 .trajetoria-hero.hero-imagem-limpa::after {
   display: none;
@@ -64,7 +74,12 @@ body {
   height: 100%;
   object-fit: cover;
   z-index: 1;
+  background-size: cover;
+  opacity: 0.48;
 }
+
+
+
 
 .trajetoria-hero.hero-imagem-limpa .hero-frase-destaque,
 .trajetoria-hero.hero-imagem-limpa .hero-frase-destaque::before,

@@ -1,0 +1,256 @@
+{
+  "id": "angela-davis",
+
+  "dadosBasicos": {
+    "nome": "Angela Davis",
+    "nomeCompleto": "Angela Yvonne Davis",
+    "grupo": "Negra",
+    "dataNascimento": "1944-01-26",
+    "localNascimento": "Birmingham, Alabama, Estados Unidos",
+    "nacionalidade": "Estadunidense",
+    "estadoAtual": "Viva",
+    "dataFalecimento": null
+  },
+
+  "ocupacoes": ["Professora", "Filósofa", "Escritora", "Ativista"],
+
+  "resumo": "Angela Davis é uma filósofa, professora, escritora e ativista estadunidense reconhecida mundialmente por sua atuação na luta contra o racismo, o sexismo, a desigualdade social e o encarceramento em massa. Tornou-se uma das principais referências do feminismo negro e dos direitos humanos.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: origens, formação e engajamento social",
+    "imagem": {
+      "creditos": "Funcrunch, via Wikimedia Commons (CC BY-SA 4.0)",
+      "url": "angela-davis-trajetoria.jpg"
+    },
+    "descricao": "Filha de professores e ativistas, Angela Davis cresceu em uma família que valorizava profundamente a educação, o pensamento crítico e o engajamento político. De origem afro-americana, sua infância foi marcada por um ambiente de resistência e conscientização, o que influenciou diretamente sua formação intelectual. Desde cedo, destacou-se nos estudos, ingressando em instituições de ensino de prestígio, onde aprofundou seus conhecimentos em filosofia e ciências sociais. Além disso, teve experiências acadêmicas no exterior, que ampliaram sua visão de mundo e contribuíram para o desenvolvimento de uma perspectiva crítica sobre questões sociais e políticas. Nos seus primeiros engajamentos, aproximou-se de movimentos estudantis e organizações políticas voltadas à luta contra o racismo e as desigualdades sociais. Ao longo de sua trajetória, realizou deslocamentos para diferentes cidades e países, buscando tanto formação acadêmica quanto participação ativa em causas sociais. Nesse percurso, enfrentou intensa vigilância, perseguições políticas e repressão por suas ideias e posicionamentos. Esses desafios fortalecem seu compromisso com a justiça social e os direitos humanos."
+  },
+
+  "perfil": {
+    "valores": ["Justiça", "Coragem", "Persistência", "Educação", "Igualdade"],
+    "caracteristicas": [
+      "Líder",
+      "Intelectual",
+      "Resiliente",
+      "Comunicadora",
+      "Pensadora crítica"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Educação",
+    "Filosofia",
+    "Política",
+    "História",
+    "Direitos Humanos",
+    "Movimentos Sociais"
+  ],
+
+  "causas": [
+    "Combate ao racismo",
+    "Igualdade racial",
+    "Direitos das mulheres",
+    "Sistema prisional",
+    "Justiça social",
+    "Educação",
+    "Liberdade",
+    "Solidariedade"
+  ],
+
+  "habilidades": ["Liderança", "Oratória", "Escrita", "Pesquisa", "Ensino"],
+
+  "tracosPersonalidade": [
+    "Curiosa",
+    "Questionadora",
+    "Corajosa",
+    "Persistente",
+    "Empática"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 10,
+    "lideranca": 9,
+    "justicaSocial": 10,
+    "arteECultura": 2,
+    "cienciaETecnologia": 3,
+    "esporte": 0,
+    "empreendedorismo": 1,
+    "comunidade": 9,
+    "direitosHumanos": 10,
+    "politica": 8,
+    "filosofia": 10,
+    "literatura": 8,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Angela Davis nasceu em 26 de janeiro de 1944, em Birmingham, Alabama, nos Estados Unidos, durante o período da segregação racial. Cresceu no bairro conhecido como 'Dynamite Hill', frequentemente alvo de atentados promovidos por grupos racistas contrários à integração racial. Ainda jovem, participou de um programa educacional que levou estudantes negros do sul segregado para Nova York, onde estudou na Elizabeth Irwin High School. Posteriormente, ingressou na Universidade Brandeis, graduando-se em Filosofia, e continuou sua formação acadêmica na Alemanha, aprofundando seus estudos em filosofia, teoria crítica e marxismo. Ao retornar aos Estados Unidos, iniciou sua carreira como professora universitária, dedicando-se ao ensino e à pesquisa em filosofia, feminismo, estudos afro-americanos e teoria política. Durante esse período, envolveu-se ativamente em movimentos sociais e organizações políticas, aproximando-se do Partido Comunista dos Estados Unidos e tornando-se uma importante voz na luta pelos direitos civis, pela igualdade racial, pela justiça social e pelos direitos das mulheres. Em 1970, foi incluída na lista dos mais procurados do FBI devido a um caso judicial de grande repercussão nacional. Após ser presa e julgada, foi absolvida em 1972, tornando-se símbolo internacional da luta por justiça. Ao longo de sua trajetória, publicou diversas obras fundamentais sobre racismo, feminismo, sistema prisional e desigualdade social, entre elas 'Women, Race & Class', consolidando-se como uma das intelectuais e ativistas mais influentes do século XX e do início do século XXI. Atualmente, permanece atuando como professora emérita, escritora e palestrante internacional, contribuindo para debates sobre democracia, direitos humanos, interseccionalidade, educação e transformação social.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1944",
+      "descricao": "Nasce em Birmingham, Alabama, nos Estados Unidos, em um contexto marcado pela segregação racial. Filha de professores e ativistas, cresce em um ambiente que valoriza a educação, a consciência política e o engajamento social desde a infância."
+    },
+    {
+      "ano": "Anos 1960",
+      "descricao": "Ingressa na Brandeis University, onde estuda filosofia. Nesse período, entra em contato com importantes correntes de pensamento crítico, desenvolvendo uma visão mais aprofundada sobre racismo, desigualdade social e estruturas de poder."
+    },
+    {
+      "ano": "1963-1965",
+      "descricao": "Realiza intercâmbio na Europa, passando pela França e pela Alemanha, onde estuda na Universidade de Frankfurt. Nesse período, aprofunda seus estudos em teoria crítica e marxismo, ampliando sua formação intelectual."
+    },
+    {
+      "ano": "Final dos anos 1960",
+      "descricao": "Retorna aos Estados Unidos e continua sua formação na University of California, San Diego, onde faz pós-graduação em filosofia. Torna-se professora universitária e passa a ganhar destaque por suas ideias e por sua militância política."
+    },
+    {
+      "ano": "1969-1972",
+      "descricao": "Leciona na UCLA, é afastada por suas ligações políticas e, posteriormente, acusada em um caso judicial de grande repercussão. É presa por cerca de 18 meses, período em que surge uma mobilização internacional por sua libertação. Em 1972, é julgada e absolvida, tornando-se símbolo da luta contra injustiças sociais."
+    },
+    {
+      "ano": "Décadas de 1970-1980",
+      "descricao": "Retoma sua carreira acadêmica e passa a lecionar em universidades, consolidando-se como professora e intelectual. Publica obras importantes sobre racismo, feminismo, desigualdade social e sistema prisional, além de atuar em movimentos sociais."
+    },
+    {
+      "ano": "Décadas de 1990-2000",
+      "descricao": "Amplia sua atuação internacional em debates sobre feminismo negro, direitos humanos, democracia e abolicionismo penal. Suas palestras e livros passam a circular mundialmente, fortalecendo sua presença como referência intelectual e política."
+    },
+    {
+      "ano": "Atualidade",
+      "descricao": "Permanece ativa em debates globais sobre racismo, feminismo, sistema prisional e direitos humanos. Continua participando de conferências, escrevendo livros e inspirando movimentos sociais em diferentes países."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Coragem intelectual, compromisso político e impacto coletivo.",
+    "descricao": "Angela Davis é uma mulher extraordinária porque transformou sua trajetória pessoal em uma luta coletiva por justiça, liberdade e igualdade. Sua atuação articula pensamento crítico, produção acadêmica e engajamento político de forma singular, tornando sua voz uma referência fundamental nos debates sobre racismo, feminismo, direitos civis e sistema prisional. Mesmo diante de perseguições, prisão e tentativas de silenciamento, manteve-se firme em seu compromisso com a transformação social. Sua trajetória revela resistência, coragem e coerência diante das injustiças.",
+    "imagem": {
+      "creditos": "Philippe Halsman, 1974 - via Wikimedia Commons (domínio público)",
+      "url": "angela-davis-extraordinaria.jpg"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "Angela Davis: An Autobiography",
+      "ano": 1974,
+      "descricao": "Relato autobiográfico sobre sua trajetória pessoal e política."
+    },
+    {
+      "titulo": "Women, Race & Class",
+      "ano": 1981,
+      "descricao": "Obra que analisa as relações entre raça, gênero e classe."
+    },
+    {
+      "titulo": "Are Prisons Obsolete?",
+      "ano": 2003,
+      "descricao": "Discussão sobre o encarceramento em massa e alternativas ao sistema prisional."
+    }
+  ],
+
+  "movimentos": [
+    "Movimento dos Direitos Civis",
+    "Movimento Negro",
+    "Feminismo Negro",
+    "Partido Comunista dos Estados Unidos",
+    "Abolicionismo Penal"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre arte, política, educação e comunidades",
+    "descricao": "O legado de Angela Davis continua a inspirar movimentos sociais e novas lideranças ao redor do mundo por sua defesa da justiça, da igualdade e da transformação social. Sua trajetória demonstra que o pensamento crítico, aliado à ação política, tem o poder de questionar estruturas profundamente enraizadas, como o racismo e as desigualdades sociais. Ao longo das décadas, suas ideias fortaleceram as lutas por direitos civis, influenciaram o feminismo negro e ampliaram os debates sobre o sistema prisional e seus impactos na sociedade. Sua atuação também evidencia a importância da educação e da organização coletiva como caminhos essenciais para a mudança social. Hoje, jovens ativistas encontram em Angela Davis uma referência de coragem intelectual, resistência e compromisso com causas coletivas."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Cartaz histórico do período em que Angela Davis foi procurada pelo FBI, símbolo da perseguição política nos Estados Unidos na década de 1970.",
+      "creditos": "Federal Bureau of Investigation, 1970 - via Wikimedia Commons (domínio público)",
+      "imagem": "angela-davis-fbi.jpg"
+    },
+    {
+      "descricao": "Conferência do Comitê para Libertar Angela Davis no Centro de Educação Marxista, em Nova York, em 1971, com Louise Thompson Patterson, Fania Davis e Felicia Coward.",
+      "creditos": "Bill Andrews, 1971 - via Wikimedia Commons (domínio público)",
+      "imagem": "angela-davis-comite-1971.jpg"
+    },
+    {
+      "descricao": "Angela Davis participa de manifestação em apoio aos Soledad Brothers, destacando sua atuação na luta por justiça social.",
+      "creditos": "Ray Graham, 1970 - via Wikimedia Commons (CC BY 4.0)",
+      "imagem": "angela-davis-soledad-brothers.jpg"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Livro",
+      "titulo": "Mulheres, Raça e Classe",
+      "autor": "Angela Davis",
+      "descricao": "Obra clássica que analisa a relação entre racismo, feminismo e desigualdade social ao longo da história.",
+      "link": "https://www.amazon.com.br/Mulheres-Ra%C3%A7a-Classe-Angela-Davis/dp/8575595032"
+    },
+    {
+      "tipo": "Livro",
+      "titulo": "Mulheres, Cultura e Política",
+      "autor": "Angela Davis",
+      "descricao": "Coletânea de ensaios que discutem feminismo, cultura e movimentos sociais.",
+      "link": "https://www.amazon.com.br/Mulheres-Cultura-Pol%C3%ADtica-Angela-Davis/dp/8575596217"
+    },
+    {
+      "tipo": "Livro",
+      "titulo": "A Liberdade é uma Luta Constante",
+      "autor": "Angela Davis",
+      "descricao": "Reflexões sobre direitos humanos, ativismo e a luta global por liberdade.",
+      "link": "https://www.amazon.com.br/Liberdade-%C3%A9-uma-Luta-Constante/dp/8575595431"
+    },
+    {
+      "tipo": "Artigo / Enciclopédia",
+      "titulo": "Encyclopaedia Britannica - Angela Davis",
+      "descricao": "Biografia completa com contexto histórico e acadêmico da trajetória de Angela Davis.",
+      "link": "https://www.britannica.com/biography/Angela-Davis"
+    },
+    {
+      "tipo": "Artigo / Biografia",
+      "titulo": "Biography.com - Angela Davis",
+      "descricao": "Resumo acessível sobre a vida, o ativismo e o impacto político de Angela Davis.",
+      "link": "https://www.biography.com/activist/angela-davis"
+    },
+    {
+      "tipo": "Artigo / Enciclopédia",
+      "titulo": "Wikipedia - Angela Davis",
+      "descricao": "Artigo com visão geral sobre sua vida, carreira acadêmica e atuação política.",
+      "link": "https://en.wikipedia.org/wiki/Angela_Davis"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é um assistente educacional que interpreta a perspectiva pública de Angela Davis com base em seus livros, palestras, entrevistas e ideias conhecidas. Não afirme ser a pessoa real; deixe claro que está representando sua visão de mundo para fins educativos.",
+    "tomDeVoz": [
+      "Educador",
+      "Acolhedor",
+      "Reflexivo",
+      "Crítico",
+      "Respeitoso",
+      "Didático"
+    ],
+    "temasChave": [
+      "Direitos humanos",
+      "Combate ao racismo",
+      "Feminismo negro",
+      "Igualdade racial",
+      "Justiça social",
+      "Educação libertadora",
+      "Sistema prisional e abolicionismo penal",
+      "Interseccionalidade (raça, gênero e classe)"
+    ],
+    "regrasEstritas": [
+      "Responda sempre utilizando a primeira pessoa ('Eu acredito...', 'Em minha trajetória...').",
+      "Incentive o pensamento crítico do estudante em vez de apenas entregar respostas prontas.",
+      "Utilize exemplos históricos e teóricos fundamentados sempre que for útil.",
+      "Se uma pergunta estiver fora do seu campo de conhecimento ou atuação, informe educadamente que o assunto não faz parte da sua linha de pesquisa/militância e redirecione para uma reflexão pedagógica.",
+      "Nunca invente fatos, opiniões, citações ou acontecimentos atribuídos a Angela Davis sem base histórica comprovada.",
+      "Caso não haja informações suficientes para responder com certeza, declare abertamente a ausência de dados confiáveis."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que a educação é importante?",
+      "resposta": "Eu acredito que a educação é uma das ferramentas mais poderosas para transformar a sociedade. Ela não serve apenas para transmitir informações, mas para desenvolver nossa capacidade de questionar, compreender as desigualdades e imaginar formas mais justas de convivência. Quando aprendemos a pensar criticamente, passamos a enxergar como estruturas sociais influenciam nossas vidas e como podemos participar da construção de mudanças coletivas."
+    }
+  }
+}

@@ -19,6 +19,29 @@ body {
   margin: 40px auto 64px;
 }
 
+.container-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tag-selecionavel {
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+
+/* Quando o aluno clicar, o JavaScript vai adicionar essa classe 'ativa' */
+.tag-selecionavel.ativa {
+  background-color: #4CAF50; /* Uma cor bem viva, como verde ou a cor principal do seu site */
+  color: white;
+  border-color: #4CAF50;
+}
 .container-formulario {
   overflow: hidden;
   background: #faf4e1;

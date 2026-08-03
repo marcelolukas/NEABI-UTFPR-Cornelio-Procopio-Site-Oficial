@@ -56,8 +56,9 @@
           </p>
         </section>
 
-        <form id="formulario" class="form">
+       <form id="formulario" class="form">
           <div class="form-content">
+            
             <div class="campo-formulario campo-curto">
               <label for="nome-aluno">Qual é o seu nome?</label>
               <input
@@ -69,75 +70,28 @@
               />
             </div>
 
-            <div class="campo-formulario campo-curto">
-              <label for="como-descreveria">
-                Como você se descreveria em 3 palavras?
-              </label>
-              <input
-                type="text"
-                id="como-descreveria"
-                name="como-se-descreveria"
-                required
-                placeholder="Ex.: criativo, divertido, esforçado"
-              />
-            </div>
-
             <div class="campo-formulario">
-              <label for="atividade-preferida">
-                O que você mais gosta de fazer no seu tempo livre?
-              </label>
-              <textarea
-                id="atividade-preferida"
-                name="atividade-preferida"
-                required
-                placeholder="Conte uma atividade que você gosta de fazer"
-              ></textarea>
-            </div>
-
-            <div class="campo-formulario">
-              <label for="pessoa-inspira">
-                Quem é uma pessoa que te inspira? Por quê?
-              </label>
-              <textarea
-                id="pessoa-inspira"
-                name="pessoa-inspira"
-                required
-                placeholder="Pode ser alguém da família, da escola, da comunidade ou da história"
-              ></textarea>
-            </div>
-
-            <div class="campo-formulario">
-              <label for="maior-sonho">Qual é o seu maior sonho?</label>
-              <textarea
-                id="maior-sonho"
-                name="maior-sonho"
-                required
-                placeholder="Escreva um sonho que você gostaria de realizar"
-              ></textarea>
-            </div>
-
-            <div class="campo-formulario">
-              <label for="o-que-gostaria-de-mudar">
-                O que você gostaria de mudar no mundo ou na sua comunidade?
-              </label>
-              <textarea
-                id="o-que-gostaria-de-mudar"
-                name="o-que-gostaria-de-mudar"
-                required
-                placeholder="Fale sobre uma mudança que você considera importante"
-              ></textarea>
+              <label>Selecione todas as opções que combinam com você:</label>
+              
+              <div class="container-tags">
+                <button type="button" class="tag-selecionavel" data-value="comunicacao">🗣️ Gosto de falar e debater</button>
+                <button type="button" class="tag-selecionavel" data-value="ciencia">🔬 Adoro ciências e experimentos</button>
+                <button type="button" class="tag-selecionavel" data-value="lideranca">👑 Gosto de liderar grupos</button>
+                <button type="button" class="tag-selecionavel" data-value="arte">🎨 Sou criativo(a) e gosto de arte</button>
+                <button type="button" class="tag-selecionavel" data-value="justica">⚖️ Luto contra injustiças</button>
+                <button type="button" class="tag-selecionavel" data-value="natureza">🌱 Gosto de cuidar do meio ambiente</button>
+                <button type="button" class="tag-selecionavel" data-value="tecnologia">💻 Curto tecnologia e computadores</button>
+                <button type="button" class="tag-selecionavel" data-value="escrita">✍️ Gosto de ler e escrever</button>
+              </div>
             </div>
 
             <div class="acoes-formulario">
               <button type="submit" class="botao-enviar">
                 <i class="fa-solid fa-paper-plane"></i>
-                Enviar respostas
+                Descobrir minha compatibilidade
               </button>
-
-              <p class="envio-form-error">
-                Para enviar sua resposta, todos os campos devem ser preenchidos.
-              </p>
             </div>
+
           </div>
         </form>
       </section>
