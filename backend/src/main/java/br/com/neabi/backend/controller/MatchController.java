@@ -20,11 +20,11 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Controller responsável por receber as requisições do site e gerenciar a rota de Match do NEABI.
  * * @RestController Avisa ao Spring que a classe responde dados puros (texto/JSON) e não páginas HTML.
- * @RequestMapping("/api") Define que todas as rotas desta classe começam com 'http://localhost:8080/api'.
+ * @RequestMapping("/api/match") Define que todas as rotas desta classe começam com 'http://localhost:8080/api/match'.
  * @CrossOrigin(origins = "*") Libera as portas de segurança (CORS) para permitir requisições do navegador.
  */
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/match")
 @CrossOrigin(origins = "*")
 public class MatchController {
 
