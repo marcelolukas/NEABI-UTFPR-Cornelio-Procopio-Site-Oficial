@@ -7,9 +7,7 @@
 body {
   min-height: 100vh;
   overflow-x: hidden;
-  background:
-    radial-gradient(circle at top left, rgba(224, 187, 79, 0.22), transparent 34%),
-    linear-gradient(135deg, #8f131a 0%, #5f0d12 100%);
+  background: #d13a35;
   color: #171512;
   font-family: "Roboto", sans-serif;
 }
@@ -38,16 +36,15 @@ body {
 
 /* Quando o aluno clicar, o JavaScript vai adicionar essa classe 'ativa' */
 .tag-selecionavel.ativa {
-  background-color: #4CAF50; /* Uma cor bem viva, como verde ou a cor principal do seu site */
+  background-color: #4caf50;
   color: white;
-  border-color: #4CAF50;
+  border-color: #4caf50;
 }
 .container-formulario {
   overflow: hidden;
   background: #faf4e1;
   border: 2px solid #171512;
   border-radius: 14px;
-  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.24);
 }
 
 .header {
@@ -55,9 +52,7 @@ body {
   gap: 10px;
   padding: clamp(24px, 4vw, 42px);
   color: #faf4e1;
-  background:
-    linear-gradient(135deg, rgba(38, 141, 83, 0.96), rgba(15, 107, 55, 0.96)),
-    #268d53;
+  background: #268d53;
   border-bottom: 2px solid #171512;
 }
 
@@ -146,7 +141,7 @@ body {
 .campo-formulario input:focus,
 .campo-formulario textarea:focus {
   background: #ffffff;
-  border-color:#268d53;
+  border-color: #268d53;
   transform: translateY(-1px);
 }
 
@@ -167,11 +162,11 @@ body {
   min-height: 52px;
   padding: 0 24px;
   color: #171512;
-  background:#268d53;
-  border: 2px solid #171512;
+  background: #30b368;
+  border: 1px solid #171512;
   border-radius: 8px;
   cursor: pointer;
-  font-weight: 800;
+  font-weight: 600;
   transition:
     transform 180ms ease,
     filter 180ms ease,
@@ -179,8 +174,7 @@ body {
 }
 
 .botao-enviar:hover {
-  transform: translateY(-1.5px);
-  filter: brightness(1.04);
+  transform: translateY(-2px);
 }
 
 .envio-form-error {

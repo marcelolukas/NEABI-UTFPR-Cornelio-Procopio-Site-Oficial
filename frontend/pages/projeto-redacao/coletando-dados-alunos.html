@@ -1,105 +1,106 @@
 <!doctype html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Coletando Dados Alunos</title>
-    <link rel="stylesheet" href="../../styles/global.css" />
-    <link rel="stylesheet" href="../../styles/transicao.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    />
-    <link rel="stylesheet" href="style-redacao.css" />
-  </head>
 
-  <body>
-    <div class="div_transicao"></div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Coletando Dados Alunos</title>
+  <link rel="stylesheet" href="../../styles/global.css" />
+  <link rel="stylesheet" href="../../styles/transicao.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="style-redacao.css" />
+</head>
 
-    <header class="cabecalho">
-      <div class="identidade_do_site">
-        <img
-          class="logo_do_site"
-          src="../../assets/site/logoDoSite.png"
-          alt="Logo do Site"
-        />
-      </div>
+<body>
+  <div class="div_transicao"></div>
 
-      <nav class="navegacao">
-        <ul class="menu-pagina-inicial">
-          <li><a href="../../index.html">Início</a></li>
-          <li><a href="../template_quem_somos.html">Quem Somos</a></li>
-          <li><a href="../ver_todas.html">Projetos</a></li>
-          <li><a href="../eventos.html">Eventos</a></li>
-        </ul>
-      </nav>
+  <header class="cabecalho">
+    <div class="identidade_do_site">
+      <img class="logo_do_site" src="../../assets/site/logoDoSite.png" alt="Logo do Site" />
+    </div>
 
-      <a href="#" class="botao-contato">
-        <span class="texto-botao">Fale Conosco</span>
-        <video
-          class="icone-punho"
-          src="../../assets/ui/animacao_punho.webm"
-          muted
-          playsinline
-          preload="auto"
-        ></video>
-      </a>
-    </header>
+    <nav class="navegacao">
+      <ul class="menu-pagina-inicial">
+        <li><a href="../../index.html">Início</a></li>
+        <li><a href="../template_quem_somos.html">Quem Somos</a></li>
+        <li><a href="../ver_todas.html">Projetos</a></li>
+        <li><a href="../eventos.html">Eventos</a></li>
+      </ul>
+    </nav>
 
-    <main class="pagina-formulario">
-      <section class="container-formulario">
-        <section class="header">
-          <h2>Conte um pouco sobre você!</h2>
-          <p>
-            Queremos conhecer você melhor para apresentar uma mulher que
-            compartilha sonhos e experiências parecidas com as suas.
-          </p>
-        </section>
+    <a href="#" class="botao-contato">
+      <span class="texto-botao">Fale Conosco</span>
+      <video class="icone-punho" src="../../assets/ui/animacao_punho.webm" muted playsinline preload="auto"></video>
+    </a>
+  </header>
 
-       <form id="formulario" class="form">
-          <div class="form-content">
-            
-            <div class="campo-formulario campo-curto">
-              <label for="nome-aluno">Qual é o seu nome?</label>
-              <input
-                type="text"
-                id="nome-aluno"
-                name="nome"
-                required
-                placeholder="Digite seu nome"
-              />
-            </div>
-
-            <div class="campo-formulario">
-              <label>Selecione todas as opções que combinam com você:</label>
-              
-              <div class="container-tags">
-                <button type="button" class="tag-selecionavel" data-value="comunicacao">🗣️ Gosto de falar e debater</button>
-                <button type="button" class="tag-selecionavel" data-value="ciencia">🔬 Adoro ciências e experimentos</button>
-                <button type="button" class="tag-selecionavel" data-value="lideranca">👑 Gosto de liderar grupos</button>
-                <button type="button" class="tag-selecionavel" data-value="arte">🎨 Sou criativo(a) e gosto de arte</button>
-                <button type="button" class="tag-selecionavel" data-value="justica">⚖️ Luto contra injustiças</button>
-                <button type="button" class="tag-selecionavel" data-value="natureza">🌱 Gosto de cuidar do meio ambiente</button>
-                <button type="button" class="tag-selecionavel" data-value="tecnologia">💻 Curto tecnologia e computadores</button>
-                <button type="button" class="tag-selecionavel" data-value="escrita">✍️ Gosto de ler e escrever</button>
-              </div>
-            </div>
-
-            <div class="acoes-formulario">
-              <button type="submit" class="botao-enviar">
-                <i class="fa-solid fa-paper-plane"></i>
-                Descobrir minha compatibilidade
-              </button>
-            </div>
-
-          </div>
-        </form>
+  <main class="pagina-formulario">
+    <section class="container-formulario">
+      <section class="header">
+        <h2>Conte um pouco sobre você!</h2>
+        <p>
+          Queremos conhecer um pouco mais sobre você e encontrar uma mulher que tenha interesses, sonhos ou histórias
+          parecidas com as suas.
+        </p>
       </section>
-    </main>
+
+      <form id="formulario" class="form">
+        <div class="form-content">
+
+          <div class="campo-formulario campo-curto">
+            <label for="nome-aluno">Qual é o seu nome?</label>
+            <input type="text" id="nome-aluno" name="nome" required placeholder="Digite seu nome" />
+          </div>
+
+          <div class="campo-formulario">
+            <label>O que mais combina com você?</label>
+            <div class="container-tags">
+              <button type="button" class="tag-selecionavel" data-value="comunicacao">🤔 Gosto de falar e
+                debater</button>
+              <button type="button" class="tag-selecionavel" data-value="ciencia">🌍 Tenho curiosidade sobre ciência e
+                novas descobertas</button>
+              <button type="button" class="tag-selecionavel" data-value="lideranca">🧭 Gosto de ajudar e orientar outras
+                pessoas</button>
+              <button type="button" class="tag-selecionavel" data-value="arte">🎨 Sou criativo(a) e gosto de
+                arte</button>
+              <button type="button" class="tag-selecionavel" data-value="justica">⚖️ Gosto de ajudar a construir um
+                mundo mais justo</button>
+              <button type="button" class="tag-selecionavel" data-value="natureza">🌱 Gosto de natureza e meio
+                ambiente</button>
+              <button type="button" class="tag-selecionavel" data-value="escrita">✍️ Gosto de ler e escrever</button>
+              <button type="button" class="tag-selecionavel" data-value="educacao">📚 Gosto de aprender e
+                ensinar</button>
+              <button type="button" class="tag-selecionavel" data-value="cultura">🌎 Gosto de conhecer outras
+                culturas</button>
+              <button type="button" class="tag-selecionavel" data-value="sociedade">🏛️ Gosto de aprender sobre a
+                sociedade</button>
+              <button type="button" class="tag-selecionavel" data-value="persistencia">💪 Não desisto fácil dos meus
+                objetivos</button>
+              <button type="button" class="tag-selecionavel" data-value="direitos">⚖️ Acho importante que todos tenham
+                os mesmos direitos</button>
+              <button type="button" class="tag-selecionavel" data-value="comunidade">🤝 Gosto de ajudar as pessoas ao
+                meu redor</button>
+
+            </div>
+          </div>
+
+          <div class="acoes-formulario">
+            <button type="submit" class="botao-enviar">
+              <i class="fa-solid fa-magnifying-glass-arrow-right"></i>
+
+              Ver qual mulher combina mais comigo
+            </button>
+          </div>
+
+        </div>
+      </form>
+    </section>
+  </main>
 
 
-    <script src="../projeto-redacao/formulario.js"></script>
-    <script src="../../scripts/transicao.js"></script>
-    <script src="../../scripts/animacoes.js"></script>
-  </body>
+  <script src="../projeto-redacao/formulario.js"></script>
+  <script src="../../scripts/transicao.js"></script>
+  <script src="../../scripts/animacoes.js"></script>
+</body>
+
 </html>
