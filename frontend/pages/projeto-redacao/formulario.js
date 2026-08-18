@@ -51,13 +51,16 @@ formulario.onsubmit = async function (event) {
     // 4. AQUI ENTRARÁ A LÓGICA DO MATCH!
     // ==========================================
 
-    const calculoDoMatch = (listaMulheres) => {
-      for (let i = 0; i < listaMulheres.length; i++ ) {
-        const mulher = listaMulheres[i];
-      }
-    };
+    let mulherQueEstaGanhando;
+    let mulherComMaiorPontuaçãoAtualmente;
+
+    listaMulheres.forEach(function(listaMulheres){
+      console.log("TESTE", listaMulheres);
+    });
+
   } catch (error) {
     console.error("Erro na conexão:", error);
     alert("Oops! O servidor parece estar desligado.");
   }
+
 };
