@@ -51,12 +51,10 @@ formulario.onsubmit = async function (event) {
     // 4. AQUI ENTRARÁ A LÓGICA DO MATCH!
     // ==========================================
 
-    let mulherQueEstaGanhando;
-    let mulherComMaiorPontuaçãoAtualmente;
+    let pontuacaoDoMatch = 0;
 
-    listaMulheres.forEach(function(listaMulheres){
-      console.log("TESTE", listaMulheres);
-    });
+    for(let tagsEscolhidas of resposta)
+
 
   } catch (error) {
     console.error("Erro na conexão:", error);

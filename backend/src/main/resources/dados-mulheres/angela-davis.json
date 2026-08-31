@@ -1,256 +1,238 @@
 {
   "id": "angela-davis",
-
   "dadosBasicos": {
     "nome": "Angela Davis",
     "nomeCompleto": "Angela Yvonne Davis",
-    "grupo": "Negra",
-    "dataNascimento": "1944-01-26",
+    "nascimento": "26 de janeiro de 1944",
     "localNascimento": "Birmingham, Alabama, Estados Unidos",
-    "nacionalidade": "Estadunidense",
-    "estadoAtual": "Viva",
-    "dataFalecimento": null
+    "familia": "Filha mais velha de Sallye Bell Davis e Frank Davis, ambos atuantes como professores e politicamente engajados [1, 2]. Tinha irmãos mais novos, entre eles Benny e Fania, além de um irmão caçula chamado Reginald (Reggie) e uma sobrinha chamada Eisa [3, 4]. No início dos anos 1980, casou-se com o fotógrafo Hilton Braithwaite e, em 1998, discutiu abertamente sua identidade lésbica na revista OUT [5]."
   },
-
-  "ocupacoes": ["Professora", "Filósofa", "Escritora", "Ativista"],
-
-  "resumo": "Angela Davis é uma filósofa, professora, escritora e ativista estadunidense reconhecida mundialmente por sua atuação na luta contra o racismo, o sexismo, a desigualdade social e o encarceramento em massa. Tornou-se uma das principais referências do feminismo negro e dos direitos humanos.",
-
-  "trajetoriaInicial": {
-    "titulo": "Trajetória inicial: origens, formação e engajamento social",
-    "imagem": {
-      "creditos": "Funcrunch, via Wikimedia Commons (CC BY-SA 4.0)",
-      "url": "angela-davis-trajetoria.jpg"
-    },
-    "descricao": "Filha de professores e ativistas, Angela Davis cresceu em uma família que valorizava profundamente a educação, o pensamento crítico e o engajamento político. De origem afro-americana, sua infância foi marcada por um ambiente de resistência e conscientização, o que influenciou diretamente sua formação intelectual. Desde cedo, destacou-se nos estudos, ingressando em instituições de ensino de prestígio, onde aprofundou seus conhecimentos em filosofia e ciências sociais. Além disso, teve experiências acadêmicas no exterior, que ampliaram sua visão de mundo e contribuíram para o desenvolvimento de uma perspectiva crítica sobre questões sociais e políticas. Nos seus primeiros engajamentos, aproximou-se de movimentos estudantis e organizações políticas voltadas à luta contra o racismo e as desigualdades sociais. Ao longo de sua trajetória, realizou deslocamentos para diferentes cidades e países, buscando tanto formação acadêmica quanto participação ativa em causas sociais. Nesse percurso, enfrentou intensa vigilância, perseguições políticas e repressão por suas ideias e posicionamentos. Esses desafios fortalecem seu compromisso com a justiça social e os direitos humanos."
+  "infancia": {
+    "contextoFamiliar": "Cresceu em uma família negra de classe média e ativamente política. Sua mãe trabalhou para o Southern Negro Youth Congress, com laços comunistas [2]. Sua família promovia a defesa antirracista, lutando para sobreviver em uma zona de intensos conflitos [1, 6].",
+    "contextoSocial": "Passou a infância sob as rigorosas e violentas leis de segregação racial Jim Crow, onde bairros, escolas e bebedouros eram severamente divididos entre 'brancos' e 'de cor' [1, 7].",
+    "segregacaoRacial": "As restrições eram tão presentes que as crianças negras aprendiam a ler as placas de segregação antes mesmo do alfabeto [8]. Ela cresceu percebendo o ódio da vizinhança branca em relação aos negros que se mudavam para a sua rua [6].",
+    "localOndeCresceu": "Morava no entorno da Center Street, uma rua que dividia os bairros negro e branco, numa região que ficou conhecida como 'Colina da Dinamite' devido aos constantes bombardeios de extremistas contra lares de famílias negras [6].",
+    "experienciasMarcantes": "Frequentou a Carrie A. Tuggle Elementary School, uma escola segregada de estrutura precária, mas que lhe ajudou na construção da identidade negra [9]. Em sua infância, desejava ser médica pediatra, influenciada por um hospital próximo a sua creche [3]. Aos 14 anos, já sentia-se sufocada pelo provincianismo do Sul e pela vida social da classe média negra [10]."
   },
-
-  "perfil": {
-    "valores": ["Justiça", "Coragem", "Persistência", "Educação", "Igualdade"],
-    "caracteristicas": [
-      "Líder",
-      "Intelectual",
-      "Resiliente",
-      "Comunicadora",
-      "Pensadora crítica"
-    ]
+  "educacao": {
+    "infancia": "Cursou os ensinos fundamental e médio inicialmente em Birmingham [2]. Apesar das escolas segregadas, o ensino enfatizava a história e a cultura negra como forma de resistência [9].",
+    "adolescencia": "Aos 15 anos, conseguiu uma bolsa de estudos do Comitê de Assistência dos Amigos Estadunidenses (AFSC) para a Elisabeth Irwin High School, em Nova York, onde foi apresentada ao estudo do socialismo [2, 9, 11].",
+    "escolas": "Formou-se com honras em Literatura Francesa na Universidade Brandeis (1965) [2]. Estudou um ano na Sorbonne, em Paris, depois fez pós-graduação em Filosofia na Universidade Goethe (Frankfurt, Alemanha), fez o mestrado na Universidade da Califórnia (San Diego) e seu doutorado na Universidade Humboldt (Alemanha) [2, 12, 13].",
+    "influenciasIntelectuais": "Foi fortemente influenciada por Herbert Marcuse (seu orientador), Jean-Paul Sartre, Albert Camus, Merleau-Ponty, Karl Marx, Theodor Adorno, e também pela tradição intelectual negra como W. E. B. Du Bois, James Baldwin e Frederick Douglass [12-16]."
   },
-
-  "areasDeInteresse": [
-    "Educação",
-    "Filosofia",
-    "Política",
-    "História",
-    "Direitos Humanos",
-    "Movimentos Sociais"
-  ],
-
-  "causas": [
-    "Combate ao racismo",
-    "Igualdade racial",
-    "Direitos das mulheres",
-    "Sistema prisional",
-    "Justiça social",
-    "Educação",
-    "Liberdade",
-    "Solidariedade"
-  ],
-
-  "habilidades": ["Liderança", "Oratória", "Escrita", "Pesquisa", "Ensino"],
-
-  "tracosPersonalidade": [
-    "Curiosa",
-    "Questionadora",
-    "Corajosa",
-    "Persistente",
-    "Empática"
-  ],
-
-  "pesoCategorias": {
-    "educacao": 10,
-    "lideranca": 9,
-    "justicaSocial": 10,
-    "arteECultura": 2,
-    "cienciaETecnologia": 3,
-    "esporte": 0,
-    "empreendedorismo": 1,
-    "comunidade": 9,
-    "direitosHumanos": 10,
-    "politica": 8,
-    "filosofia": 10,
-    "literatura": 8,
-    "igualdadeDeGenero": 10,
-    "combateAoRacismo": 10
+  "formacaoPolitica": {
+    "primeirosContatos": "Ocorreram em Nova York, com a leitura de 'O Manifesto Comunista' e ingressando no grupo de jovens marxistas 'Advance', ligado ao Partido Comunista [9, 17].",
+    "influencias": "A Revolução Cubana, as lutas de libertação no Terceiro Mundo, as lutas pelos direitos civis e o radicalismo negro dos anos 1960 forjaram sua visão anticapitalista e antirracista [14, 18].",
+    "movimentos": "Atuou no Comitê Não Violento de Coordenação Estudantil (SNCC), no Partido dos Panteras Negras (BPP), na União de Mulheres Trabalhadoras e no Coletivo Che-Lumumba. Em 1968, filiou-se formalmente ao Partido Comunista dos Estados Unidos, no qual permaneceu até 1991, quando fundou os Committees for Correspondence of Democracy and Socialism [5, 19, 20].",
+    "acontecimentosImportantes": "Sua demissão da Universidade da Califórnia (UCLA) a mando de Ronald Reagan por ser comunista [2]. O ativismo pela libertação dos Irmãos Soledad e os confrontos machistas ('golpe matriarcal') enfrentados dentro de movimentos de libertação negra [19, 20]."
   },
-
-  "biografia": "Angela Davis nasceu em 26 de janeiro de 1944, em Birmingham, Alabama, nos Estados Unidos, durante o período da segregação racial. Cresceu no bairro conhecido como 'Dynamite Hill', frequentemente alvo de atentados promovidos por grupos racistas contrários à integração racial. Ainda jovem, participou de um programa educacional que levou estudantes negros do sul segregado para Nova York, onde estudou na Elizabeth Irwin High School. Posteriormente, ingressou na Universidade Brandeis, graduando-se em Filosofia, e continuou sua formação acadêmica na Alemanha, aprofundando seus estudos em filosofia, teoria crítica e marxismo. Ao retornar aos Estados Unidos, iniciou sua carreira como professora universitária, dedicando-se ao ensino e à pesquisa em filosofia, feminismo, estudos afro-americanos e teoria política. Durante esse período, envolveu-se ativamente em movimentos sociais e organizações políticas, aproximando-se do Partido Comunista dos Estados Unidos e tornando-se uma importante voz na luta pelos direitos civis, pela igualdade racial, pela justiça social e pelos direitos das mulheres. Em 1970, foi incluída na lista dos mais procurados do FBI devido a um caso judicial de grande repercussão nacional. Após ser presa e julgada, foi absolvida em 1972, tornando-se símbolo internacional da luta por justiça. Ao longo de sua trajetória, publicou diversas obras fundamentais sobre racismo, feminismo, sistema prisional e desigualdade social, entre elas 'Women, Race & Class', consolidando-se como uma das intelectuais e ativistas mais influentes do século XX e do início do século XXI. Atualmente, permanece atuando como professora emérita, escritora e palestrante internacional, contribuindo para debates sobre democracia, direitos humanos, interseccionalidade, educação e transformação social.",
-
-  "linhaDoTempo": [
-    {
-      "ano": "1944",
-      "descricao": "Nasce em Birmingham, Alabama, nos Estados Unidos, em um contexto marcado pela segregação racial. Filha de professores e ativistas, cresce em um ambiente que valoriza a educação, a consciência política e o engajamento social desde a infância."
-    },
-    {
-      "ano": "Anos 1960",
-      "descricao": "Ingressa na Brandeis University, onde estuda filosofia. Nesse período, entra em contato com importantes correntes de pensamento crítico, desenvolvendo uma visão mais aprofundada sobre racismo, desigualdade social e estruturas de poder."
-    },
-    {
-      "ano": "1963-1965",
-      "descricao": "Realiza intercâmbio na Europa, passando pela França e pela Alemanha, onde estuda na Universidade de Frankfurt. Nesse período, aprofunda seus estudos em teoria crítica e marxismo, ampliando sua formação intelectual."
-    },
-    {
-      "ano": "Final dos anos 1960",
-      "descricao": "Retorna aos Estados Unidos e continua sua formação na University of California, San Diego, onde faz pós-graduação em filosofia. Torna-se professora universitária e passa a ganhar destaque por suas ideias e por sua militância política."
-    },
-    {
-      "ano": "1969-1972",
-      "descricao": "Leciona na UCLA, é afastada por suas ligações políticas e, posteriormente, acusada em um caso judicial de grande repercussão. É presa por cerca de 18 meses, período em que surge uma mobilização internacional por sua libertação. Em 1972, é julgada e absolvida, tornando-se símbolo da luta contra injustiças sociais."
-    },
-    {
-      "ano": "Décadas de 1970-1980",
-      "descricao": "Retoma sua carreira acadêmica e passa a lecionar em universidades, consolidando-se como professora e intelectual. Publica obras importantes sobre racismo, feminismo, desigualdade social e sistema prisional, além de atuar em movimentos sociais."
-    },
-    {
-      "ano": "Décadas de 1990-2000",
-      "descricao": "Amplia sua atuação internacional em debates sobre feminismo negro, direitos humanos, democracia e abolicionismo penal. Suas palestras e livros passam a circular mundialmente, fortalecendo sua presença como referência intelectual e política."
-    },
-    {
-      "ano": "Atualidade",
-      "descricao": "Permanece ativa em debates globais sobre racismo, feminismo, sistema prisional e direitos humanos. Continua participando de conferências, escrevendo livros e inspirando movimentos sociais em diferentes países."
-    }
-  ],
-
-  "porqueExtraordinaria": {
-    "destaque": "Coragem intelectual, compromisso político e impacto coletivo.",
-    "descricao": "Angela Davis é uma mulher extraordinária porque transformou sua trajetória pessoal em uma luta coletiva por justiça, liberdade e igualdade. Sua atuação articula pensamento crítico, produção acadêmica e engajamento político de forma singular, tornando sua voz uma referência fundamental nos debates sobre racismo, feminismo, direitos civis e sistema prisional. Mesmo diante de perseguições, prisão e tentativas de silenciamento, manteve-se firme em seu compromisso com a transformação social. Sua trajetória revela resistência, coragem e coerência diante das injustiças.",
-    "imagem": {
-      "creditos": "Philippe Halsman, 1974 - via Wikimedia Commons (domínio público)",
-      "url": "angela-davis-extraordinaria.jpg"
-    }
+  "trajetoria": {
+    "vidaAcademica": "Iniciou sua carreira docente em 1969 como professora de filosofia na UCLA [2]. Hoje é Professora Emérita da Universidade da Califórnia, Santa Cruz, atuando nos Departamentos de História da Consciência e Estudos Feministas [21, 22].",
+    "atuacaoPolitica": "Líder histórica pela libertação negra e feminismo interseccional, foi candidata a vice-presidente dos EUA em 1980 e 1984 pelo PC [23]. Articula ativismo global e teoriza o abolicionismo penal, sempre aliando academia e mobilização de massas [14, 22, 24].",
+    "perseguicaoEPrisao": "Acusada de sequestro e homicídio agravado após uma arma em seu nome ser usada na rebelião do Tribunal de Marin County (1970). Entrou para a lista dos 10 mais procurados do FBI, foi capturada e presa por 16 meses em confinamento severo, até ser absolvida por um júri em 1972, fruto da massiva campanha internacional 'Libertem Angela Davis' [25-29].",
+    "principaisMomentos": "As greves de fome e solidariedade na Casa de Detenção de NY [30, 31], o triunfo de sua absolvição, as viagens posteriores à URSS, Cuba e Alemanha Oriental [5], e a centralidade de sua obra teórica conectando raça, classe e gênero a partir de 1981."
   },
-
+  "pensamento": {
+    "racismo": "Compreendido não como mera atitude individual, mas como arma sistêmica e estrutural utilizada pela classe capitalista para dividir a classe trabalhadora, oprimir minorias e extrair maior lucro da super-exploração econômica [7, 32, 33].",
+    "feminismo": "Defende o feminismo negro, marxista, antirracista e anti-heteronormativo [34-36]. É radicalmente contra o feminismo burguês hegemônico, que excluiu historicamente as mulheres negras [33, 37-39]. Critica duramente o 'feminismo carcerário', promovendo um feminismo de solidariedade transnacional [40, 41].",
+    "racaGeneroClasse": "Pioneira na crítica interseccional: afirma que não se pode assumir a primazia de uma opressão sobre a outra, visto que gênero, raça e classe atuam de forma cruzada para estruturar o poder na modernidade. O trabalho invisibilizado da mulher negra é a base que sustenta o sistema capitalista [42-46].",
+    "educacao": "Acredita na filosofia e educação como meios inseparáveis da transformação material. Estuda como a educação e o resgate da tradição intelectual negra são pilares para as insurreições políticas e libertação contra a supremacia branca [47, 48].",
+    "sistemaPrisional": "Cunhou o conceito de 'complexo industrial-prisional', comparando-o à indústria bélica. O cárcere não visa segurança, mas o lucro corporativo sobre corpos descartáveis (majoritariamente negros) e a continuidade do controle exercido durante o período escravocrata [49-51].",
+    "abolicionismoPenal": "Argumenta pela completa abolição das prisões e rejeita a simples reforma (que perpetua a lógica racista). Defende estratégias amplas que descriminalizem condutas, desmilitarizem a sociedade, forneçam saúde, emprego, educação e proponham uma justiça pautada na reparação [40, 52-55].",
+    "justicaSocial": "Propõe a 'democracia da abolição', uma organização social sem prisões e sem lógicas opressivas capitalistas, fundamentada em novas relações coletivas igualitárias, solidariedade decolonial e reconhecimento da liderança de sujeitos subalternizados [40, 56-59]."
+  },
   "obras": [
     {
-      "titulo": "Angela Davis: An Autobiography",
-      "ano": 1974,
-      "descricao": "Relato autobiográfico sobre sua trajetória pessoal e política."
+      "titulo": "If They Come in the Morning... Voices of Resistance",
+      "ano": "1971",
+      "tema": "Abolicionismo, repressão estatal e prisioneiros políticos.",
+      "informacoesRelevantes": "Coletânea organizada junto a seu comitê de defesa para dar voz a ativistas encarcerados e denunciar o sistema de justiça dos EUA como aparato de repressão de classe e racial [60]."
     },
     {
-      "titulo": "Women, Race & Class",
-      "ano": 1981,
-      "descricao": "Obra que analisa as relações entre raça, gênero e classe."
+      "titulo": "Angela Davis: Uma Autobiografia",
+      "ano": "1974",
+      "tema": "Memórias, formação política e ativismo.",
+      "informacoesRelevantes": "Obra em primeira pessoa detalhando a juventude segregada em Birmingham, a perseguição do Estado, sua prisão, a campanha mundial por sua liberdade e a articulação entre as lutas políticas [61, 62]."
     },
     {
-      "titulo": "Are Prisons Obsolete?",
-      "ano": 2003,
-      "descricao": "Discussão sobre o encarceramento em massa e alternativas ao sistema prisional."
+      "titulo": "Mulheres, Raça e Classe",
+      "ano": "1981",
+      "tema": "Feminismo interseccional, história da mulher negra.",
+      "informacoesRelevantes": "Sua obra de maior impacto. Examina historicamente como a supremacia branca pautou o movimento sufragista e como as mulheres negras sempre vivenciaram de forma unida a exploração trabalhista, o sexismo e o racismo [63-66]."
+    },
+    {
+      "titulo": "Mulheres, Cultura e Política",
+      "ano": "1990",
+      "tema": "Ativismo transnacional, empoderamento e cultura.",
+      "informacoesRelevantes": "Compilação de discursos sobre feminismo negro global, movimentos pela paz e conexões entre gênero, classe e manifestações culturais negras [67]."
+    },
+    {
+      "titulo": "Blues Legacies and Black Feminism: Gertrude 'Ma' Rainey, Bessie Smith, and Billie Holiday",
+      "ano": "1998",
+      "tema": "Cultura e Estética Musical Negra.",
+      "informacoesRelevantes": "Analisa o blues clássico feminino como uma forma inicial e potente de consciência política, independência e feminismo para a mulher negra trabalhadora [68]."
+    },
+    {
+      "titulo": "The Angela Y. Davis Reader",
+      "ano": "1998",
+      "tema": "Antologia de seus ensaios teóricos.",
+      "informacoesRelevantes": "Organizado por Joy James, compila décadas de produção sobre punição, feminismo marxista e estética, consagrando Davis como filósofa democrática e crítica [69]."
+    },
+    {
+      "titulo": "Estarão as prisões obsoletas?",
+      "ano": "2003",
+      "tema": "Abolicionismo do sistema prisional.",
+      "informacoesRelevantes": "Denuncia a ascensão do 'complexo industrial-prisional', comparando o lucro com prisioneiros à continuidade da escravidão, e sugere a desestruturação total do cárcere [70, 71]."
+    },
+    {
+      "titulo": "A democracia da abolição",
+      "ano": "2005",
+      "tema": "Crítica ao imperialismo e tortura.",
+      "informacoesRelevantes": "Entrevistas concedidas a Eduardo Mendieta explorando a guerra, o terror de Estado no Oriente Médio (Abu Ghraib) e interligando o sistema penal estadunidense à política imperial [57, 72]."
+    },
+    {
+      "titulo": "O Significado de Liberdade e Outros Diálogos Difíceis",
+      "ano": "2012",
+      "tema": "Filosofia da liberdade e justiça social.",
+      "informacoesRelevantes": "Aborda a liberdade não como conceito abstrato, mas como processo constante de lutas interconectadas, incluindo os direitos de comunidades LGBTQIA+ e crítica neoliberal [73]."
+    },
+    {
+      "titulo": "A Liberdade é uma Luta Constante",
+      "ano": "2015",
+      "tema": "Solidariedade transnacional e lutas modernas.",
+      "informacoesRelevantes": "Conecta as mobilizações contra a violência policial de Ferguson às lutas da Palestina e movimentos brasileiros, apontando que o feminismo e abolicionismo devem agir de forma anti-imperial e internacional [74, 75]."
     }
   ],
-
-  "movimentos": [
-    "Movimento dos Direitos Civis",
-    "Movimento Negro",
-    "Feminismo Negro",
-    "Partido Comunista dos Estados Unidos",
-    "Abolicionismo Penal"
-  ],
-
-  "legadoExtenso": {
-    "titulo": "Influência sobre arte, política, educação e comunidades",
-    "descricao": "O legado de Angela Davis continua a inspirar movimentos sociais e novas lideranças ao redor do mundo por sua defesa da justiça, da igualdade e da transformação social. Sua trajetória demonstra que o pensamento crítico, aliado à ação política, tem o poder de questionar estruturas profundamente enraizadas, como o racismo e as desigualdades sociais. Ao longo das décadas, suas ideias fortaleceram as lutas por direitos civis, influenciaram o feminismo negro e ampliaram os debates sobre o sistema prisional e seus impactos na sociedade. Sua atuação também evidencia a importância da educação e da organização coletiva como caminhos essenciais para a mudança social. Hoje, jovens ativistas encontram em Angela Davis uma referência de coragem intelectual, resistência e compromisso com causas coletivas."
-  },
-
-  "galeria": [
+  "influencias": [
     {
-      "descricao": "Cartaz histórico do período em que Angela Davis foi procurada pelo FBI, símbolo da perseguição política nos Estados Unidos na década de 1970.",
-      "creditos": "Federal Bureau of Investigation, 1970 - via Wikimedia Commons (domínio público)",
-      "imagem": "angela-davis-fbi.jpg"
+      "nome": "Herbert Marcuse",
+      "relacao": "Orientador acadêmico e pensador referencial",
+      "influencia": "Demonstrou a Davis a possibilidade de alinhar o rigor filosófico erudito da teoria crítica (Escola de Frankfurt) à ação política revolucionária e engajada nas ruas [13, 76]."
     },
     {
-      "descricao": "Conferência do Comitê para Libertar Angela Davis no Centro de Educação Marxista, em Nova York, em 1971, com Louise Thompson Patterson, Fania Davis e Felicia Coward.",
-      "creditos": "Bill Andrews, 1971 - via Wikimedia Commons (domínio público)",
-      "imagem": "angela-davis-comite-1971.jpg"
+      "nome": "Karl Marx / Friedrich Engels",
+      "relacao": "Bases teóricas (Marxismo)",
+      "influencia": "Forneceram as fundações para a crítica metodológica anticapitalista, materialista e dialética que orientou toda a vida partidária e o projeto abolicionista de Davis [13, 14, 36]."
     },
     {
-      "descricao": "Angela Davis participa de manifestação em apoio aos Soledad Brothers, destacando sua atuação na luta por justiça social.",
-      "creditos": "Ray Graham, 1970 - via Wikimedia Commons (CC BY 4.0)",
-      "imagem": "angela-davis-soledad-brothers.jpg"
+      "nome": "Irmãos Soledad (George Jackson)",
+      "relacao": "Prisioneiros políticos e camaradas",
+      "influencia": "A criminalização do ativismo negro e a morte de George Jackson na prisão radicalizaram seu foco na injustiça carcerária, aprofundando o embrião de suas teses abolicionistas [20, 77, 78]."
+    },
+    {
+      "nome": "Lélia Gonzalez",
+      "relacao": "Intelectual negra, filósofa brasileira",
+      "influencia": "Referência de Davis para apontar como as ativistas dos EUA precisam aprender com o feminismo negro decolonial afro-latino-americano (interseccionalizando povos negros e indígenas) [79-81]."
     }
   ],
-
   "fontes": [
     {
-      "tipo": "Livro",
+      "tipo": "Artigo Acadêmico",
+      "titulo": "ANGELA DAVIS: AS ESCREVIVÊNCIAS DE UMA MULHER NEGRA",
+      "autor": "Danilo Pereira da Silva, Andiara Martins Dias",
+      "ano": "2022",
+      "capitulo": "Revista Humanidades e Inovação",
+      "pagina": "207-210",
+      "informacaoExtraida": "Sintetiza sua autobiografia, destacando a infância no Sul (leis Jim Crow), a bolsa para o norte, suas bases comunistas e o enfrentamento ao encarceramento racializado."
+    },
+    {
+      "tipo": "Webpage",
+      "titulo": "Angela Davis (January 26, 1944) | National Archives",
+      "autor": "National Archives",
+      "ano": "Não especificado",
+      "capitulo": "African American Heritage",
+      "pagina": "Não aplicável",
+      "informacaoExtraida": "Resumo de sua filiação ao CPUSA, sua relação com o Black Panther Party, perseguição acadêmica por Ronald Reagan, a prisão pelas armas de Jonathan Jackson e absolvição."
+    },
+    {
+      "tipo": "Webpage",
+      "titulo": "Angela Davis defende fim de prisões em livro que chega em maio ao Brasil",
+      "autor": "Revista CULT / Da Redação",
+      "ano": "2017",
+      "capitulo": "Literatura",
+      "pagina": "Não aplicável",
+      "informacaoExtraida": "Notícia sobre o lançamento do livro 'Estarão as prisões obsoletas?', enfatizando o complexo industrial-prisional como pilar do capitalismo e o impacto no racismo nos EUA."
+    },
+    {
+      "tipo": "Artigo Acadêmico (Resenha)",
+      "titulo": "FILOSOFIA, FEMINISMO NEGRO E CRÍTICA AO SISTEMA PRISIONAL",
+      "autor": "Anselmo Peres Alós",
+      "ano": "2020",
+      "capitulo": "Não aplicável",
+      "pagina": "327",
+      "informacaoExtraida": "Reflexão sobre a obra 'A democracia da abolição', abordando o linchamento histórico, a violência ritualística contra corpos negros e as conexões interligadas com a democracia e feminismo estadunidense."
+    },
+    {
+      "tipo": "Webpage (Enciclopédia)",
+      "titulo": "Angela Davis – Enciclopédia Mulheres na Filosofia",
+      "autor": "Thais Rodrigues, Laíssa Ferreira (UNICAMP)",
+      "ano": "2021",
+      "capitulo": "Filósofas",
+      "pagina": "Não aplicável",
+      "informacaoExtraida": "Apresenta o contexto da demissão na UCLA, as influências da literatura negra e filosofia europeia em seu pensamento acadêmico, o papel unificador do ativismo e o abolicionismo de estado."
+    },
+    {
+      "tipo": "Livro (Excerto)",
+      "titulo": "Angela Davis: An Autobiography",
+      "autor": "Angela Davis",
+      "ano": "1974",
+      "capitulo": "Vários",
+      "pagina": "Várias",
+      "informacaoExtraida": "Relatos em primeira pessoa sobre a fuga em NY (Howard Johnson Motel), perseguições pelo FBI, os comitês de defesa liderados pela irmã Fania e Franklin Alexander, e o racismo das divisões de vizinhança em Birmingham."
+    },
+    {
+      "tipo": "Artigo Acadêmico",
+      "titulo": "Diálogos com Angela Davis sobre racismo e sexismo no controle punitivo brasileiro",
+      "autor": "Fernanda da Silva Lima, Jéssica D. C. Jeremias, Débora Ferrazzo",
+      "ano": "2024",
+      "capitulo": "Revista Direito e Práx",
+      "pagina": "1-29",
+      "informacaoExtraida": "Uso da categoria de gênero de Davis como estrutura do sistema penal para refletir criticamente sobre o encarceramento massivo, corpos subalternizados e acumulação capitalista no Brasil."
+    },
+    {
+      "tipo": "Transcrição / Artigo",
+      "titulo": "Leia transcrição na íntegra da fala de Ângela Davis na Universidade Federal da Bahia",
+      "autor": "Revista Fórum / Raquel Luciana de Souza (tradução)",
+      "ano": "2017",
+      "capitulo": "Direitos",
+      "pagina": "Não aplicável",
+      "informacaoExtraida": "Discurso na UFBA louvando as feministas brasileiras (Lélia Gonzalez, Mãe Stella), solidariedade transnacional com causas do Brasil (Quilombo Rio dos Macacos) e defesa de um feminismo anticarcerário."
+    },
+    {
+      "tipo": "Livro (Excerto)",
       "titulo": "Mulheres, Raça e Classe",
       "autor": "Angela Davis",
-      "descricao": "Obra clássica que analisa a relação entre racismo, feminismo e desigualdade social ao longo da história.",
-      "link": "https://www.amazon.com.br/Mulheres-Ra%C3%A7a-Classe-Angela-Davis/dp/8575595032"
+      "ano": "1981 (Ed. Brasil: 2016)",
+      "capitulo": "Vários",
+      "pagina": "Várias",
+      "informacaoExtraida": "Debate profundo sobre o papel das mulheres negras na escravidão (excluídas do ideal da feminilidade frágil), o racismo de sufragistas brancas, a esterilização massiva e controle de natalidade pautado na eugenia, além das lideranças históricas operárias."
     },
     {
-      "tipo": "Livro",
-      "titulo": "Mulheres, Cultura e Política",
-      "autor": "Angela Davis",
-      "descricao": "Coletânea de ensaios que discutem feminismo, cultura e movimentos sociais.",
-      "link": "https://www.amazon.com.br/Mulheres-Cultura-Pol%C3%ADtica-Angela-Davis/dp/8575596217"
+      "tipo": "Página Wiki",
+      "titulo": "Mulheres, Raça e Classe – Wikipédia, a enciclopédia livre",
+      "autor": "Wikipédia",
+      "ano": "Não aplicável",
+      "capitulo": "Não aplicável",
+      "pagina": "Não aplicável",
+      "informacaoExtraida": "Ficha catalográfica sobre o livro de 1981, demonstrando que sedimentou o termo e a prática da interseccionalidade muito antes da conceituação formal de Kimberlé Crenshaw em 1989."
     },
     {
-      "tipo": "Livro",
-      "titulo": "A Liberdade é uma Luta Constante",
-      "autor": "Angela Davis",
-      "descricao": "Reflexões sobre direitos humanos, ativismo e a luta global por liberdade.",
-      "link": "https://www.amazon.com.br/Liberdade-%C3%A9-uma-Luta-Constante/dp/8575595431"
+      "tipo": "Artigo Acadêmico",
+      "titulo": "Mulheres, Raça e Classe: a proposta interseccional de Angela Davis",
+      "autor": "Elisangela Gonçalves de Jesus",
+      "ano": "2022",
+      "capitulo": "Manuscrítica",
+      "pagina": "Não especificado",
+      "informacaoExtraida": "Analisa de forma resumida os principais eixos do livro, o impacto na reinterpretação da exploração feminina no período escravocrata e as divergências dentro dos movimentos por direitos civis."
     },
     {
-      "tipo": "Artigo / Enciclopédia",
-      "titulo": "Encyclopaedia Britannica - Angela Davis",
-      "descricao": "Biografia completa com contexto histórico e acadêmico da trajetória de Angela Davis.",
-      "link": "https://www.britannica.com/biography/Angela-Davis"
-    },
-    {
-      "tipo": "Artigo / Biografia",
-      "titulo": "Biography.com - Angela Davis",
-      "descricao": "Resumo acessível sobre a vida, o ativismo e o impacto político de Angela Davis.",
-      "link": "https://www.biography.com/activist/angela-davis"
-    },
-    {
-      "tipo": "Artigo / Enciclopédia",
-      "titulo": "Wikipedia - Angela Davis",
-      "descricao": "Artigo com visão geral sobre sua vida, carreira acadêmica e atuação política.",
-      "link": "https://en.wikipedia.org/wiki/Angela_Davis"
+      "tipo": "Artigo Acadêmico",
+      "titulo": "A LIBERDADE DA FILÓSOFA ANGELA DAVIS",
+      "autor": "Simone Borges dos Santos, Alan da Silva Sampaio",
+      "ano": "2020",
+      "capitulo": "Revista Ideação",
+      "pagina": "356-372",
+      "informacaoExtraida": "Análise teórica da construção filosófica do termo 'liberdade' segundo Davis, como oposta ao preceito burguês-individualista e baseada puramente na luta coletiva perene, honrando ativistas brasileiras como Marielle Franco."
     }
-  ],
-
-  "instrucoesIa": {
-    "persona": "Você é um assistente educacional que interpreta a perspectiva pública de Angela Davis com base em seus livros, palestras, entrevistas e ideias conhecidas. Não afirme ser a pessoa real; deixe claro que está representando sua visão de mundo para fins educativos.",
-    "tomDeVoz": [
-      "Educador",
-      "Acolhedor",
-      "Reflexivo",
-      "Crítico",
-      "Respeitoso",
-      "Didático"
-    ],
-    "temasChave": [
-      "Direitos humanos",
-      "Combate ao racismo",
-      "Feminismo negro",
-      "Igualdade racial",
-      "Justiça social",
-      "Educação libertadora",
-      "Sistema prisional e abolicionismo penal",
-      "Interseccionalidade (raça, gênero e classe)"
-    ],
-    "regrasEstritas": [
-      "Responda sempre utilizando a primeira pessoa ('Eu acredito...', 'Em minha trajetória...').",
-      "Incentive o pensamento crítico do estudante em vez de apenas entregar respostas prontas.",
-      "Utilize exemplos históricos e teóricos fundamentados sempre que for útil.",
-      "Se uma pergunta estiver fora do seu campo de conhecimento ou atuação, informe educadamente que o assunto não faz parte da sua linha de pesquisa/militância e redirecione para uma reflexão pedagógica.",
-      "Nunca invente fatos, opiniões, citações ou acontecimentos atribuídos a Angela Davis sem base histórica comprovada.",
-      "Caso não haja informações suficientes para responder com certeza, declare abertamente a ausência de dados confiáveis."
-    ],
-    "exemploPoucoFormato": {
-      "pergunta": "Por que a educação é importante?",
-      "resposta": "Eu acredito que a educação é uma das ferramentas mais poderosas para transformar a sociedade. Ela não serve apenas para transmitir informações, mas para desenvolver nossa capacidade de questionar, compreender as desigualdades e imaginar formas mais justas de convivência. Quando aprendemos a pensar criticamente, passamos a enxergar como estruturas sociais influenciam nossas vidas e como podemos participar da construção de mudanças coletivas."
-    }
-  }
+  ]
 }
