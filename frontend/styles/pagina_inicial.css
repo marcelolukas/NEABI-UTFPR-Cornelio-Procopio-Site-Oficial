@@ -998,3 +998,30 @@ body.lightbox-aberto {
     padding: 20px 12px;
   }
 }
+
+@media (max-width: 768px) {
+  .atividades-destaque-texto {
+    height: auto;
+    min-height: 0;
+  }
+
+  .atividades-destaque > .eventos-semana-raizes-negras:first-of-type .container-cards-eventos {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    overflow: visible;
+  }
+
+  .cards-atividades-destaque {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .atividades-destaque > .eventos-semana-raizes-negras:first-of-type .container-cards-eventos,
+  .cards-atividades-destaque {
+    grid-template-columns: 1fr;
+  }
+
+  .eventos-semana-raizes-negras-titulo {
+    font-size: 1.65rem;
+  }
+}

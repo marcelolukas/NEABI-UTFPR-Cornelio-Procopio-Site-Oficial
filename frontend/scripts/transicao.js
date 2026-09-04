@@ -30,6 +30,23 @@ window.addEventListener("load", () => {
   }
 });
 
+function navegarComFade(href) {
+  const transicao = document.querySelector(".div_transicao");
+
+  if (!transicao) {
+    window.location.href = href;
+    return;
+  }
+
+  transicao.style.display = "block";
+  transicao.style.opacity = "1";
+  transicao.offsetHeight;
+
+  setTimeout(() => {
+    window.location.href = href;
+  }, 30);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const logo = document.querySelector(".logo_do_site");
 
@@ -54,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const href = card.getAttribute("data-card-link");
 
       if (href) {
-        window.location.href = href;
+        navegarComFade(href);
       }
     };
 
@@ -72,16 +89,24 @@ document.addEventListener("DOMContentLoaded", () => {
   links.forEach((link) => {
     link.addEventListener("click", (e) => {
       const href = link.getAttribute("href");
+      const destino = href ? new URL(href, window.location.href) : null;
+      const deveIgnorar =
+        !destino ||
+        destino.origin !== window.location.origin ||
+        destino.pathname === window.location.pathname && destino.hash ||
+        link.target === "_blank" ||
+        link.hasAttribute("download") ||
+        e.ctrlKey ||
+        e.metaKey ||
+        e.shiftKey ||
+        e.altKey;
 
-      if (
-        href &&
-        (href.startsWith("/") || href.startsWith(window.location.origin)) &&
-        typeof document.startViewTransition === "function"
-      ) {
+      if (!deveIgnorar) {
         e.preventDefault();
-        document.startViewTransition(() => {
-          window.location.href = link.href;
-        });
+
+        // A View Transition nativa nao acompanha de forma consistente uma
+        // navegacao para outro documento. O overlay garante o fade completo.
+        navegarComFade(link.href);
       }
     });
   });

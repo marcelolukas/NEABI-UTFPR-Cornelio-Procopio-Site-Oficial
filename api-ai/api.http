@@ -1,1 +1,7 @@
-GET http://localhost:8080/ai?userInput=Que dia é hoje?
+POST http://localhost:8081/api/chat
+Content-Type: application/json
+
+{
+  "message": "Por que ela foi importante?",
+  "personalidade": "Angela Davis"
+}

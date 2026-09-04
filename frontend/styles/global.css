@@ -52,7 +52,10 @@ video {
 a {
   color: inherit;
   text-decoration: none;
-  
+}
+
+body {
+  overflow-x: hidden;
 }
 
 button,
@@ -460,5 +463,99 @@ select {
 
   .botao-contato:hover .texto-botao {
     color: #000000;
+  }
+}
+
+/* Ajustes compartilhados para telas pequenas. */
+@media (max-width: 768px) {
+  .cabecalho {
+    flex-wrap: wrap !important;
+    gap: 8px 12px !important;
+    padding: 10px var(--container-padding) 12px !important;
+    overflow: visible !important;
+  }
+
+  .identidade_do_site {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+  }
+
+  .logo_do_site[src$="logoDoSite.png"] {
+    width: min(62vw, 230px) !important;
+    min-height: 0 !important;
+    max-height: 58px !important;
+  }
+
+  .navegacao {
+    flex: 1 0 100% !important;
+    width: 100% !important;
+    justify-content: flex-start !important;
+    overflow: visible !important;
+  }
+
+  .menu-pagina-inicial {
+    width: 100% !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 4px 6px !important;
+  }
+
+  .menu-pagina-inicial li:first-child {
+    display: list-item !important;
+  }
+
+  .navegacao a {
+    min-height: 44px !important;
+    padding: 9px 10px !important;
+    font-size: 0.82rem !important;
+  }
+
+  .botao-contato {
+    display: none !important;
+  }
+
+  .contato-rodape,
+  .contato-rodape__inner,
+  .noticia-conteudo,
+  .materia {
+    min-width: 0 !important;
+    width: 100% !important;
+  }
+
+  .noticia-conteudo {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 480px) {
+  :root {
+    --container-padding: 14px;
+  }
+
+  .cabecalho {
+    gap: 6px !important;
+  }
+
+  .logo_do_site[src$="logoDoSite.png"] {
+    width: min(72vw, 190px) !important;
+  }
+
+  .menu-pagina-inicial {
+    justify-content: space-between !important;
+  }
+
+  .navegacao a {
+    flex: 1 1 auto;
+    font-size: 0.75rem !important;
+    padding-inline: 7px !important;
+  }
+
+  .noticia-hero__texto {
+    width: 100% !important;
+    padding: 20px !important;
+  }
+
+  .contato-rodape {
+    padding: 16px !important;
   }
 }
