@@ -90,8 +90,29 @@
         <span>Pergunte para mim.</span>
       </div>
 
-      <button class="neabi-chatbot__launcher" type="button" aria-label="Abrir assistente NEABI" data-chat-open>
-<span>Tem alguma dúvida sobre ${escapeHtml(personalidade)}? Pergunte ao nosso chatbot.</span>      </button>
+    <div class="botao-chat-bot">
+  <button
+    class="neabi-chatbot__launcher"
+    type="button"
+    aria-label="Abrir assistente NEABI"
+    data-chat-open
+  >
+    <img
+      class="img-chat-bot"
+      src="/frontend/assets/ui/logo-chat-bot.png"
+      alt="Ícone do chatbot"
+    />
+
+    <div class="chatbot-textos">
+      <p class="titulo-chat-bot">CONVERSE COM A IA</p>
+
+      <span>
+        Tem alguma dúvida sobre ${escapeHtml(personalidade)}?
+      </span>
+      <p class = "chat-bot-subtitulo">Pergunte ao nosso ChatBot.</p>
+    </div>
+  </button>
+</div>
 
       <div class="neabi-chatbot__window" role="dialog" aria-label="Chat do assistente NEABI" aria-hidden="true" data-chat-window>
         <header class="neabi-chatbot__header">
@@ -107,7 +128,7 @@
 
         <div class="neabi-chatbot__messages" data-chat-messages aria-live="polite">
           <article class="neabi-chatbot__message neabi-chatbot__message--bot">
-            <p>Olá! 👋 Quer saber mais sobre  ${escapeHtml(personalidade)} ou sobre a exposição Vozes Negras e Indígenas do NEABI? Pode me perguntar!</p>
+            <p>Olá! 👋 Quer saber mais sobre  ${escapeHtml(personalidade)} ou sobre a exposição Vozes Negras e Indígenas promovida pelo NEABI TIA CIATA? Pode me perguntar!</p>
           </article>
         </div>
 
