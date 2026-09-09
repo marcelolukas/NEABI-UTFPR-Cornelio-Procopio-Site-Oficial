@@ -40,7 +40,11 @@ body {
   font-family: var(--font-base);
   line-height: 1.5;
   text-rendering: optimizeLegibility;
-  background: #D13A35;
+  background: #A92824;
+}
+
+main {
+  background: #A92824 !important;
 }
 
 img,
@@ -85,7 +89,7 @@ select {
   gap: 20px;
   padding: 16px var(--container-padding);
 
-  background-color: #D13A35;
+  background-color: #B22222;
   color: #FAF4E1;
 
   /* Remove a linha */
