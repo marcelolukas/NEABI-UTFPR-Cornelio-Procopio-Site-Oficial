@@ -215,7 +215,7 @@
 .neabi-chatbot__window {
   position: absolute;
   right: 0;
-  bottom: 74px;
+  bottom: 0px;
 
   display: grid;
 
@@ -250,7 +250,7 @@
   transform: translateY(0);
 }
 
-.neabi-chatbot.is-open .neabi-chatbot__launcher {
+.neabi-chatbot.is-open .botao-chat-bot {
   display: none;
 }
 
@@ -340,7 +340,7 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
 }
 
-.neabi-chatbot__message p {
+.neabi-chatbot__message-content {
   margin: 0;
 
   color: inherit;
@@ -350,6 +350,15 @@
   line-height: 1.55;
 
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.neabi-chatbot__message-content > :first-child {
+  margin-top: 0;
+}
+
+.neabi-chatbot__message-content > :last-child {
+  margin-bottom: 0;
 }
 
 .neabi-chatbot__message--bot {

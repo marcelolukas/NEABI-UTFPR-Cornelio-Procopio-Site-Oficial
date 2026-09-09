@@ -4,16 +4,16 @@
   const PERSONALIDADES = {
     "alessandra-korap": "Alessandra Korap",
     "angela-davis": "Angela Davis",
-    apucuana: "Apucuana",
+    "apucuana": "Apucuana",
     "bartolina-sisa": "Bartolina Sisa",
     "carolina-maria-de-jesus": "Carolina Maria de Jesus",
-    celia: "Celia Xakriaba",
+    "celia": "Celia Xakriaba",
     "dandara-dos-palmares": "Dandara dos Palmares",
     "deb-haaland": "Deb Haaland",
     "eliane-potiguara": "Eliane Potiguara",
-    harriet: "Harriet Tubman",
+    "harriet": "Harriet Tubman",
     "ida-b-wells-barnett": "Ida B. Wells-Barnett",
-    joenia: "Joenia Wapichana",
+    "joenia": "Joenia Wapichana",
     "leila-gonzalez": "Lelia Gonzalez",
     "maria-doze-homens": "Maria Doze Homens",
     "mercedes-baptista": "Mercedes Baptista",
@@ -115,6 +115,7 @@
 </div>
 
       <div class="neabi-chatbot__window" role="dialog" aria-label="Chat do assistente NEABI" aria-hidden="true" data-chat-window>
+
         <header class="neabi-chatbot__header">
           <div>
             <strong>Assistente NEABI</strong>
@@ -155,6 +156,15 @@
       .replace(/'/g, "&#039;");
   }
 
+  function formatMarkdown(text) {
+    if (typeof marked === "undefined" || typeof DOMPurify === "undefined") {
+      return escapeHtml(text);
+    }
+
+    const html = marked.parse(text);
+    return DOMPurify.sanitize(html);
+  }
+
   function setupWidget(root, personalidade, slug) {
     const launcher = root.querySelector("[data-chat-open]");
     const windowElement = root.querySelector("[data-chat-window]");
@@ -174,6 +184,8 @@
       windowElement.setAttribute("aria-hidden", "false");
       sessionStorage.setItem(inviteKey, "shown");
       input.focus();
+      const botaochat = root.querySelector(".botao-chat-bot");
+      botaochat.styledisplay ="none";
     }
 
     function minimizeChat() {
@@ -198,11 +210,18 @@
 
     function addMessage(text, author) {
       const message = document.createElement("article");
-      const paragraph = document.createElement("p");
+      const content = document.createElement("div");
 
       message.className = `neabi-chatbot__message neabi-chatbot__message--${author}`;
-      paragraph.textContent = text;
-      message.appendChild(paragraph);
+      content.className = "neabi-chatbot__message-content";
+
+      if (author === "bot") {
+        content.innerHTML = formatMarkdown(text);
+      } else {
+        content.textContent = text;
+      }
+
+      message.appendChild(content);
       messages.appendChild(message);
       messages.scrollTop = messages.scrollHeight;
 
@@ -248,12 +267,18 @@
           throw new Error(data.answer || "Nao foi possivel responder agora.");
         }
 
-        loadingMessage.querySelector("p").textContent =
-          data.answer || "Nao recebi uma resposta da API.";
+        loadingMessage.querySelector(
+          ".neabi-chatbot__message-content",
+        ).innerHTML = formatMarkdown(
+          data.answer || "Nao recebi uma resposta da API.",
+        );
       } catch (error) {
-        loadingMessage.querySelector("p").textContent =
+        loadingMessage.querySelector(
+          ".neabi-chatbot__message-content",
+        ).innerHTML = formatMarkdown(
           error.message ||
-          "Nao consegui conectar com a API. Verifique se o api-ai esta rodando na porta 8081.";
+            "Nao consegui conectar com a API. Verifique se o api-ai esta rodando na porta 8081.",
+        );
       } finally {
         setLoading(false);
         input.focus();

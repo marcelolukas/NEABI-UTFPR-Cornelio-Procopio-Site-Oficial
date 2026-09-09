@@ -1,6 +1,8 @@
 package com.neabi.api_ai;
 
-import org.springframework.ai.chat.client.ChatClient;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,7 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin(origins = "*")
 public class ChatController {
 
-    private final ChatClient chatClient;
+    private static final Logger LOGGER = LoggerFactory.getLogger(ChatController.class);
+    private final AiChatService aiChatService;
     private final KnowledgeService knowledgeService;
     private static final int MAX_MESSAGE_LENGTH = 500;
     private static final String SYSTEM_CONTEXT = """
@@ -26,8 +29,8 @@ public class ChatController {
             atualmente aberta no site.
             """;
 
-    public ChatController(ChatClient.Builder chatClientBuilder, KnowledgeService knowledgeService) {
-        this.chatClient = chatClientBuilder.build();
+    public ChatController(AiChatService aiChatService, KnowledgeService knowledgeService) {
+        this.aiChatService = aiChatService;
         this.knowledgeService = knowledgeService;
     }
 
@@ -48,13 +51,15 @@ public class ChatController {
 
         KnowledgeService.KnowledgeContext knowledge = knowledgeService.findByPersonalidade(personalidade);
         String prompt = buildPrompt(message, personalidade, knowledge);
-        String content = this.chatClient
-                .prompt()
-                .user(prompt)
-                .call()
-                .content();
 
-        return ResponseEntity.ok(new ChatResponse(content));
+        try {
+            return ResponseEntity.ok(new ChatResponse(aiChatService.generate(prompt)));
+        } catch (RuntimeException exception) {
+            LOGGER.error("Falha ao obter resposta do provedor de IA", exception);
+            return ResponseEntity.status(HttpStatus.SERVICE_UNAVAILABLE)
+                    .body(new ChatResponse(
+                            "O assistente está temporariamente indisponível. Tente novamente em alguns instantes."));
+        }
     }
 
     @GetMapping({ "/api/chat", "/ai" })

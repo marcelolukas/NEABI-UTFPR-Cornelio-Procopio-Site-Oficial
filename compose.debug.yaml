@@ -1,11 +1,13 @@
 services:
-  neabiutfprcornelioprocopiositeoficial:
+  api-ai:
     image: neabiutfprcornelioprocopiositeoficial
     build:
       context: .
       dockerfile: ./Dockerfile
     environment:
-      JAVA_OPTS: -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005,quiet=y
+      MARITACA_API_KEY: ${MARITACA_API_KEY:?Defina MARITACA_API_KEY antes de iniciar}
+      MARITACA_MODEL: ${MARITACA_MODEL:-sabia-4}
+      JAVA_TOOL_OPTIONS: -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005,quiet=y
     ports:
-      - 3000:3000
-      - 5005:5005
+      - "${API_PORT:-8081}:8081"
+      - "5005:5005"
