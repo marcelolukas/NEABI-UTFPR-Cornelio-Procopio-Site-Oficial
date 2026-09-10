@@ -3,7 +3,7 @@
   --secondary-color: #0f6b37;
   --text-dark: #1d1712;
   --muted-text: rgba(29, 23, 18, 0.6);
-  --light-bg: #D13A35;
+  --light-bg: #A92824;
   --card-bg: rgba(250, 244, 225, 0.95);
   --trajetoria-subnav-offset: calc(var(--header-sticky-height, 124px) + 12px);
 }

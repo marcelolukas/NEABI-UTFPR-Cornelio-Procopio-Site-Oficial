@@ -6,7 +6,7 @@
 
 body {
   font-family: "Inter", sans-serif;
-  background: #D13A35 !important;
+  background: #A92824 !important;
 }
 
 main {
@@ -416,7 +416,7 @@ img {
   width: 100%;
   padding: clamp(28px, 4vw, 56px);
   text-align: center;
-  background: #D13A35;
+  background: #A92824;
 }
 
 .atividades-destaque-texto {
