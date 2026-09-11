@@ -1,0 +1,331 @@
+{
+  "id": "joenia-wapichana",
+
+  "dadosBasicos": {
+    "nome": "Joenia Wapichana",
+    "nomeCompleto": "Joenia Batista de Carvalho",
+    "grupo": "Indígena Wapichana",
+    "dataNascimento": "1973-04-20",
+    "localNascimento": "Boa Vista, Roraima, Brasil",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Viva",
+    "dataFalecimento": null
+  },
+
+  "ocupacoes": [
+    "Advogada",
+    "Liderança indígena",
+    "Defensora dos direitos humanos",
+    "Ex-deputada federal por Roraima",
+    "Ex-presidenta da Fundação Nacional dos Povos Indígenas",
+    "Gestora pública"
+  ],
+
+  "resumo": "Joenia Wapichana é uma advogada e liderança indígena brasileira do povo Wapichana, reconhecida por sua atuação em defesa dos direitos territoriais, humanos e políticos dos povos originários. Foi a primeira mulher indígena a exercer a advocacia no Brasil, a primeira advogada indígena a realizar sustentação oral no Supremo Tribunal Federal, a primeira mulher indígena eleita deputada federal e a primeira pessoa indígena a presidir a Funai. Sua trajetória une formação jurídica, organização comunitária, participação política e representação institucional.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: território, educação e defesa dos direitos indígenas",
+    "imagem": {
+      "creditos": "Ricardo Lima / Tribunal de Justiça do Pará, via Wikimedia Commons — CC BY-SA 4.0",
+      "url": "joeniaPerfilBio.png"
+    },
+    "descricao": "Joenia nasceu em Boa Vista, Roraima, e cresceu na comunidade indígena Truarú da Cabeceira, do povo Wapichana. Ainda criança, mudou-se com a mãe para a área urbana de Boa Vista e prosseguiu nos estudos. Formou-se em Direito pela Universidade Federal de Roraima em 1997 e passou a trabalhar na assessoria jurídica do Conselho Indígena de Roraima, onde atuou por mais de duas décadas na defesa das comunidades e de seus territórios."
+  },
+
+  "perfil": {
+    "valores": [
+      "Direitos dos povos indígenas",
+      "Autonomia",
+      "Justiça",
+      "Representatividade",
+      "Responsabilidade coletiva",
+      "Proteção dos territórios"
+    ],
+    "caracteristicas": [
+      "Pioneira",
+      "Articuladora",
+      "Determinada",
+      "Estratégica",
+      "Resiliente",
+      "Comprometida com sua comunidade"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Direitos dos povos indígenas",
+    "Direito constitucional e internacional",
+    "Direitos humanos",
+    "Demarcação de terras indígenas",
+    "Proteção ambiental",
+    "Participação política indígena",
+    "Políticas públicas",
+    "Educação e ações afirmativas"
+  ],
+
+  "causas": [
+    "Defesa dos direitos dos povos originários",
+    "Demarcação e proteção de terras indígenas",
+    "Combate ao racismo e à discriminação",
+    "Participação política das mulheres indígenas",
+    "Preservação da Amazônia e da biodiversidade",
+    "Acesso indígena à educação",
+    "Autonomia e consulta aos povos indígenas",
+    "Justiça social",
+    "Direitos humanos"
+  ],
+
+  "habilidades": [
+    "Advocacia em direitos indígenas",
+    "Argumentação jurídica",
+    "Articulação institucional",
+    "Liderança política",
+    "Representação comunitária",
+    "Formulação de políticas públicas",
+    "Incidência nacional e internacional"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Corajosa",
+    "Firme",
+    "Resiliente",
+    "Articuladora",
+    "Comprometida com a coletividade"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 9,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 4,
+    "cienciaETecnologia": 2,
+    "esporte": 0,
+    "empreendedorismo": 4,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 10,
+    "filosofia": 7,
+    "literatura": 3,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Joenia Batista de Carvalho, conhecida como Joenia Wapichana, nasceu em 20 de abril de 1973, em Boa Vista, Roraima, e cresceu na comunidade Truarú da Cabeceira. Em 1997, graduou-se em Direito pela Universidade Federal de Roraima e iniciou uma atuação de 22 anos na assessoria jurídica do Conselho Indígena de Roraima. Destacou-se na defesa da Terra Indígena Raposa Serra do Sol. Em 2003, segundo a Funai, levou uma causa indígena à Comissão Interamericana de Direitos Humanos. Em 2008, tornou-se a primeira advogada indígena a fazer sustentação oral no plenário do STF; no ano seguinte, o Tribunal confirmou a demarcação contínua daquele território. Concluiu mestrado em Direito Internacional pela Universidade do Arizona em 2011 e, em 2013, assumiu a Comissão Especial de Defesa dos Direitos dos Povos Indígenas da OAB. Em 2018, recebeu o Prêmio das Nações Unidas no Campo dos Direitos Humanos e foi eleita a primeira mulher indígena deputada federal. Exerceu o mandato de 2019 a 2023. Presidiu a Funai de fevereiro de 2023 a março de 2026, liderando a primeira gestão indígena do órgão.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1973",
+      "descricao": "Nasce em 20 de abril, em Boa Vista, Roraima. Cresce na comunidade indígena Truarú da Cabeceira, pertencente ao povo Wapichana."
+    },
+    {
+      "ano": "Infância",
+      "descricao": "Muda-se com a mãe para a área urbana de Boa Vista, onde dá continuidade à educação formal."
+    },
+    {
+      "ano": "1997",
+      "descricao": "Forma-se em Direito pela UFRR e inicia sua atuação no Conselho Indígena de Roraima, onde trabalharia por 22 anos."
+    },
+    {
+      "ano": "2003",
+      "descricao": "Segundo a Funai, leva uma causa indígena à Comissão Interamericana de Direitos Humanos."
+    },
+    {
+      "ano": "2008",
+      "descricao": "Torna-se a primeira advogada indígena a realizar sustentação oral no STF, no caso Raposa Serra do Sol."
+    },
+    {
+      "ano": "2009",
+      "descricao": "O STF confirma a demarcação contínua da Terra Indígena Raposa Serra do Sol."
+    },
+    {
+      "ano": "2011",
+      "descricao": "Conclui mestrado em Direito Internacional pela Universidade do Arizona, nos Estados Unidos."
+    },
+    {
+      "ano": "2013",
+      "descricao": "É designada presidenta da Comissão Especial de Defesa dos Direitos dos Povos Indígenas da OAB."
+    },
+    {
+      "ano": "2018",
+      "descricao": "Recebe o Prêmio de Direitos Humanos da ONU e é eleita a primeira mulher indígena deputada federal."
+    },
+    {
+      "ano": "2019–2023",
+      "descricao": "Exerce mandato de deputada federal e atua pelos direitos indígenas, pelos direitos humanos e pela sustentabilidade."
+    },
+    {
+      "ano": "2023",
+      "descricao": "Toma posse como primeira pessoa indígena a presidir a Funai e recebe o grau de Comendadora da Ordem de Rio Branco."
+    },
+    {
+      "ano": "2023–2026",
+      "descricao": "Lidera a primeira gestão indígena da Funai, com ações de demarcação, proteção territorial e fortalecimento institucional."
+    },
+    {
+      "ano": "Março de 2026",
+      "descricao": "Encerra sua gestão à frente da Funai."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Pioneirismo jurídico, representação política e compromisso com os direitos coletivos.",
+    "descricao": "Joenia Wapichana é extraordinária porque transformou conquistas pioneiras em instrumentos de defesa coletiva. Sua presença na advocacia, no Supremo Tribunal Federal, na Câmara dos Deputados e na presidência da Funai rompeu barreiras impostas historicamente aos povos indígenas, especialmente às mulheres. Ao mesmo tempo, sua trajetória não deve ser reduzida a feitos individuais: ela se construiu em diálogo com comunidades, organizações e lideranças do movimento indígena. Sua atuação evidencia que os próprios povos originários devem participar das decisões jurídicas e políticas que afetam seus territórios, suas culturas e seus modos de vida.",
+    "imagem": {
+      "creditos": "Ricardo Stuckert / Presidência da República, via Wikimedia Commons",
+      "url": "joeniaExtrord.png"
+    }
+  },
+
+  "obras": [],
+
+  "reconhecimentos": [
+    {
+      "titulo": "Prêmio das Nações Unidas no Campo dos Direitos Humanos",
+      "ano": 2018,
+      "descricao": "Reconhecimento internacional por sua contribuição à promoção e à proteção dos direitos humanos e dos povos indígenas."
+    },
+    {
+      "titulo": "Comendadora da Ordem de Rio Branco",
+      "ano": 2023,
+      "descricao": "Condecoração concedida pelo Estado brasileiro em reconhecimento a serviços e méritos de destaque."
+    }
+  ],
+
+  "movimentos": [
+    "Movimento indígena brasileiro",
+    "Conselho Indígena de Roraima",
+    "Mobilização pela Terra Indígena Raposa Serra do Sol",
+    "Defesa dos direitos territoriais indígenas",
+    "Participação política das mulheres indígenas",
+    "Articulação em defesa dos povos originários"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre o Direito, a política, a gestão pública e as comunidades indígenas",
+    "descricao": "Joenia abriu caminhos para a presença indígena, sobretudo de mulheres, no Direito, na política e na gestão pública. Sua atuação em Raposa Serra do Sol mostrou o uso da advocacia na defesa de direitos coletivos. Sua eleição ampliou a representação indígena no Congresso após décadas de ausência; antes dela, Mário Juruna exerceu mandato federal entre 1983 e 1987. Na presidência da Funai, de 2023 a 2026, Joenia marcou a participação direta dos povos indígenas na política indigenista. Sua trajetória inspira jovens indígenas a ocupar a educação superior e a vida pública."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Joenia Wapichana discursa no plenário da Câmara dos Deputados durante seu mandato como deputada federal por Roraima.",
+      "creditos": "Portal da Câmara dos Deputados",
+      "imagem": "joeniaDep.png"
+    },
+    {
+      "descricao": "Joenia Wapichana e a ministra Sonia Guajajara durante a cerimônia de posse que marcou o início da primeira gestão indígena da Funai.",
+      "creditos": "Joedson Alves / Agência Brasil, via Funai",
+      "imagem": "joeniaFunai.png"
+    },
+    {
+      "descricao": "Joenia Wapichana com a insígnia de Comendadora da Ordem de Rio Branco, recebida em 2023.",
+      "creditos": "Lázaro Moura Leite / Ministério das Relações Exteriores, via Funai",
+      "imagem": "joeniaConde.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Perfil institucional",
+      "titulo": "Biografia do(a) Deputado(a) Federal Joenia Wapichana",
+      "autor": "Câmara dos Deputados",
+      "descricao": "Fonte para dados pessoais, formação e mandato parlamentar.",
+      "link": "https://www.camara.leg.br/deputados/204468/biografia"
+    },
+    {
+      "tipo": "Reportagem institucional",
+      "titulo": "Primeira deputada indígena eleita tem como prioridade a defesa da inclusão e da sustentabilidade",
+      "autor": "Agência Câmara de Notícias",
+      "ano": "2018",
+      "descricao": "Relata sua eleição, formação e prioridades políticas.",
+      "link": "https://www.camara.leg.br/noticias/546065-primeira-deputada-indigena-eleita-tem-como-prioridade-a-defesa-da-inclusao-e-da-sustentabilidade/"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Primeira indígena a presidir a Funai, Joenia Wapichana toma posse em cerimônia histórica",
+      "autor": "Fundação Nacional dos Povos Indígenas",
+      "ano": "2023",
+      "descricao": "Perfil biográfico e registro de sua posse na Funai.",
+      "link": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/primeira-indigena-a-presidir-a-funai-joenia-wapichana-toma-posse-em-cerimonia-historica-prestigiada-por-liderancas-autoridades-e-sociedade-civil"
+    },
+    {
+      "tipo": "Registro institucional",
+      "titulo": "Supremo ouve sustentação da advogada indígena",
+      "autor": "Supremo Tribunal Federal",
+      "ano": "2008",
+      "descricao": "Registro de sua sustentação oral no caso Raposa Serra do Sol.",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-ouve-sustentacao-da-advogada-india/"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Advogada Wapichana fala de seu projeto à frente de Comissão indígena",
+      "autor": "Conselho Federal da Ordem dos Advogados do Brasil",
+      "ano": "2013",
+      "descricao": "Registra sua designação para presidir a Comissão da OAB.",
+      "link": "https://www.oab.org.br/util/print/25196?print=Noticia"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Na ONU, brasileira Joenia Wapichana recebe o Prêmio de Direitos Humanos 2018",
+      "autor": "Nações Unidas no Brasil",
+      "ano": "2018",
+      "descricao": "Registra a entrega do prêmio de direitos humanos da ONU.",
+      "link": "https://brasil.un.org/pt-br/81943-na-onu-brasileira-joenia-wapichana-recebe-o-pr%C3%AAmio-de-direitos-humanos-2018"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Presidenta da Funai recebe condecoração da Ordem de Rio Branco",
+      "autor": "Fundação Nacional dos Povos Indígenas",
+      "ano": "2023",
+      "descricao": "Registra a concessão do grau de Comendadora.",
+      "link": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/joenia-wapichana-recebe-de-lula-condecoracao-da-ordem-de-rio-branco"
+    },
+    {
+      "tipo": "Balanço institucional",
+      "titulo": "A primeira gestão indígena da Funai deixa como legado o fortalecimento institucional, retomada das demarcações e protagonismo dos povos indígenas",
+      "autor": "Fundação Nacional dos Povos Indígenas",
+      "ano": "2026",
+      "descricao": "Balanço do encerramento de sua gestão na Funai.",
+      "link": "https://www.gov.br/funai/pt-br/assuntos/noticias/2026/a-primeira-gestao-indigena-da-funai-deixa-como-legado-o-fortalecimento-institucional-retomada-das-demarcacoes-e-protagonismo-dos-povos-indigenas"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória pública de Joenia Wapichana com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser a pessoa real, e relacione seus marcos às lutas coletivas dos povos indígenas.",
+    "tomDeVoz": [
+      "Respeitoso",
+      "Didático",
+      "Firme",
+      "Acolhedor",
+      "Antirracista",
+      "Comprometido com os direitos indígenas"
+    ],
+    "temasChave": [
+      "Direitos dos povos indígenas",
+      "Terra Indígena Raposa Serra do Sol",
+      "Advocacia indígena",
+      "Representatividade política",
+      "Mulheres indígenas em espaços de poder",
+      "Direitos humanos",
+      "Proteção territorial e ambiental",
+      "Conselho Indígena de Roraima",
+      "Gestão da Funai entre 2023 e 2026"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Joenia em terceira pessoa; não simule memórias, sentimentos ou opiniões privadas dela.",
+      "Não invente falas, contatos, fatos biográficos ou posições políticas. Só reproduza declarações verificáveis e contextualizadas.",
+      "Apresente Joenia como a primeira mulher indígena deputada federal, não como a primeira pessoa indígena no cargo: Mário Juruna teve mandato de 1983 a 1987.",
+      "Informe que a sustentação oral no STF ocorreu em 2008 e a confirmação da demarcação contínua de Raposa Serra do Sol, em 2009.",
+      "Ao tratar de Raposa Serra do Sol, destaque a mobilização coletiva dos povos e organizações indígenas.",
+      "Informe que Joenia presidiu a Funai de fevereiro de 2023 a março de 2026; não a apresente como atual ocupante do cargo.",
+      "Diferencie o nome civil Joenia Batista de Carvalho do nome público Joenia Wapichana.",
+      "Não trate os povos indígenas como um grupo único; identifique o povo Wapichana quando relevante.",
+      "Se a informação não estiver na base, declare a limitação em vez de supor.",
+      "Ao citar fontes, priorize as instituições listadas nesta base."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Joenia Wapichana é considerada pioneira?",
+      "resposta": "Joenia Wapichana foi a primeira mulher indígena a exercer a advocacia no Brasil, a primeira advogada indígena a fazer sustentação oral no STF, a primeira mulher indígena deputada federal e a primeira pessoa indígena a presidir a Funai. Esses marcos ampliaram a presença indígena em espaços jurídicos e políticos e estão ligados à mobilização coletiva dos povos e das organizações indígenas."
+    }
+  }
+}
