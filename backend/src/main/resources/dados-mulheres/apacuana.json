@@ -1,0 +1,357 @@
+{
+  "id": "apacuana",
+
+  "dadosBasicos": {
+    "nome": "Apacuana",
+    "nomeCompleto": "Apacuana",
+    "grupo": "Indígena Quiriquire, população caribófona da região centro-norte da atual Venezuela",
+    "dataNascimento": "Século XVI (data desconhecida)",
+    "localNascimento": "Não documentado; sua trajetória é associada aos Valles del Tuy, então chamados de vale de Salamanca",
+    "nacionalidade": "Quiriquire; viveu antes da formação do Estado venezuelano",
+    "estadoAtual": "Falecida",
+    "dataFalecimento": "1577 (data exata desconhecida)"
+  },
+
+  "observacaoCronologica": "Não há data de nascimento comprovada para Apacuana. A narrativa histórica mais citada situa o levante e sua execução em 1577, mas foi publicada por José de Oviedo y Baños em 1723, cerca de um século e meio depois dos acontecimentos. Por isso, esta base não adota como fatos datas de nascimento, idades ou detalhes familiares divulgados sem documentação verificável.",
+
+  "observacaoHistoriografica": "A principal narrativa disponível foi escrita sob uma perspectiva colonial e emprega termos depreciativos contra os povos indígenas. Ela chama Apacuana de 'hechicera y arbolaria' e descreve a resistência como traição. Nesta base, esses termos são contextualizados como sinais de possível autoridade ritual e conhecimento de plantas, sem repetir os juízos coloniais como descrições neutras. A própria crônica alterna as grafias Guasema e Guacima para o cacique apresentado como filho de Apacuana.",
+
+  "pertencimentoTerritorial": {
+    "povo": "Quiriquire",
+    "familiaLinguistica": "Caribe, conforme estudos sobre as populações da região centro-norte da Venezuela",
+    "territorioHistorico": "Vale de Salamanca, atual região dos Valles del Tuy, no estado de Miranda, Venezuela",
+    "contexto": "Os Quiriquires viviam em uma região submetida no século XVI à conquista, à encomienda, ao trabalho coercitivo, à evangelização e a mudanças territoriais e culturais impostas pela colonização espanhola."
+  },
+
+  "ocupacoes": [
+    "Liderança indígena Quiriquire",
+    "Conselheira política e de guerra",
+    "Articuladora de resistência anticolonial",
+    "Especialista ritual e conhecedora de plantas, segundo a interpretação crítica das fontes"
+  ],
+
+  "resumo": "Apacuana foi uma liderança indígena Quiriquire ligada aos Valles del Tuy, na região centro-norte da atual Venezuela. A crônica de José de Oviedo y Baños atribui a seus conselhos papel decisivo no levante de 1577 contra os encomenderos Garci González de Silva e Francisco Infante. Depois do ataque, uma expedição colonial comandada por Sancho García destruiu plantações e povoados, surpreendeu uma reunião de lideranças indígenas, capturou Apacuana e a enforcou de forma sumária, deixando seu corpo exposto como intimidação. Sua memória foi retomada como símbolo da resistência indígena e do protagonismo das mulheres, mas deve ser apresentada com cuidado porque a documentação é tardia, limitada e marcada pelo olhar colonial.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória: liderança Quiriquire e resistência nos Valles del Tuy",
+    "imagem": {
+      "creditos": "Ilustração do acervo visual do projeto NEABI; autoria e licença não informadas no repositório",
+      "url": "apucuana-bio.png"
+    },
+    "descricao": "As fontes não documentam a infância de Apacuana nem permitem fixar seu nascimento. Sua presença histórica aparece no contexto dos Quiriquires do vale de Salamanca, atual região dos Valles del Tuy. A crônica de Oviedo y Baños a apresenta como uma mulher mais velha, conhecedora de plantas e mãe do cacique chamado Guasema ou Guacima. Segundo o mesmo relato, sua capacidade de aconselhar e persuadir foi central para que as lideranças locais organizassem uma sublevação contra quatro espanhóis ligados à encomienda da região. Estudos posteriores sobre a sociedade colonial mostram que a encomienda possibilitava controlar comunidades, explorar sua força de trabalho e impor transformações religiosas, linguísticas e culturais, contexto indispensável para compreender a resistência indígena."
+  },
+
+  "perfil": {
+    "valores": [
+      "Autonomia dos povos indígenas",
+      "Defesa do território",
+      "Liberdade coletiva",
+      "Organização comunitária",
+      "Resistência anticolonial",
+      "Memória das mulheres indígenas"
+    ],
+    "caracteristicas": [
+      "Líder",
+      "Conselheira",
+      "Articuladora",
+      "Corajosa",
+      "Conhecedora de plantas",
+      "Comprometida com seu povo"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "História indígena",
+    "Povo Quiriquire",
+    "Valles del Tuy",
+    "Resistência anticolonial",
+    "Encomienda",
+    "Mulheres indígenas",
+    "Memória histórica",
+    "Crítica das fontes coloniais"
+  ],
+
+  "causas": [
+    "Resistência ao colonialismo",
+    "Autonomia dos povos indígenas",
+    "Defesa dos territórios tradicionais",
+    "Combate à exploração do trabalho indígena",
+    "Organização comunitária",
+    "Protagonismo das mulheres indígenas",
+    "Preservação da memória Quiriquire",
+    "Justiça histórica"
+  ],
+
+  "habilidades": [
+    "Liderança comunitária",
+    "Articulação política",
+    "Aconselhamento estratégico",
+    "Mobilização coletiva",
+    "Conhecimento tradicional de plantas",
+    "Organização da resistência"
+  ],
+
+  "tracosPersonalidade": [
+    "Corajosa",
+    "Estratégica",
+    "Persuasiva",
+    "Firme",
+    "Comunitária",
+    "Resistente"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 7,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 7,
+    "cienciaETecnologia": 2,
+    "esporte": 0,
+    "empreendedorismo": 4,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 10,
+    "filosofia": 8,
+    "literatura": 2,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Apacuana foi uma liderança indígena Quiriquire que viveu no século XVI na região dos Valles del Tuy, chamada de vale de Salamanca pelos colonizadores espanhóis. Pouco se sabe sobre sua vida antes do levante de 1577. O relato mais conhecido está na obra de José de Oviedo y Baños, publicada em 1723. Embora tardia e atravessada pela linguagem colonial, essa crônica preservou seu nome e registrou sua autoridade entre os Quiriquires. O autor a descreve como uma mulher mais velha, conhecedora de plantas e mãe do cacique Guasema, grafado também como Guacima. Segundo o relato, Garci González de Silva e Francisco Infante detinham em encomienda os povos do partido de Salamanca. A encomienda não significava apenas cobrança de tributos: na prática, submetia indígenas ao trabalho coercitivo, à evangelização e a profundas mudanças sociais e territoriais. Nesse contexto, Apacuana teria encorajado caciques e outras lideranças a recuperar a liberdade perdida. O grupo planejou atacar quatro espanhóis quando eles se preparavam para regressar a Santiago de León de Caracas. O ataque os feriu gravemente; dois morreram durante a retirada, enquanto González de Silva e Infante chegaram ao território dos Teques. Em resposta, autoridades coloniais enviaram Sancho García com soldados espanhóis e aliados Teques. A expedição abriu caminhos à força, destruiu plantações e incendiou povoados. Depois de obter sob tortura informações de um prisioneiro indígena, surpreendeu uma reunião de cerca de quinhentas pessoas. O cacique Acuareyapa foi morto, Apacuana foi capturada e Sancho García ordenou que fosse imediatamente enforcada e deixada exposta para intimidar os sobreviventes. A violência da punição revela o quanto sua liderança era vista como ameaça ao domínio colonial. Nos séculos seguintes, Apacuana tornou-se símbolo da resistência indígena e do protagonismo político das mulheres. Sua história foi reinterpretada no teatro por César Rengifo e recebeu homenagens públicas na Venezuela, como a incorporação de restos simbólicos ao Panteão Nacional, em 2017, e a instalação de um monumento em Caracas, em 2018.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "Século XVI",
+      "descricao": "Vive entre os Quiriquires na região dos Valles del Tuy. Sua data e seu local exato de nascimento não são conhecidos."
+    },
+    {
+      "ano": "Antes de 1577",
+      "descricao": "É reconhecida como liderança e conselheira. A fonte colonial registra seu conhecimento de plantas e a apresenta como mãe do cacique Guasema, também grafado Guacima."
+    },
+    {
+      "ano": "1577",
+      "descricao": "Segundo Oviedo y Baños, os povos do partido de Salamanca estavam submetidos à encomienda de Garci González de Silva e Francisco Infante."
+    },
+    {
+      "ano": "1577",
+      "descricao": "Apacuana persuade caciques e outras lideranças a organizar um levante para recuperar a liberdade perdida e enfrentar o domínio colonial."
+    },
+    {
+      "ano": "1577",
+      "descricao": "Quiriquires atacam quatro espanhóis em Salamanca. Todos são feridos; dois morrem durante a retirada, e González de Silva conduz Francisco Infante até o território dos Teques."
+    },
+    {
+      "ano": "1577",
+      "descricao": "Uma expedição punitiva comandada por Sancho García, formada por soldados espanhóis e aliados Teques, destrói plantações e incendeia povoados Quiriquires."
+    },
+    {
+      "ano": "1577",
+      "descricao": "Após um ataque surpresa a uma reunião de lideranças, Apacuana é capturada e enforcada sumariamente. Seu corpo é deixado exposto como instrumento de intimidação colonial."
+    },
+    {
+      "ano": "1723",
+      "descricao": "José de Oviedo y Baños publica a crônica que se tornaria a principal fonte narrativa sobre o levante e a morte de Apacuana."
+    },
+    {
+      "ano": "1975",
+      "descricao": "César Rengifo escreve o poema dramático 'Apacuana y Cuaricurián', uma recriação artística da resistência indígena, não um documento contemporâneo aos fatos."
+    },
+    {
+      "ano": "8 de março de 2017",
+      "descricao": "Restos simbólicos de Apacuana, Hipólita e Matea são incorporados ao Panteão Nacional da Venezuela."
+    },
+    {
+      "ano": "2018",
+      "descricao": "É inaugurado em Caracas um monumento dedicado a Apacuana, na autopista Valle-Coche."
+    },
+    {
+      "ano": "2026",
+      "descricao": "O Ministério da Cultura venezuelano promove a III Bienal Nacional de Literatura Apacuana, demonstrando a continuidade de seu nome na memória cultural do país."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Liderança feminina indígena, articulação coletiva e resistência ao domínio colonial.",
+    "descricao": "Apacuana é extraordinária porque as próprias fontes coloniais, apesar de tentarem desqualificá-la, reconhecem a força de seus conselhos e sua capacidade de mobilizar uma ação coletiva. Sua trajetória evidencia que mulheres indígenas exerceram autoridade política, espiritual e estratégica desde os primeiros enfrentamentos à colonização europeia. Lembrá-la também exige leitura crítica: não é possível preencher as lacunas documentais com lendas apresentadas como fatos. Seu legado está justamente na combinação entre resistência histórica, memória Quiriquire e questionamento das narrativas que durante séculos ocultaram o protagonismo das mulheres indígenas.",
+    "imagem": {
+      "creditos": "Ilustração do acervo visual do projeto NEABI; autoria e licença não informadas no repositório",
+      "url": "apucuana-extraodinaria.png"
+    }
+  },
+
+  "obras": [],
+
+  "registroHistorico": "Não são conhecidas obras escritas ou falas diretamente registradas de Apacuana. A principal narrativa sobre sua vida vem de José de Oviedo y Baños, que publicou sua obra em 1723, muito depois do levante de 1577. O texto deve ser lido criticamente porque celebra os conquistadores e usa vocabulário racista e colonial contra os indígenas. A peça 'Apacuana y Cuaricurián', de César Rengifo, é uma criação dramática de 1975: personagens, parentescos, datas e diálogos da peça não devem ser usados automaticamente como evidência biográfica.",
+
+  "representacoesCulturais": [
+    {
+      "titulo": "Apacuana y Cuaricurián",
+      "autor": "César Rengifo",
+      "ano": 1975,
+      "tipo": "Poema dramático",
+      "descricao": "Recriação teatral da resistência indígena. A obra desloca época, povo e relações familiares, portanto deve ser tratada como interpretação artística e não como fonte documental direta sobre Apacuana."
+    }
+  ],
+
+  "reconhecimentos": [
+    {
+      "titulo": "Incorporação simbólica ao Panteão Nacional da Venezuela",
+      "ano": 2017,
+      "descricao": "Em 8 de março, restos simbólicos de Apacuana foram incorporados ao Panteão Nacional com os de Hipólita e Matea, em homenagem às mulheres indígenas, afrodescendentes e dos setores populares."
+    },
+    {
+      "titulo": "Monumento a Apacuana em Caracas",
+      "ano": 2018,
+      "descricao": "Fundarte registrou a inauguração de um monumento dedicado a Apacuana na autopista Valle-Coche, na entrada de Caracas."
+    },
+    {
+      "titulo": "Bienal Nacional de Literatura Apacuana",
+      "ano": 2026,
+      "descricao": "A terceira edição da bienal, promovida por instituições culturais venezuelanas, adotou a dramaturgia como modalidade e manteve o nome de Apacuana ligado à produção literária contemporânea."
+    }
+  ],
+
+  "movimentos": [
+    "Levantamento Quiriquire de 1577",
+    "Resistência indígena nos Valles del Tuy",
+    "Resistência anticolonial dos povos caribófonos da região centro-norte da Venezuela"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Memória da resistência Quiriquire e do protagonismo das mulheres indígenas",
+    "descricao": "O legado de Apacuana está ligado à preservação da memória de uma mulher indígena cuja autoridade foi reconhecida até mesmo por uma crônica comprometida com o projeto colonial. Sua história permite discutir a encomienda, a exploração do trabalho indígena, a destruição de povoados e plantações, o uso de alianças entre diferentes povos e a violência exemplar aplicada contra quem resistia. Ao mesmo tempo, as homenagens posteriores mostram como sua figura foi reinterpretada por artistas, instituições e políticas de memória. Uma abordagem educativa responsável deve valorizar seu protagonismo sem transformar recriações artísticas ou relatos populares em fatos comprovados."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Representação artística de Apacuana usada na abertura de sua página educativa.",
+      "creditos": "Acervo visual do projeto NEABI; autoria e licença não informadas no repositório",
+      "imagem": "apucuana-bio.png"
+    },
+    {
+      "descricao": "Representação artística de Apacuana como símbolo da resistência indígena.",
+      "creditos": "Acervo visual do projeto NEABI; autoria e licença não informadas no repositório",
+      "imagem": "apucuana-extraodinaria.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Crônica histórica",
+      "titulo": "Historia de la conquista y población de la Provincia de Venezuela",
+      "autor": "José de Oviedo y Baños",
+      "ano": "1723",
+      "descricao": "Principal narrativa histórica sobre o levante de 1577, a influência de Apacuana, a expedição punitiva, sua captura e seu enforcamento. Deve ser lida criticamente por sua perspectiva colonial e por ter sido publicada muito depois dos fatos.",
+      "link": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2019/08/OVIEDO-Y-BA%C3%91OS-Historia-de-la-Conquista-de-Venezuela.pdf"
+    },
+    {
+      "tipo": "Artigo acadêmico",
+      "titulo": "Inserción colonial temprana y transfiguración étnica: Los aborígenes de la región Centro-Norte de Venezuela (1560-1625)",
+      "autor": "Horacio Biord Castillo",
+      "ano": "2016",
+      "descricao": "Estudo sobre populações caribófonas, encomienda, trabalho coercitivo, evangelização e mudanças socioculturais na região em que ocorreu o levante.",
+      "link": "https://ve.scielo.org/scielo.php?pid=S1315-94962016000200010&script=sci_arttext"
+    },
+    {
+      "tipo": "Livro acadêmico",
+      "titulo": "Los aborígenes de la región centro-norte de Venezuela (1550-1600): una ponderación etnográfica de la obra de José de Oviedo y Baños",
+      "autor": "Horacio Biord Castillo",
+      "ano": "2001",
+      "descricao": "Análise etnográfica e historiográfica da obra de Oviedo y Baños e das populações indígenas da região centro-norte da Venezuela.",
+      "link": "https://books.google.co.ve/books?hl=es&id=drxTA48BO8kC&lr=&num=20"
+    },
+    {
+      "tipo": "Guia institucional",
+      "titulo": "EsMujeres: espacios seguros para mujeres y adolescentes",
+      "autor": "Fundo de População das Nações Unidas na Venezuela",
+      "ano": "2024",
+      "descricao": "O anexo biográfico apresenta Apacuana como cacica, piache, conselheira e liderança Quiriquire e reconta o levante, a repressão colonial e sua execução.",
+      "link": "https://venezuela.unfpa.org/sites/default/files/pub-pdf/2024-12/EsMujeres-%20Espacios%20Seguros%20para%20Mujeres%20y%20Adolescentes.pdf"
+    },
+    {
+      "tipo": "Livro de história social",
+      "titulo": "La formación del sujeto Pueblo en la historia de Venezuela",
+      "autor": "Iraida Vargas Arenas",
+      "ano": "2021",
+      "descricao": "Obra que discute a invisibilização de mulheres e povos indígenas na historiografia venezuelana e apresenta Apacuana como liderança da resistência de 1577.",
+      "link": "https://fundarte.gob.ve/web/wp-content/uploads/2023/02/LaFormacionDelSujetoPuebloEnLaHistoriaDeVenezuela_IraidaVargasArenas_2021-versionDIGITAL.pdf"
+    },
+    {
+      "tipo": "Relatório oficial",
+      "titulo": "Nono relatório periódico da República Bolivariana da Venezuela ao Comitê CEDAW",
+      "autor": "República Bolivariana da Venezuela / Biblioteca Digital das Nações Unidas",
+      "ano": "2021",
+      "descricao": "Registra a incorporação dos restos simbólicos de Apacuana ao Panteão Nacional em 8 de março de 2017.",
+      "link": "https://digitallibrary.un.org/record/3951586/files/CEDAW_C_VEN_9-ES.pdf"
+    },
+    {
+      "tipo": "Edição literária",
+      "titulo": "La resistencia indígena: Oscéneba; Curayú o el vencedor; Apacuana y Cuaricurián",
+      "autor": "César Rengifo / Fondo Editorial Fundarte",
+      "ano": "2017",
+      "descricao": "Edição oficial da obra dramática que reinterpretou artisticamente Apacuana; usada para separar criação teatral de documentação biográfica.",
+      "link": "https://fundarte.gob.ve/web/wp-content/uploads/2016/03/FERIA_DEL_LIBRO_CCS-2021_LA_RESISTENCIA_INDIGENA-CESAR_RENGIFO.pdf"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "La Alcaldía de Caracas reivindica el papel de las mujeres en la memoria histórica de Venezuela",
+      "autor": "Fundarte",
+      "ano": "2018",
+      "descricao": "Registra a inauguração do monumento dedicado a Apacuana na autopista Valle-Coche, em Caracas.",
+      "link": "https://fundarte.gob.ve/web/2018/12/12/la-alcaldia-de-caracas-reivindica-el-papel-de-las-mujeres-en-la-memoria-historica-de-venezuela/"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "III Bienales de Literatura Apacuana y César Rengifo 2026 se centrarán en las Artes Escénicas",
+      "autor": "Ministério do Poder Popular para a Cultura da Venezuela",
+      "ano": "2026",
+      "descricao": "Fonte sobre a continuidade da homenagem a Apacuana por meio de uma bienal nacional de literatura dedicada à dramaturgia.",
+      "link": "https://www.mincultura.gob.ve/noticias/iii-bienales-de-literatura-apacuana-y-cesar-rengifo-2026-se-centraran-en-las-artes-escenicas/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória histórica e a memória de Apacuana com base nas fontes desta base. Fale dela em terceira pessoa, sem afirmar ser a pessoa real, e relacione sua liderança à resistência coletiva Quiriquire, ao contexto da encomienda e ao protagonismo das mulheres indígenas.",
+    "tomDeVoz": [
+      "Respeitoso",
+      "Didático",
+      "Firme",
+      "Anticolonial",
+      "Antirracista",
+      "Cuidadoso com incertezas históricas",
+      "Comprometido com os direitos indígenas"
+    ],
+    "temasChave": [
+      "Apacuana",
+      "Povo Quiriquire",
+      "Valles del Tuy",
+      "Levantamento de 1577",
+      "Encomienda",
+      "Resistência indígena",
+      "Mulheres indígenas",
+      "Fontes coloniais",
+      "Memória histórica",
+      "Panteão Nacional da Venezuela"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Apacuana em terceira pessoa; não simule memórias, sentimentos, falas ou opiniões privadas dela.",
+      "Não invente data de nascimento, local exato de nascimento, idade, retrato físico ou citações de Apacuana.",
+      "Informe que a principal narrativa foi publicada por José de Oviedo y Baños em 1723, muito depois do levante de 1577, e que deve ser lida criticamente.",
+      "Ao mencionar as expressões coloniais 'hechicera' e 'arbolaria', explique que são termos do cronista e não descrições neutras; prefira liderança ritual e conhecedora de plantas.",
+      "Apresente Apacuana como liderança associada aos Quiriquires e aos Valles del Tuy, reconhecendo divergências posteriores de classificação quando forem relevantes.",
+      "Explique a encomienda como sistema de controle, exploração do trabalho indígena, evangelização e imposição de mudanças sociais, evitando tratá-la como simples proteção.",
+      "Ao narrar o levante, diferencie a resistência Quiriquire da linguagem de 'traição' usada pela crônica colonial.",
+      "Registre que a crônica alterna Guasema e Guacima para o cacique apresentado como filho de Apacuana; não substitua esse nome por Cuaricurián.",
+      "Explique que Cuaricurián é personagem da peça de César Rengifo e não parentesco comprovado por documentação histórica.",
+      "Não apresente a peça teatral de 1975, monumentos ou homenagens posteriores como fontes diretas para os acontecimentos do século XVI.",
+      "Diferencie os fatos narrados pela crônica, as interpretações acadêmicas e as homenagens públicas posteriores.",
+      "Se uma informação não estiver documentada ou for controversa, declare a limitação em vez de completar a lacuna com suposições.",
+      "Ao citar fontes, priorize a crônica de Oviedo y Baños para o relato atribuído, os estudos acadêmicos para o contexto e os documentos institucionais para homenagens recentes."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "O que se sabe com segurança sobre Apacuana?",
+      "resposta": "Apacuana é lembrada como uma liderança indígena Quiriquire dos Valles del Tuy e como articuladora do levante de 1577 contra a dominação colonial. A principal narrativa sobre ela foi publicada por José de Oviedo y Baños em 1723, cerca de um século e meio depois dos fatos. Por isso, é necessário distinguir o que a crônica relata das interpretações e homenagens posteriores. Não há data de nascimento nem falas autênticas documentadas."
+    }
+  }
+}

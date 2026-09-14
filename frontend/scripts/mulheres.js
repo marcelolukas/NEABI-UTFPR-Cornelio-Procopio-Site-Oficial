@@ -342,7 +342,7 @@ NAACP.`,
   },
 
   {
-    nome: "Apucuana",
+    nome: "Apacuana",
     bio: `Foi uma curandeira
 e líder indígena
 do povo Quiriquire.

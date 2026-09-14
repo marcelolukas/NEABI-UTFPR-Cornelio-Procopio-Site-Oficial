@@ -4,7 +4,7 @@
   const PERSONALIDADES = {
     "alessandra-korap": "Alessandra Korap",
     "angela-davis": "Angela Davis",
-    "apucuana": "Apucuana",
+    "apucuana": "Apacuana",
     "bartolina-sisa": "Bartolina Sisa",
     "carolina-maria-de-jesus": "Carolina Maria de Jesus",
     "celia": "Celia Xakriaba",

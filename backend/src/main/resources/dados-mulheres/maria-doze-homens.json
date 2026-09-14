@@ -1,0 +1,318 @@
+{
+  "id": "maria-doze-homens",
+
+  "dadosBasicos": {
+    "nome": "Maria Doze Homens",
+    "nomeCompleto": "Não documentado; Maria Doze Homens, também grafado Maria 12 Homens, é um apelido preservado em narrativas sobre a capoeira baiana",
+    "grupo": "Mulher negra brasileira, conforme a memória e os estudos sobre mulheres na capoeira",
+    "dataNascimento": "Desconhecida",
+    "localNascimento": "Não documentado; trajetória associada à Bahia",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Figura histórica de documentação biográfica limitada",
+    "dataFalecimento": "Desconhecida"
+  },
+
+  "observacaoCronologica": "Não foram localizados registros documentais suficientes para estabelecer o nome civil, as datas de nascimento e morte ou uma cronologia segura para Maria Doze Homens. Uma narrativa de divulgação a situa entre capoeiristas lembradas na década de 1940, enquanto uma tese da UFBA registra uma tradição oral que identifica Maria Doze Homens com Maria Felipa, personagem do século XIX. Essas versões são cronologicamente incompatíveis se tomadas ao mesmo tempo como fatos. Por isso, esta base distingue menções documentadas em estudos posteriores de relatos orais, lendas e hipóteses ainda não comprovadas.",
+
+  "ocupacoes": [
+    "Capoeirista, conforme tradição oral e estudos posteriores",
+    "Figura da memória da capoeira baiana",
+    "Referência do protagonismo de mulheres negras na capoeira"
+  ],
+
+  "resumo": "Maria Doze Homens, também mencionada como Maria 12 Homens, é uma personagem preservada na memória da capoeira baiana. Publicações posteriores a descrevem como uma capoeirista negra ligada às rodas do Cais Dourado e da rampa do Mercado Modelo, em Salvador, e atribuem seu apelido à narrativa de que teria derrotado doze homens. Entretanto, dados biográficos básicos não foram preservados e as próprias fontes reconhecem a dificuldade de separar história documentada e lenda. Outra tradição oral, registrada em pesquisa da Universidade Federal da Bahia, associa o apelido a Maria Felipa, heroína da Independência da Bahia; essa identificação não está estabelecida documentalmente e entra em conflito com a versão que situa Maria Doze Homens no século XX. Seu nome permanece importante por evidenciar a presença e o apagamento histórico das mulheres negras na capoeira.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: capoeira, oralidade e lacunas documentais",
+    "imagem": {
+      "creditos": "Ilustração de Maria Felipa reproduzida pelo Portal Capoeira; não é um retrato autenticado de Maria Doze Homens e sua relação com o perfil decorre de uma identificação presente na tradição oral",
+      "url": "maria.png"
+    },
+    "descricao": "Não há documentação disponível que permita reconstituir a infância, a família, a formação ou o início da atuação de Maria Doze Homens. Seu nome chegou ao presente principalmente por relatos da cultura da capoeira e por estudos que procuram recuperar trajetórias femininas omitidas dos registros tradicionais. Textos de divulgação relacionam Maria às rodas do Cais Dourado e da rampa do Mercado Modelo, em Salvador. O relato de que seu apelido teria surgido após nocautear doze homens é apresentado pelas próprias fontes como lenda. Esses elementos ajudam a compreender a força de sua memória, mas não devem ser convertidos em uma biografia precisa sem novas evidências."
+  },
+
+  "perfil": {
+    "valores": [
+      "Resistência cultural",
+      "Presença feminina",
+      "Memória negra",
+      "Liberdade",
+      "Ancestralidade",
+      "Reconhecimento histórico"
+    ],
+    "caracteristicas": [
+      "Lendária nas narrativas da capoeira",
+      "Associada à valentia",
+      "Símbolo de resistência",
+      "Preservada pela oralidade",
+      "Marcada por lacunas documentais",
+      "Referência para mulheres capoeiristas"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Capoeira",
+    "História da Bahia",
+    "Cultura afro-brasileira",
+    "Mulheres negras na história",
+    "História oral",
+    "Memória social",
+    "Ancestralidade africana",
+    "Educação antirracista",
+    "Gênero e cultura popular"
+  ],
+
+  "causas": [
+    "Valorização das mulheres na capoeira",
+    "Preservação da memória negra",
+    "Combate ao apagamento histórico",
+    "Combate ao racismo",
+    "Igualdade de gênero",
+    "Reconhecimento da cultura afro-brasileira",
+    "Educação antirracista",
+    "Pesquisa sobre trajetórias femininas"
+  ],
+
+  "habilidades": [
+    "Capoeira, conforme as narrativas consultadas",
+    "Valentia, conforme a memória oral",
+    "Resistência em espaços masculinizados",
+    "Presença nas rodas de capoeira",
+    "Inspiração cultural"
+  ],
+
+  "tracosPersonalidade": [
+    "Valente, segundo as narrativas",
+    "Corajosa, segundo a memória da capoeira",
+    "Resistente",
+    "Desafiadora das expectativas de gênero",
+    "Marcante na tradição oral"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 7,
+    "lideranca": 7,
+    "justicaSocial": 9,
+    "arteECultura": 10,
+    "cienciaETecnologia": 0,
+    "esporte": 9,
+    "empreendedorismo": 0,
+    "comunidade": 9,
+    "direitosHumanos": 7,
+    "politica": 5,
+    "filosofia": 5,
+    "literatura": 2,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 9
+  },
+
+  "biografia": "Maria Doze Homens é um nome recorrente em trabalhos sobre a presença feminina na capoeira baiana, mas sua biografia permanece pouco documentada. A forma alternativa Maria 12 Homens também aparece nas fontes. O artigo acadêmico 'Pisada de cabocla', publicado na Revista Feminismos da UFBA, inclui Maria entre mulheres cuja memória integra a história da capoeira e discute a relação entre ancestralidade, mulheres negras e resgate feminista. O livro 'Mestres e capoeiras famosos da Bahia', coordenado por Pedro Abib, também a inclui entre personagens femininas lembradas pela pesquisa sobre a capoeira baiana, construída a partir de documentos, relatos orais, causos, cantigas, mitos e lendas. Em texto posterior do Portal Capoeira, Maria é situada entre mulheres destacadas na década de 1940, descrita como frequentadora das rodas do Cais Dourado e da rampa do Mercado Modelo. A mesma publicação afirma, explicitamente como lenda, que o apelido teria surgido porque ela levou doze homens a nocaute. Outra publicação do portal reconhece que as informações sobre antigas capoeiristas são escassas e que é difícil determinar a fronteira entre história e lenda. Há ainda uma versão diferente: a tese 'O jeito que o corpo dá', de Ângela Maria Ribeiro, registra a tradição oral de que Maria Doze Homens seria o nome usado por Maria Felipa nas rodas de capoeira. Essa associação pertence ao campo da memória oral e não deve ser apresentada como identificação comprovada. Como Maria Felipa viveu no século XIX, essa hipótese também evidencia a contradição com a narrativa que situa Maria Doze Homens na década de 1940. Mais do que preencher artificialmente essas lacunas, estudar Maria Doze Homens permite discutir como o racismo, o sexismo e a valorização desigual dos registros contribuíram para tornar pouco visíveis as mulheres negras que participaram da capoeira.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "Nascimento desconhecido",
+      "descricao": "Não foram encontrados nome civil, data ou local de nascimento comprovados nas fontes consultadas."
+    },
+    {
+      "ano": "Período histórico incerto",
+      "descricao": "As fontes posteriores não formam uma cronologia única: uma narrativa associa Maria Doze Homens à década de 1940, enquanto outra registra sua identificação oral com Maria Felipa, do século XIX."
+    },
+    {
+      "ano": "Rodas de Salvador",
+      "descricao": "Textos de divulgação histórica associam Maria Doze Homens ao Cais Dourado e à rampa do Mercado Modelo. A informação é preservada como narrativa, pois não foi acompanhada de documentação primária nas fontes consultadas."
+    },
+    {
+      "ano": "Tradição oral",
+      "descricao": "O apelido é relacionado à história de que Maria teria derrubado ou nocauteado doze homens. As próprias publicações apresentam o episódio como lenda."
+    },
+    {
+      "ano": "2009",
+      "descricao": "O livro 'Mestres e capoeiras famosos da Bahia', coordenado por Pedro Abib, inclui Maria Doze Homens entre as mulheres lembradas em uma pesquisa sobre personagens falecidos da capoeira baiana."
+    },
+    {
+      "ano": "2010",
+      "descricao": "O texto 'Onde estão as capoeiristas da história?' destaca a escassez de informações sobre Maria Doze Homens e outras mulheres e reconhece a dificuldade de separar história e lenda."
+    },
+    {
+      "ano": "2015",
+      "descricao": "O Portal Capoeira publica 'A mulher na capoeira', texto que relaciona Maria à década de 1940, às rodas de Salvador e à narrativa dos doze adversários."
+    },
+    {
+      "ano": "2018",
+      "descricao": "A tese de Ângela Maria Ribeiro, apresentada à UFBA, registra a tradição oral que identifica Maria Doze Homens com Maria Felipa, sem transformar essa versão em comprovação documental."
+    },
+    {
+      "ano": "2020",
+      "descricao": "O artigo 'Pisada de cabocla', de Joana Brandão Tavares, inclui Maria 12 Homens em uma reflexão acadêmica sobre ancestralidade, memória e mulheres negras na capoeira."
+    },
+    {
+      "ano": "2021",
+      "descricao": "O trabalho 'De Maria Doze Homens a Madame Satã', de Rosângela Janja Costa Araújo, propõe debater raça, gênero e sexualidades por meio de narrativas disputadas da capoeira."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Sua memória desafia o apagamento das mulheres negras na história da capoeira.",
+    "descricao": "Maria Doze Homens é extraordinária não porque todos os detalhes atribuídos a ela possam ser comprovados, mas porque a permanência de seu nome revela uma presença feminina que os registros tradicionais quase apagaram. Sua memória permite reconhecer que mulheres negras participaram das rodas, disputaram espaços masculinizados e ajudaram a construir a cultura da capoeira. Também ensina uma prática histórica responsável: valorizar a oralidade sem esconder suas variações, identificar quando uma narrativa é lendária e declarar o que ainda não se sabe. Ao inspirar novas pesquisas e discussões sobre raça e gênero, Maria Doze Homens continua ampliando as perguntas feitas à história brasileira.",
+    "imagem": {
+      "creditos": "Ilustração de Maria Felipa reproduzida pelo Portal Capoeira; usada apenas para contextualizar a tradição oral que relaciona as duas figuras, não como retrato comprovado de Maria Doze Homens",
+      "url": "maria.png"
+    }
+  },
+
+  "obras": [],
+
+  "registroHistorico": "Não são conhecidas obras de autoria de Maria Doze Homens, nem foram localizados registros primários suficientes para reconstituir sua vida. As fontes consultadas são estudos acadêmicos, uma apresentação de congresso, obras de história social da capoeira e textos de divulgação que recorrem também à memória oral. O nome Maria Doze Homens pode designar uma capoeirista lembrada no século XX ou, em outra tradição, um apelido de Maria Felipa; as fontes não permitem encerrar essa disputa. A imagem utilizada na página é uma ilustração moderna de Maria Felipa e não um retrato autenticado de Maria Doze Homens.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Inclusão em Mestres e capoeiras famosos da Bahia",
+      "ano": 2009,
+      "descricao": "A pesquisa coordenada por Pedro Abib inclui Maria Doze Homens entre as mulheres lembradas na história da capoeira baiana."
+    },
+    {
+      "titulo": "Presença em pesquisa acadêmica sobre memória e mulheres negras na capoeira",
+      "ano": 2020,
+      "descricao": "O artigo de Joana Brandão Tavares menciona Maria 12 Homens ao discutir ancestralidade, memória e resgate feminista da história da capoeira."
+    },
+    {
+      "titulo": "Tema de debate acadêmico sobre raça, gênero e sexualidades",
+      "ano": 2021,
+      "descricao": "O trabalho de Rosângela Janja Costa Araújo toma as narrativas de Maria Doze Homens e Madame Satã como ponto de partida para discutir disputas de memória na capoeira."
+    }
+  ],
+
+  "movimentos": [
+    "Capoeira baiana",
+    "Memória das mulheres na capoeira",
+    "Cultura afro-brasileira",
+    "Valorização das mulheres negras",
+    "Educação antirracista",
+    "Debate sobre gênero na capoeira"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre memória, representatividade e pesquisa das mulheres na capoeira",
+    "descricao": "O legado de Maria Doze Homens está na capacidade de seu nome tornar visível uma ausência: embora mulheres negras tenham integrado a história da capoeira, muitas de suas trajetórias não receberam o mesmo registro reservado aos homens. Sua presença em livros, artigos, trabalhos acadêmicos e narrativas de praticantes estimula a busca por novos documentos e depoimentos e amplia o debate sobre quem é reconhecido como protagonista da cultura brasileira. Preservar esse legado exige duas responsabilidades simultâneas: respeitar a oralidade que manteve sua memória viva e explicitar que episódios, datas e identificações ainda não possuem comprovação suficiente."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Ilustração moderna de Maria Felipa, figura que uma tradição oral associa a Maria Doze Homens; a identificação entre as duas não está documentalmente comprovada.",
+      "creditos": "Reprodução via Portal Capoeira; composição artística baseada em pesquisas, sem fotografia ou retrato histórico autenticado",
+      "imagem": "maria.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Artigo acadêmico",
+      "titulo": "Pisada de cabocla: capoeira como veículo de ancestralidade, memória e resgate feminista da história",
+      "autor": "Joana Brandão Tavares",
+      "ano": 2020,
+      "descricao": "Artigo da Revista Feminismos que menciona Maria 12 Homens e discute memória, ancestralidade e o resgate da presença de mulheres negras na história da capoeira.",
+      "link": "https://periodicos.ufba.br/index.php/feminismos/article/view/41950"
+    },
+    {
+      "tipo": "Tese de doutorado",
+      "titulo": "O jeito que o corpo dá: a capoeira Angola e a dimensão corporificada do conhecimento",
+      "autor": "Ângela Maria Ribeiro",
+      "ano": 2018,
+      "descricao": "Tese apresentada à UFBA que registra a tradição oral que associa Maria Doze Homens a Maria Felipa e a narrativa sobre a origem do apelido.",
+      "link": "https://www.repositorio.ufba.br/bitstream/ri/32165/1/O%20Jeito%20que%20o%20Corpo%20d%C3%A1-%20Final.pdf"
+    },
+    {
+      "tipo": "Trabalho acadêmico",
+      "titulo": "De Maria Doze Homens a Madame Satã: debatendo raça, gênero e sexualidades na capoeira",
+      "autor": "Rosângela Janja Costa Araújo",
+      "ano": 2021,
+      "descricao": "Resumo apresentado no Fazendo Gênero 12 que aborda narrativas disputadas da capoeira e suas relações com raça, racismo, gênero e sexualidades.",
+      "link": "https://www.fg2021.eventos.dype.com.br/trabalho/view?ID_TRABALHO=1784"
+    },
+    {
+      "tipo": "Livro acadêmico",
+      "titulo": "Capoeira, identidade e gênero: ensaios sobre a história social da capoeira no Brasil",
+      "autor": "Josivaldo Pires de Oliveira e Luiz Augusto Pinheiro Leal",
+      "ano": 2009,
+      "descricao": "Livro da EDUFBA, disponível na SciELO Livros, usado para contextualizar a história social da capoeira, sua criminalização e os indícios sobre mulheres capoeiras na Bahia.",
+      "link": "https://books.scielo.org/id/96v9g"
+    },
+    {
+      "tipo": "Apresentação de livro e pesquisa histórica",
+      "titulo": "Livro: Mestres e capoeiras famosos da Bahia",
+      "autor": "Pedro Abib, coordenação da obra; publicação do Portal Capoeira por Luciano Milani",
+      "ano": 2009,
+      "descricao": "Apresenta a pesquisa do Grupo MEL da Faculdade de Educação da UFBA e registra Maria Doze Homens entre as mulheres incluídas no levantamento sobre a capoeira baiana.",
+      "link": "https://portalcapoeira.com/capoeira/publicacoes-e-artigos/livro-mestres-e-capoeiras-famosos-da-bahia/"
+    },
+    {
+      "tipo": "Texto de divulgação histórica",
+      "titulo": "A mulher na capoeira",
+      "autor": "Lilia Benvenuti de Menezes; publicação do Portal Capoeira por Luciano Milani",
+      "ano": 2015,
+      "descricao": "Fonte da versão que situa Maria Doze Homens na década de 1940, a associa às rodas do Cais Dourado e do Mercado Modelo e apresenta como lenda a narrativa dos doze homens.",
+      "link": "https://portalcapoeira.com/capoeira/capoeira-mulheres/a-mulher-na-capoeira-2/"
+    },
+    {
+      "tipo": "Texto de divulgação histórica e fonte da imagem",
+      "titulo": "A guerreira Maria Felipa",
+      "autor": "Luciano Milani",
+      "ano": 2010,
+      "descricao": "Página de origem da ilustração usada no perfil. O texto apresenta versões sobre Maria Felipa e afirma que a possível identificação com Maria Doze Homens não possui confirmação.",
+      "link": "https://portalcapoeira.com/capoeira/capoeira-mulheres/a-guerreira-maria-felipa/"
+    },
+    {
+      "tipo": "Texto de divulgação e reflexão histórica",
+      "titulo": "Onde estão as capoeiristas da história?",
+      "autor": "Luciano Milani; texto creditado ao blog Capoeira de Vênus",
+      "ano": 2010,
+      "descricao": "Texto que menciona Maria Doze Homens, destaca a escassez de informações sobre antigas capoeiristas e reconhece a dificuldade de separar história e lenda.",
+      "link": "https://portalcapoeira.com/capoeira/capoeira-mulheres/onde-estao-as-capoeiristas-da-historia/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a memória histórica de Maria Doze Homens com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser a pessoa real, e diferencie sempre registros acadêmicos, textos de divulgação, tradição oral, lenda e fatos documentalmente comprovados.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Antirracista",
+      "Cuidadoso com incertezas históricas",
+      "Atento à oralidade",
+      "Comprometido com a visibilidade das mulheres negras"
+    ],
+    "temasChave": [
+      "Maria Doze Homens",
+      "Maria 12 Homens",
+      "Capoeira baiana",
+      "Mulheres na capoeira",
+      "Cais Dourado",
+      "Mercado Modelo",
+      "História oral",
+      "Memória social",
+      "Maria Felipa",
+      "Apagamento histórico",
+      "Racismo e gênero",
+      "Cultura afro-brasileira"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e adequada a estudantes.",
+      "Fale de Maria Doze Homens em terceira pessoa; não simule memórias, sentimentos privados, diálogos ou falas inéditas dela.",
+      "Não invente nome civil, sobrenome, datas, parentesco, profissão, local de nascimento ou morte.",
+      "Informe que a documentação biográfica localizada é escassa e que as fontes posteriores combinam pesquisa, memória oral e narrativas lendárias.",
+      "Apresente o episódio dos doze homens como lenda ou narrativa sobre a origem do apelido, nunca como fato comprovado.",
+      "Ao mencionar a década de 1940, atribua essa datação ao texto 'A mulher na capoeira' e esclareça que não foi encontrada documentação primária confirmatória.",
+      "Ao mencionar o Cais Dourado e a rampa do Mercado Modelo, informe que essa associação aparece em narrativas posteriores.",
+      "Não afirme que Maria Doze Homens e Maria Felipa eram a mesma pessoa. Explique que uma tese da UFBA registra essa identificação como tradição oral e que ela não está documentalmente comprovada.",
+      "Explique que a identificação com Maria Felipa, do século XIX, entra em tensão cronológica com a versão que situa Maria Doze Homens na década de 1940.",
+      "Não descreva a imagem da página como fotografia ou retrato histórico de Maria Doze Homens; ela é uma ilustração moderna associada a Maria Felipa.",
+      "Valorize a tradição oral como fonte de memória sem apagar suas variações ou transformar todas as versões em fatos equivalentes.",
+      "Se uma informação não estiver nesta base ou em fonte confiável, declare a limitação em vez de supor.",
+      "Ao citar uma afirmação contestada, identifique qual fonte sustenta a versão apresentada."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Maria Doze Homens realmente derrotou doze homens?",
+      "resposta": "Essa história é apresentada pelas fontes como uma lenda sobre a origem do apelido Maria Doze Homens. Um texto do Portal Capoeira afirma que ela teria nocauteado doze adversários, e uma tese da UFBA também registra uma versão semelhante dentro da tradição oral. Como não foram localizados documentos primários que comprovem o episódio, o mais responsável é valorizar a narrativa como parte da memória da capoeira sem tratá-la como fato confirmado."
+    }
+  }
+}

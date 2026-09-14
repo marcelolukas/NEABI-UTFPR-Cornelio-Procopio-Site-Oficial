@@ -1,0 +1,418 @@
+{
+  "id": "ida-b-wells-barnett",
+
+  "dadosBasicos": {
+    "nome": "Ida B. Wells-Barnett",
+    "nomeCompleto": "Ida Bell Wells-Barnett",
+    "grupo": "Negra afro-estadunidense",
+    "dataNascimento": "1862-07-16",
+    "localNascimento": "Holly Springs, Mississippi, Estados Unidos",
+    "nacionalidade": "Estadunidense",
+    "estadoAtual": "Falecida",
+    "dataFalecimento": "1931-03-25"
+  },
+
+  "observacaoCronologica": "Ida Bell Wells nasceu escravizada em 16 de julho de 1862, durante a Guerra Civil dos Estados Unidos, e foi emancipada ainda criança. Em algumas sínteses, o episódio ferroviário que marcou sua atuação pública aparece associado a 1883; os registros do processo preservados pela Universidade de Chicago e a biografia do National Park Service situam a expulsão do trem em 1884 e a reversão judicial em 1887. Esta base adota essas datas e registra seu falecimento em 25 de março de 1931, em Chicago.",
+
+  "ocupacoes": [
+    "Jornalista investigativa",
+    "Editora e proprietária de jornal",
+    "Professora",
+    "Conferencista",
+    "Ativista antirracista",
+    "Ativista contra os linchamentos",
+    "Sufragista",
+    "Organizadora comunitária",
+    "Defensora dos direitos civis"
+  ],
+
+  "resumo": "Ida B. Wells-Barnett foi uma jornalista investigativa, editora, educadora, sufragista e ativista afro-estadunidense. Nascida sob a escravidão no Mississippi e emancipada durante a infância, transformou o jornalismo em instrumento de investigação e denúncia da violência racial. Depois do linchamento de Thomas Moss, Calvin McDowell e William Stewart em Memphis, em 1892, reuniu notícias, testemunhos e estatísticas para contestar as justificativas usadas por multidões e autoridades. Publicou obras como Southern Horrors e A Red Record, realizou campanhas nos Estados Unidos e no Reino Unido, participou da organização da NAACP, fundou o Alpha Suffrage Club em Chicago e defendeu simultaneamente os direitos da população negra e das mulheres.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: emancipação, educação e imprensa negra",
+    "imagem": {
+      "creditos": "Sallie E. Garrity, c. 1893, National Portrait Gallery / Smithsonian Institution — domínio público",
+      "url": "Ida-bio.png"
+    },
+    "descricao": "Ida Bell Wells nasceu em Holly Springs, Mississippi, filha de James Wells e Elizabeth 'Lizzie' Warrenton Wells. Seus pais, emancipados durante a Guerra Civil, valorizaram a educação e participaram da vida cívica da comunidade negra durante a Reconstrução; seu pai também esteve ligado à instituição que se tornaria o Rust College. Em 1878, uma epidemia de febre amarela matou seus pais e um de seus irmãos. Aos 16 anos, Ida assumiu o cuidado dos irmãos mais novos e começou a lecionar. Mais tarde, mudou-se para Memphis, onde continuou seus estudos e trabalhou como professora. Em 1884, depois de comprar uma passagem de primeira classe, recusou-se a ir para um vagão segregado e foi retirada à força do trem. Processou a companhia ferroviária, venceu inicialmente e teve a decisão revertida pela Suprema Corte do Tennessee em 1887. A experiência fortaleceu sua decisão de usar a escrita e a ação pública contra a segregação e a desigualdade racial."
+  },
+
+  "perfil": {
+    "valores": [
+      "Verdade",
+      "Justiça racial",
+      "Liberdade",
+      "Dignidade",
+      "Igualdade política",
+      "Educação",
+      "Responsabilidade pública",
+      "Autonomia das mulheres",
+      "Coragem cívica"
+    ],
+    "caracteristicas": [
+      "Investigativa",
+      "Corajosa",
+      "Rigorosa",
+      "Insubmissa",
+      "Estratégica",
+      "Articuladora",
+      "Persistente",
+      "Direta"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Jornalismo investigativo",
+    "História afro-estadunidense",
+    "Violência racial e linchamentos",
+    "Direitos civis",
+    "Sufrágio feminino",
+    "Direitos políticos da população negra",
+    "Imprensa negra",
+    "Segregação racial",
+    "Organização comunitária",
+    "Feminismo negro",
+    "Memória e documentação histórica"
+  ],
+
+  "causas": [
+    "Combate aos linchamentos",
+    "Combate ao racismo",
+    "Denúncia da violência racial",
+    "Liberdade de imprensa",
+    "Direitos civis",
+    "Sufrágio feminino",
+    "Participação política das mulheres negras",
+    "Igualdade no transporte e na educação",
+    "Autonomia econômica da população negra",
+    "Proteção de comunidades negras",
+    "Responsabilização de autoridades",
+    "Preservação da verdade histórica"
+  ],
+
+  "habilidades": [
+    "Jornalismo investigativo",
+    "Pesquisa documental",
+    "Análise de dados e estatísticas",
+    "Escrita editorial",
+    "Oratória pública",
+    "Organização política",
+    "Mobilização comunitária",
+    "Articulação internacional",
+    "Fundação de organizações",
+    "Incidência por direitos civis"
+  ],
+
+  "tracosPersonalidade": [
+    "Destemida",
+    "Determinação",
+    "Independência",
+    "Firmeza",
+    "Persistência",
+    "Lucidez crítica",
+    "Disciplina",
+    "Compromisso com a verdade"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 9,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 6,
+    "cienciaETecnologia": 4,
+    "esporte": 0,
+    "empreendedorismo": 8,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 10,
+    "filosofia": 8,
+    "literatura": 9,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Ida Bell Wells nasceu em 16 de julho de 1862, em Holly Springs, Mississippi, sob o regime da escravidão. Era filha de James Wells e Elizabeth 'Lizzie' Warrenton Wells, que foram emancipados durante a Guerra Civil e participaram ativamente da vida comunitária e política no período da Reconstrução. Em 1878, a epidemia de febre amarela matou seus pais e um de seus irmãos. Aos 16 anos, Ida tornou-se professora e responsável pelos irmãos mais novos. Depois, mudou-se para Memphis, Tennessee, onde continuou lecionando e estudando. Em 1884, recusou-se a deixar o vagão de primeira classe de um trem e foi removida à força. Ela processou a companhia ferroviária e obteve uma indenização em primeira instância, mas a decisão foi revertida pela Suprema Corte do Tennessee em 1887. Na imprensa negra, escreveu sob o pseudônimo 'Iola' e ganhou projeção ao denunciar a segregação, a desigualdade escolar e a violência racial. Em 1889, tornou-se sócia e editora do Memphis Free Speech and Headlight; em 1891, perdeu o emprego de professora após criticar as escolas segregadas. Sua campanha contra os linchamentos ganhou dimensão decisiva em 1892, quando Thomas Moss, Calvin McDowell e William Stewart, ligados à People's Grocery, foram retirados da prisão e assassinados por uma multidão branca. Wells investigou o caso e mostrou como a violência também protegia interesses econômicos e impunha terror às comunidades negras. Em represália a seus editoriais, uma multidão destruiu a redação e a prensa do Free Speech e ameaçou sua vida. Impedida de retornar a Memphis, continuou a campanha a partir do Norte. Publicou Southern Horrors: Lynch Law in All Its Phases em 1892 e A Red Record em 1895, combinando investigação, relatos da imprensa e estatísticas para contestar narrativas que tentavam justificar os linchamentos. Realizou turnês de conferências nos Estados Unidos e no Reino Unido e, em 1893, colaborou na publicação The Reason Why the Colored American Is Not in the World's Columbian Exposition. Em 1895, casou-se com o advogado e editor Ferdinand L. Barnett, com quem teve quatro filhos, e manteve atuação pública e profissional. Em Chicago, participou da criação e da liderança de organizações negras e de mulheres, integrou a organização inicial da NAACP, fundou o Alpha Suffrage Club em 1913 e enfrentou a segregação dentro do próprio movimento sufragista. Em 1930, candidatou-se sem sucesso ao Senado de Illinois. Faleceu em Chicago, em 25 de março de 1931. Em 2020, recebeu postumamente uma Menção Especial do Prêmio Pulitzer por sua reportagem corajosa sobre a violência contra afro-americanos durante a era dos linchamentos.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1862",
+      "descricao": "Nasce escravizada em 16 de julho, em Holly Springs, Mississippi, durante a Guerra Civil dos Estados Unidos."
+    },
+    {
+      "ano": "1865",
+      "descricao": "É emancipada ainda criança; sua família participa da vida cívica e educacional negra durante a Reconstrução."
+    },
+    {
+      "ano": "1878",
+      "descricao": "Perde os pais e um irmão na epidemia de febre amarela. Aos 16 anos, passa a lecionar e a sustentar os irmãos mais novos."
+    },
+    {
+      "ano": "1882",
+      "descricao": "Muda-se para Memphis, onde trabalha como professora, prossegue os estudos e se aproxima da imprensa negra."
+    },
+    {
+      "ano": "1884-1887",
+      "descricao": "É retirada à força de um vagão de primeira classe por se recusar a aceitar a segregação; vence inicialmente o processo contra a ferrovia, mas a decisão é revertida em 1887."
+    },
+    {
+      "ano": "1889",
+      "descricao": "Torna-se sócia e editora do Memphis Free Speech and Headlight, ampliando sua denúncia do racismo sob o pseudônimo 'Iola'."
+    },
+    {
+      "ano": "1891",
+      "descricao": "É demitida do magistério depois de publicar críticas às condições e desigualdades das escolas segregadas de Memphis."
+    },
+    {
+      "ano": "1892",
+      "descricao": "Após o linchamento de Thomas Moss, Calvin McDowell e William Stewart, investiga a violência racial. A redação do Free Speech é destruída e sua vida é ameaçada; publica Southern Horrors."
+    },
+    {
+      "ano": "1893-1894",
+      "descricao": "Realiza campanhas e conferências contra os linchamentos no Reino Unido e participa da publicação The Reason Why, que denuncia a exclusão negra da Exposição Mundial de Chicago."
+    },
+    {
+      "ano": "1895",
+      "descricao": "Publica A Red Record, estudo documentado e estatístico sobre linchamentos, e se casa com o advogado e editor Ferdinand L. Barnett."
+    },
+    {
+      "ano": "1896-1898",
+      "descricao": "Ajuda a organizar associações nacionais de mulheres negras e o National Afro-American Council, no qual atua em iniciativas contra os linchamentos."
+    },
+    {
+      "ano": "1909",
+      "descricao": "Participa da conferência que deu origem à NAACP; depois se afasta por discordar de sua liderança e de estratégias que considerava moderadas."
+    },
+    {
+      "ano": "1913",
+      "descricao": "Funda o Alpha Suffrage Club em Chicago e marcha com a delegação de Illinois na parada sufragista de Washington, apesar das tentativas de segregar mulheres negras."
+    },
+    {
+      "ano": "1930",
+      "descricao": "Candidata-se ao Senado estadual de Illinois como independente, sem ser eleita."
+    },
+    {
+      "ano": "1931",
+      "descricao": "Falece em 25 de março, em Chicago, após quase cinco décadas de jornalismo, organização política e defesa de direitos."
+    },
+    {
+      "ano": "2020",
+      "descricao": "Recebe postumamente uma Menção Especial do Prêmio Pulitzer por sua reportagem sobre a violência contra afro-americanos na era dos linchamentos."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Transformou investigação, dados e imprensa em instrumentos de enfrentamento ao terror racial.",
+    "descricao": "Ida B. Wells-Barnett foi extraordinária porque investigou a violência racial quando autoridades e grande parte da imprensa a encobriam ou justificavam. Em vez de aceitar acusações repetidas como verdade, comparou relatos, examinou circunstâncias, reuniu estatísticas e mostrou que os linchamentos funcionavam como instrumentos de terror, controle social e proteção de privilégios políticos e econômicos. Mesmo depois da destruição de seu jornal e das ameaças à sua vida, continuou publicando e levou a campanha a públicos nacionais e internacionais. Sua atuação também recusou separar justiça racial de igualdade de gênero: organizou mulheres negras, lutou pelo voto e confrontou o racismo no movimento sufragista. Seu legado une rigor jornalístico, coragem política e compromisso comunitário.",
+    "imagem": {
+      "creditos": "The Story of the Illinois Federation of Colored Women's Clubs, 1922, via Wikimedia Commons — domínio público",
+      "url": "Ida-Extraodinaria.png"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "Southern Horrors: Lynch Law in All Its Phases",
+      "ano": 1892,
+      "descricao": "Panfleto investigativo em que Wells examina casos de linchamento e contesta as justificativas racistas usadas para sustentar essa violência."
+    },
+    {
+      "titulo": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
+      "ano": 1893,
+      "descricao": "Publicação coletiva, editada e distribuída com participação de Wells, que denunciou a exclusão e a opressão da população negra na Exposição Mundial de Chicago."
+    },
+    {
+      "titulo": "A Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States",
+      "ano": 1895,
+      "descricao": "Estudo que reúne estatísticas, relatos e análise crítica dos linchamentos ocorridos nos Estados Unidos."
+    },
+    {
+      "titulo": "Lynch Law in Georgia",
+      "ano": 1899,
+      "descricao": "Panfleto do Anti-Lynching Bureau que confronta versões da imprensa e apresenta resultados de investigação sobre a violência racial na Geórgia."
+    },
+    {
+      "titulo": "Mob Rule in New Orleans",
+      "ano": 1900,
+      "descricao": "Relato e análise da violência coletiva em Nova Orleans, incluindo a perseguição à comunidade negra após o caso de Robert Charles."
+    },
+    {
+      "titulo": "Crusade for Justice: The Autobiography of Ida B. Wells",
+      "ano": 1970,
+      "descricao": "Autobiografia publicada postumamente e editada por sua filha Alfreda M. Duster; a segunda edição, de 2020, acrescenta textos de Eve L. Ewing e Michelle Duster."
+    }
+  ],
+
+  "registroHistorico": "A trajetória de Ida B. Wells-Barnett é documentada por seus próprios panfletos, diários, correspondência, autobiografia, artigos de imprensa, registros judiciais e acervos institucionais. Textos históricos podem conter termos racistas, descrições de violência e convenções de linguagem do período; esses materiais devem ser contextualizados, não reproduzidos de forma sensacionalista. Ao atribuir citações a Wells, é necessário indicar uma obra ou um acervo verificável e evitar transformar paráfrases em falas literais.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Liderança internacional da campanha contra os linchamentos",
+      "ano": "1893-1894",
+      "descricao": "Suas conferências no Reino Unido internacionalizaram a denúncia dos linchamentos nos Estados Unidos e estimularam redes de solidariedade."
+    },
+    {
+      "titulo": "Fundadora e organizadora do Alpha Suffrage Club",
+      "ano": 1913,
+      "descricao": "O clube ampliou a educação cívica e a participação política de mulheres negras em Chicago."
+    },
+    {
+      "titulo": "Ida B. Wells-Barnett House — National Historic Landmark",
+      "ano": 1974,
+      "descricao": "A residência em que Wells-Barnett viveu em Chicago foi reconhecida como Marco Histórico Nacional dos Estados Unidos."
+    },
+    {
+      "titulo": "Menção Especial do Prêmio Pulitzer",
+      "ano": 2020,
+      "descricao": "Reconhecimento póstumo por sua reportagem notável e corajosa sobre a violência contra afro-americanos durante a era dos linchamentos."
+    }
+  ],
+
+  "movimentos": [
+    "Campanha contra os linchamentos",
+    "Imprensa negra",
+    "Movimento pelos direitos civis",
+    "Movimento sufragista",
+    "Alpha Suffrage Club",
+    "National Association of Colored Women",
+    "National Afro-American Council",
+    "Organização inicial da NAACP",
+    "Movimento de clubes de mulheres negras",
+    "Luta contra a segregação racial"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre jornalismo, direitos civis, memória histórica e feminismo negro",
+    "descricao": "O legado de Ida B. Wells-Barnett está na combinação entre produção de conhecimento e ação política. Seu método de reunir nomes, datas, circunstâncias e estatísticas mostrou como o jornalismo poderia desmentir narrativas oficiais e tornar visível uma estrutura de violência racial. Suas publicações ajudaram a consolidar a campanha contra os linchamentos e deixaram um arquivo indispensável para historiadores, educadores e movimentos de direitos humanos. Ao criar e fortalecer organizações, Wells também ampliou a presença política das mulheres negras e expôs o racismo existente em setores do movimento sufragista. Sua vida continua sendo referência para jornalistas investigativos, pesquisadoras do feminismo negro e pessoas que enfrentam a desinformação, a violência racial e a exclusão política."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Placa histórica em Holly Springs, Mississippi, dedicada à trajetória de Ida B. Wells-Barnett como jornalista, educadora, sufragista e ativista.",
+      "creditos": "Wikimedia Commons — arquivo 'Ida B. Wells-Barnett marker H.S.jpg'",
+      "imagem": "Ida-galeria-1.png"
+    },
+    {
+      "descricao": "Ida B. Wells-Barnett com seus filhos Charles, Herman, Ida e Alfreda, em 1909.",
+      "creditos": "Wikimedia Commons — autor não atribuído, domínio público",
+      "imagem": "Ida-galeria-2.png"
+    },
+    {
+      "descricao": "Monumento dedicado a Ida B. Wells-Barnett, celebrando sua atuação no jornalismo e na luta por justiça racial.",
+      "creditos": "Southern Hollows / S. Liles, via Wikimedia Commons — CC BY-SA 4.0",
+      "imagem": "ida-galeria-3.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Biografia institucional",
+      "titulo": "Ida B. Wells",
+      "autor": "U.S. National Park Service",
+      "descricao": "Fonte para nascimento, família, formação, docência, episódio ferroviário, Free Speech, campanha contra os linchamentos, sufrágio, NAACP, morte e legado.",
+      "link": "https://www.nps.gov/people/idabwells.htm"
+    },
+    {
+      "tipo": "Perfil e acervo histórico",
+      "titulo": "Ida B. Wells-Barnett — Daniel Murray: A Collector's Legacy",
+      "autor": "Library of Congress",
+      "descricao": "Fonte sobre jornalismo, destruição da redação, A Red Record, campanhas internacionais, National Afro-American Council e participação na fundação da NAACP.",
+      "link": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/daniel-murray-a-collectors-legacy/ida-b-wells-barnett/"
+    },
+    {
+      "tipo": "Material educativo e fontes primárias",
+      "titulo": "Woman Journalist Crusades Against Lynching",
+      "autor": "Library of Congress",
+      "descricao": "Fonte sobre o método investigativo de Wells, o linchamento de seus amigos, a destruição do jornal e sua análise das funções políticas e econômicas da violência racial.",
+      "link": "https://www.loc.gov/exhibits/odyssey/educate/barnett.html"
+    },
+    {
+      "tipo": "Exposição histórica",
+      "titulo": "Ida B. Wells-Barnett Holds Her Ground",
+      "autor": "Library of Congress",
+      "descricao": "Fonte sobre o Alpha Suffrage Club e a participação de Wells-Barnett na parada sufragista de Washington em 1913.",
+      "link": "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/new-tactics-for-a-new-generation-1890-1915/new-tactics-and-renewed-confrontation/ida-b-wells-barnett-holds-her-ground/"
+    },
+    {
+      "tipo": "Exposição histórica",
+      "titulo": "Prelude — NAACP: A Century in the Fight for Freedom",
+      "autor": "Library of Congress",
+      "descricao": "Fonte sobre a campanha contra os linchamentos, o Anti-Lynching Bureau, a organização da NAACP e as divergências de Wells com a liderança da associação.",
+      "link": "https://www.loc.gov/exhibits/naacp/prelude.html"
+    },
+    {
+      "tipo": "Acervo arquivístico",
+      "titulo": "Wells, Ida B. Papers, 1884-1976",
+      "autor": "The University of Chicago Library",
+      "descricao": "Acervo de manuscritos, correspondência, diários, fotografias, registros do processo ferroviário e originais de Crusade for Justice.",
+      "link": "https://www.lib.uchicago.edu/collex/collections/wells-ida-b-papers/"
+    },
+    {
+      "tipo": "Autobiografia — página editorial",
+      "titulo": "Crusade for Justice: The Autobiography of Ida B. Wells",
+      "autor": "The University of Chicago Press",
+      "ano": "1970; 2ª ed. 2020",
+      "descricao": "Fonte editorial sobre a autobiografia, sua história de publicação e a atuação de Wells como professora, jornalista, conferencista, sufragista e organizadora.",
+      "link": "https://press.uchicago.edu/ucp/books/book/chicago/C/bo49856620.html"
+    },
+    {
+      "tipo": "Biografia histórica",
+      "titulo": "Ida B. Wells-Barnett",
+      "autor": "National Women's History Museum",
+      "descricao": "Síntese biográfica com referências sobre infância, carreira na imprensa, Southern Horrors, A Red Record, The Reason Why e organizações de mulheres negras.",
+      "link": "https://www.womenshistory.org/education-resources/biographies/ida-b-wells-barnett"
+    },
+    {
+      "tipo": "Prêmio",
+      "titulo": "Ida B. Wells — Special Citation",
+      "autor": "The Pulitzer Prizes",
+      "ano": 2020,
+      "descricao": "Página oficial da Menção Especial concedida postumamente a Wells por sua reportagem sobre a violência contra afro-americanos na era dos linchamentos.",
+      "link": "https://www.pulitzer.org/winners/ida-b-wells"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória pública de Ida B. Wells-Barnett com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser Ida B. Wells-Barnett, e destaque seu trabalho como jornalista investigativa, editora, ativista contra os linchamentos, organizadora de mulheres negras e sufragista.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Firme",
+      "Historicamente contextualizado",
+      "Antirracista",
+      "Cuidadoso com fontes",
+      "Sensível ao tratar de violência"
+    ],
+    "temasChave": [
+      "Jornalismo investigativo",
+      "Southern Horrors",
+      "A Red Record",
+      "Campanha contra os linchamentos",
+      "Memphis Free Speech",
+      "Imprensa negra",
+      "Alpha Suffrage Club",
+      "Sufrágio feminino",
+      "Participação política de mulheres negras",
+      "NAACP",
+      "National Afro-American Council",
+      "Racismo durante a Reconstrução e as leis Jim Crow",
+      "Prêmio Pulitzer de 2020"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e adequada a estudantes.",
+      "Fale de Ida B. Wells-Barnett em terceira pessoa; não simule memórias, sentimentos privados ou falas inéditas dela.",
+      "Não invente citações, datas, estatísticas, cargos, obras ou organizações sem base nas fontes.",
+      "Ao tratar de linchamentos, explique seu caráter de terror racial e controle social sem descrições gráficas ou sensacionalistas.",
+      "Diferencie acusações publicadas pela imprensa da época dos resultados das investigações de Wells; não apresente justificativas racistas como fatos.",
+      "Explique que a campanha de Wells combinava investigação de casos, comparação de notícias, testemunhos, estatísticas, editoriais e conferências públicas.",
+      "Ao mencionar a NAACP, informe que Wells ajudou em sua organização inicial, mas depois se afastou por divergências com a liderança e a estratégia da entidade.",
+      "Ao falar do sufrágio, destaque o Alpha Suffrage Club e o racismo enfrentado por mulheres negras dentro do movimento sufragista.",
+      "Informe que a Menção Especial do Pulitzer foi concedida postumamente em 2020; não diga que Wells recebeu o prêmio em vida.",
+      "Se uma informação não estiver nesta base ou em fonte confiável, declare a limitação em vez de supor.",
+      "Se usar uma citação direta, identifique a obra ou o acervo verificável e não transforme paráfrases em aspas."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que o trabalho de Ida B. Wells foi importante para o jornalismo?",
+      "resposta": "Ida B. Wells-Barnett usou o jornalismo para investigar uma violência que muitas autoridades e jornais procuravam justificar ou esconder. Ela reuniu notícias, testemunhos, nomes, datas e estatísticas, comparou versões e mostrou que os linchamentos eram instrumentos de terror racial e controle político e econômico. Mesmo depois de sua redação ser destruída e sua vida ser ameaçada, continuou publicando e realizando conferências. Por isso, seu trabalho é uma referência histórica de jornalismo investigativo comprometido com os direitos civis."
+    }
+  }
+}
