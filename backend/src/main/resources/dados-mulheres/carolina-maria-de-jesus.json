@@ -1,0 +1,440 @@
+{
+  "id": "carolina-maria-de-jesus",
+
+  "dadosBasicos": {
+    "nome": "Carolina Maria de Jesus",
+    "nomeCompleto": "Carolina Maria de Jesus",
+    "grupo": "Negra",
+    "dataNascimento": "1914-03-14",
+    "localNascimento": "Sacramento, Minas Gerais, Brasil",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Falecida",
+    "dataFalecimento": "1977-02-13"
+  },
+
+  "observacaoCronologica": "Carolina Maria de Jesus nasceu em 14 de março de 1914, em Sacramento, Minas Gerais, e faleceu em 13 de fevereiro de 1977, em Parelheiros, São Paulo. Sua escolarização formal foi curta, mas fontes recentes chamam atenção para seus múltiplos letramentos, sua formação pela leitura, pela oralidade familiar, pela experiência urbana e pela escrita constante. Ao tratar de sua trajetória, esta base evita reduzi-la a uma imagem única de pobreza e destaca sua produção literária em diferentes gêneros.",
+
+  "ocupacoes": [
+    "Escritora",
+    "Memorialista",
+    "Poeta",
+    "Romancista",
+    "Compositora",
+    "Catadora de papel",
+    "Intelectual negra",
+    "Cronista da vida urbana"
+  ],
+
+  "resumo": "Carolina Maria de Jesus foi uma escritora brasileira nascida em Sacramento, Minas Gerais, reconhecida como uma das vozes mais importantes da literatura afro-brasileira e da escrita de denúncia social no país. Com poucos anos de escolarização formal, tornou-se leitora e escritora persistente, registrando em cadernos o cotidiano da favela do Canindé, em São Paulo, onde viveu e trabalhou como catadora de papel. Seu livro Quarto de despejo: diário de uma favelada, publicado em 1960, tornou-se um fenômeno editorial no Brasil e no exterior. Além de diários, Carolina escreveu romances, poemas, provérbios, letras de música, peças, contos e textos autobiográficos, deixando um legado que atravessa literatura, memória, fome, racismo, gênero, maternidade, cidade e desigualdade social.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: Sacramento, leitura e escrita como resistência",
+    "imagem": {
+      "creditos": "Literafro / UFMG — reprodução em página educativa",
+      "url": "carolina_de_jesus_bio.png"
+    },
+    "descricao": "Carolina Maria de Jesus nasceu em Sacramento, no interior de Minas Gerais, em uma família negra e pobre, em um Brasil ainda profundamente marcado pelas consequências da escravidão. Estudou por pouco tempo no Colégio Espírita Allan Kardec, mas esse contato inicial com a leitura e a escrita teve impacto decisivo em sua vida. Sua formação também veio da escuta de narrativas familiares, da leitura de jornais, livros e dicionários, das experiências de trabalho e das observações sobre a sociedade. Antes de se tornar conhecida nacionalmente, migrou por cidades do interior e chegou a São Paulo em 1937, onde enfrentou trabalho precário, racismo, pobreza e exclusão urbana."
+  },
+
+  "perfil": {
+    "valores": [
+      "Dignidade",
+      "Escrita",
+      "Liberdade",
+      "Justiça social",
+      "Autonomia",
+      "Memória",
+      "Verdade literária",
+      "Resistência"
+    ],
+    "caracteristicas": [
+      "Observadora",
+      "Crítica",
+      "Persistente",
+      "Autodidata",
+      "Corajosa",
+      "Irônica",
+      "Inventiva",
+      "Inconformada"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Literatura afro-brasileira",
+    "Memorialismo",
+    "Diário",
+    "Poesia",
+    "Romance",
+    "Música",
+    "Fome",
+    "Favela do Canindé",
+    "Desigualdade social",
+    "Racismo",
+    "Maternidade",
+    "Cidade de São Paulo",
+    "Escrita de mulheres negras"
+  ],
+
+  "causas": [
+    "Combate à fome",
+    "Denúncia da desigualdade social",
+    "Combate ao racismo",
+    "Valorização da literatura negra",
+    "Visibilidade de mulheres pobres e periféricas",
+    "Direito à moradia",
+    "Dignidade da população favelada",
+    "Reconhecimento de escritoras negras",
+    "Memória das periferias urbanas",
+    "Direito à leitura e à escrita"
+  ],
+
+  "habilidades": [
+    "Escrita diarística",
+    "Observação social",
+    "Crítica política",
+    "Criação literária",
+    "Memória narrativa",
+    "Poesia",
+    "Ironia",
+    "Registro do cotidiano",
+    "Autodidatismo",
+    "Composição musical"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Franca",
+    "Corajosa",
+    "Independente",
+    "Crítica",
+    "Sensível",
+    "Resistente",
+    "Criativa"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 8,
+    "lideranca": 8,
+    "justicaSocial": 10,
+    "arteECultura": 10,
+    "cienciaETecnologia": 0,
+    "esporte": 0,
+    "empreendedorismo": 5,
+    "comunidade": 9,
+    "direitosHumanos": 10,
+    "politica": 8,
+    "filosofia": 8,
+    "literatura": 10,
+    "igualdadeDeGenero": 9,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Carolina Maria de Jesus nasceu em 14 de março de 1914, em Sacramento, Minas Gerais. Filha de uma família negra e pobre, cresceu em um contexto social atravessado pelo racismo, pelo analfabetismo estrutural e pela precariedade vivida por descendentes de pessoas escravizadas no pós-abolição. Frequentou por pouco tempo o Colégio Espírita Allan Kardec, experiência breve, mas decisiva para consolidar sua relação com a leitura e a escrita. Ainda jovem, trabalhou em atividades rurais e domésticas, circulou por cidades do interior de Minas Gerais e São Paulo e chegou à capital paulista em 1937. Em 1948, passou a viver na favela do Canindé, às margens do rio Tietê, onde criou seus três filhos e sobreviveu como catadora de papel. Nos cadernos que encontrava, registrava o cotidiano da favela, a fome, as relações de vizinhança, a violência, o racismo, a política, a maternidade, a cidade e seus próprios desejos literários. Em 1958, foi conhecida pelo jornalista Audálio Dantas, que se interessou por seus escritos e ajudou a organizar a publicação de Quarto de despejo: diário de uma favelada, lançado em 19 de agosto de 1960. O livro teve enorme repercussão, vendeu milhares de exemplares, foi traduzido para vários idiomas e projetou Carolina nacional e internacionalmente. Depois publicou Casa de alvenaria, Pedaços da fome e Provérbios, além de lançar um disco com composições próprias. Apesar do sucesso inicial, enfrentou críticas, racismo, exploração midiática, instabilidade financeira e o apagamento de parte de sua produção. Em 1969, mudou-se para um sítio em Parelheiros, onde continuou escrevendo. Faleceu em 13 de fevereiro de 1977. Após sua morte, obras como Diário de Bitita, Meu estranho diário, Antologia pessoal, Onde estaes felicidade?, Meu sonho é escrever e O escravo ampliaram a compreensão de sua produção. Hoje, Carolina é reconhecida como intelectual negra, escritora de múltiplos gêneros e uma das vozes fundamentais da literatura brasileira.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1914",
+      "descricao": "Nasce em Sacramento, Minas Gerais, em 14 de março, filha de Maria Carolina de Jesus, conhecida como Cota, e João Cândido Veloso."
+    },
+    {
+      "ano": "1921",
+      "descricao": "Passa a frequentar o Colégio Espírita Allan Kardec, onde permanece por pouco tempo e consolida sua relação com a leitura e a escrita."
+    },
+    {
+      "ano": "1933",
+      "descricao": "É presa injustamente em Sacramento após ser vista lendo um livro, episódio que evidencia o racismo e a hostilidade contra uma mulher negra envolvida com a escrita e o conhecimento."
+    },
+    {
+      "ano": "1937",
+      "descricao": "Chega à cidade de São Paulo, onde trabalha em atividades domésticas e passa a observar criticamente a modernização urbana e suas desigualdades."
+    },
+    {
+      "ano": "1948",
+      "descricao": "Muda-se para a favela do Canindé, em São Paulo, onde vive por mais de uma década, cria seus filhos e trabalha como catadora de papel."
+    },
+    {
+      "ano": "1955",
+      "descricao": "Inicia registros diarísticos sobre a vida na favela, escrevendo em cadernos encontrados durante o trabalho de coleta."
+    },
+    {
+      "ano": "1958",
+      "descricao": "Conhece o jornalista Audálio Dantas, que se interessa por seus cadernos. Trechos de seus diários começam a circular na imprensa."
+    },
+    {
+      "ano": "1960",
+      "descricao": "Publica Quarto de despejo: diário de uma favelada, obra que alcança grande sucesso no Brasil e no exterior."
+    },
+    {
+      "ano": "1961",
+      "descricao": "Publica Casa de alvenaria: diário de uma ex-favelada e viaja pela América do Sul para divulgar sua obra."
+    },
+    {
+      "ano": "1963",
+      "descricao": "Publica Pedaços da fome e Provérbios, ampliando sua produção para além do diário."
+    },
+    {
+      "ano": "1969",
+      "descricao": "Muda-se para um sítio em Parelheiros, na periferia de São Paulo, onde continua escrevendo seus últimos textos."
+    },
+    {
+      "ano": "1977",
+      "descricao": "Falece em 13 de fevereiro, em Parelheiros, São Paulo."
+    },
+    {
+      "ano": "1986",
+      "descricao": "Diário de Bitita é lançado no Brasil, ampliando o acesso ao relato autobiográfico sobre sua infância e juventude."
+    },
+    {
+      "ano": "1996",
+      "descricao": "São publicados Meu estranho diário e Antologia pessoal, com textos organizados a partir de materiais deixados pela autora."
+    },
+    {
+      "ano": "2021",
+      "descricao": "Recebe, in memoriam, o título de Doutora Honoris Causa pela Universidade Federal do Rio de Janeiro."
+    },
+    {
+      "ano": "2023",
+      "descricao": "O romance O escravo é publicado, reforçando a dimensão ficcional e múltipla da obra caroliniana."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Escrita como denúncia, invenção literária e afirmação de uma intelectual negra.",
+    "descricao": "Carolina Maria de Jesus é extraordinária porque transformou a experiência de uma mulher negra, pobre, mãe solo e moradora da favela em literatura de alcance mundial. Sua escrita não apenas denunciou a fome e a desigualdade: produziu linguagem, pensamento crítico, memória urbana e reflexão sobre o Brasil. Ela rompeu expectativas impostas pelo racismo e pelo elitismo literário, mostrando que uma escritora podia nascer das margens sem pedir licença ao centro. Sua obra permanece viva porque combina testemunho, imaginação, ironia, poesia e análise social, abrindo caminhos para escritoras negras, periféricas e populares.",
+    "imagem": {
+      "creditos": "Arquivo Nacional / Fundo Correio da Manhã — domínio público",
+      "url": "carolina_de_jesus_extraodinaria.png"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "Quarto de despejo: diário de uma favelada",
+      "ano": 1960,
+      "descricao": "Livro baseado em seus diários sobre a vida na favela do Canindé, a fome, a pobreza, a maternidade e a desigualdade social."
+    },
+    {
+      "titulo": "Casa de alvenaria: diário de uma ex-favelada",
+      "ano": 1961,
+      "descricao": "Continuação diarística que acompanha a vida de Carolina após o sucesso de Quarto de despejo e sua saída da favela."
+    },
+    {
+      "titulo": "Pedaços da fome",
+      "ano": 1963,
+      "descricao": "Romance publicado em vida, importante para compreender Carolina também como ficcionista."
+    },
+    {
+      "titulo": "Provérbios",
+      "ano": 1963,
+      "descricao": "Obra publicada pela autora com pensamentos, máximas e reflexões em forma de provérbios."
+    },
+    {
+      "titulo": "Diário de Bitita",
+      "ano": 1986,
+      "descricao": "Obra autobiográfica póstuma sobre infância, juventude, racismo, pobreza, trabalho e formação da autora."
+    },
+    {
+      "titulo": "Meu estranho diário",
+      "ano": 1996,
+      "descricao": "Publicação póstuma organizada a partir de escritos deixados por Carolina."
+    },
+    {
+      "titulo": "Antologia pessoal",
+      "ano": 1996,
+      "descricao": "Coletânea de poemas que evidencia a dimensão lírica de sua produção literária."
+    },
+    {
+      "titulo": "Onde estaes felicidade?",
+      "ano": 2014,
+      "descricao": "Coletânea póstuma com contos, memórias e estudos críticos."
+    },
+    {
+      "titulo": "Meu sonho é escrever...",
+      "ano": 2018,
+      "descricao": "Volume com contos inéditos e outros escritos, ampliando o conhecimento sobre sua produção."
+    },
+    {
+      "titulo": "O escravo",
+      "ano": 2023,
+      "descricao": "Romance póstumo que reforça a importância de Carolina como autora de ficção."
+    }
+  ],
+
+  "registroHistorico": "A trajetória de Carolina Maria de Jesus foi frequentemente lida de modo restritivo, como se sua importância dependesse apenas da pobreza que denunciou. Pesquisas, acervos e edições recentes mostram uma autora de produção ampla, com diários, romances, poemas, contos, provérbios, peças, cartas, letras de música e manuscritos. Ao apresentar Carolina, é importante reconhecê-la como escritora e intelectual negra, não apenas como personagem social descoberta pela imprensa.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Membro honorário da Academia Paulista de Letras da Faculdade de Direito da USP",
+      "ano": 1959,
+      "descricao": "Reconhecimento recebido antes da publicação em livro de Quarto de despejo."
+    },
+    {
+      "titulo": "Sucesso internacional de Quarto de despejo",
+      "ano": 1960,
+      "descricao": "A obra tornou-se um fenômeno editorial, foi traduzida para diversos idiomas e projetou Carolina no cenário literário mundial."
+    },
+    {
+      "titulo": "Cadernos negros",
+      "ano": 1978,
+      "descricao": "A publicação literária coletiva recebeu esse nome em homenagem aos cadernos de Carolina Maria de Jesus."
+    },
+    {
+      "titulo": "Coleção Especial Carolina Maria de Jesus no Acervo de Escritores Mineiros",
+      "ano": 2015,
+      "descricao": "Disponibilização de cadernos e materiais da autora para pesquisa, fortalecendo a preservação de sua obra."
+    },
+    {
+      "titulo": "Doutora Honoris Causa pela UFRJ",
+      "ano": 2021,
+      "descricao": "Título concedido in memoriam pela Universidade Federal do Rio de Janeiro em reconhecimento à importância de sua obra."
+    },
+    {
+      "titulo": "Exposição Carolina Maria de Jesus: um Brasil para os brasileiros",
+      "ano": 2021,
+      "descricao": "Mostra do Instituto Moreira Salles dedicada à vida, obra, manuscritos e legado da escritora."
+    }
+  ],
+
+  "movimentos": [
+    "Literatura afro-brasileira",
+    "Literatura marginal e periférica",
+    "Memorialismo brasileiro",
+    "Escrita de mulheres negras",
+    "Denúncia da fome e da desigualdade",
+    "Movimento negro brasileiro",
+    "Cadernos negros",
+    "Educação antirracista"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre literatura, memória social, educação e mulheres negras",
+    "descricao": "O legado de Carolina Maria de Jesus está na força de uma escrita que recusou o silêncio. Sua obra registrou a fome, a favela, a maternidade solo, o racismo, a violência institucional e a exclusão urbana sem transformar as pessoas pobres em abstração. Ao mesmo tempo, Carolina criou literatura: elaborou imagens, ironias, personagens, reflexões filosóficas e uma língua própria. Seu trabalho abriu debates sobre quem pode ser reconhecido como escritor, quais vidas entram no cânone literário e como a escola ensina a história da população negra e periférica. Hoje, sua produção inspira pesquisadoras, escritoras, professoras, movimentos culturais e novas gerações que encontram em seus cadernos uma prova de que a palavra também é território de luta."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Carolina Maria de Jesus na favela do Canindé, em São Paulo, território que aparece de forma central em seus diários.",
+      "creditos": "Audálio Dantas / O Cruzeiro — 9 jun. 1959",
+      "imagem": "carolina_maria_jesus_galeria_caninde.png"
+    },
+    {
+      "descricao": "Carolina Maria de Jesus escrevendo em seus cadernos, suporte material de parte fundamental de sua produção literária.",
+      "creditos": "Instituto Moreira Salles — Acervo Carolina Maria de Jesus",
+      "imagem": "carolina_maria_jesus_galeria_diario.png"
+    },
+    {
+      "descricao": "Carolina Maria de Jesus ao lado de Clarice Lispector, encontro simbólico entre trajetórias distintas da literatura brasileira.",
+      "creditos": "Reinaldo Teixeira — Acervo UH/Folhapress, 1961",
+      "imagem": "carpolina_maria_jesus_galeria_clarica_E_maria.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Site especial / biografia",
+      "titulo": "Biografia - Carolina Maria de Jesus",
+      "autor": "Instituto Moreira Salles",
+      "descricao": "Fonte principal para linha do tempo, dados de nascimento, escolarização, chegada a São Paulo, Canindé, publicações, reconhecimentos e falecimento.",
+      "link": "https://carolinamariadejesus.ims.com.br/biografia/"
+    },
+    {
+      "tipo": "Site especial / obra",
+      "titulo": "Quarto de despejo",
+      "autor": "Instituto Moreira Salles",
+      "descricao": "Fonte sobre a publicação, recepção e importância literária de Quarto de despejo.",
+      "link": "https://carolinamariadejesus.ims.com.br/quarto-de-despejo/"
+    },
+    {
+      "tipo": "Acervo institucional",
+      "titulo": "Carolina Maria de Jesus",
+      "autor": "Instituto Moreira Salles",
+      "descricao": "Fonte sobre o acervo, registros fotográficos, site especial e preservação documental relacionada à autora.",
+      "link": "https://ims.com.br/titular-colecao/carolina-maria-de-jesus/"
+    },
+    {
+      "tipo": "Manuscritos",
+      "titulo": "Obra - Manuscritos",
+      "autor": "Instituto Moreira Salles",
+      "descricao": "Fonte sobre os manuscritos Um Brasil para os brasileiros e sua relação com Diário de Bitita.",
+      "link": "https://carolinamariadejesus.ims.com.br/obra-manuscritos/"
+    },
+    {
+      "tipo": "Verbete literário",
+      "titulo": "Carolina Maria de Jesus",
+      "autor": "Literafro / Universidade Federal de Minas Gerais",
+      "descricao": "Fonte sobre biografia, obras publicadas em vida e póstumas, fortuna crítica e importância na literatura afro-brasileira.",
+      "link": "https://www.letras.ufmg.br/literafro/autoras/58carolina-maria-de-jesus"
+    },
+    {
+      "tipo": "Entrevista / crítica cultural",
+      "titulo": "107 anos de Carolina Maria de Jesus, a dona de um escrever vivo",
+      "autor": "Itaú Cultural",
+      "ano": "2021",
+      "descricao": "Fonte crítica sobre a atualidade de sua obra, sua leitura como escritora negra e a concessão do título de Doutora Honoris Causa pela UFRJ.",
+      "link": "https://www.itaucultural.org.br/secoes/entrevista/anos-carolina-maria-jesus-dona-escrever"
+    },
+    {
+      "tipo": "Notícia universitária",
+      "titulo": "Bitita é doutora",
+      "autor": "Conexão UFRJ",
+      "ano": "2021",
+      "descricao": "Fonte sobre a concessão do título de Doutora Honoris Causa, in memoriam, pela Universidade Federal do Rio de Janeiro.",
+      "link": "https://conexao.ufrj.br/2021/02/bitita-e-doutora/"
+    },
+    {
+      "tipo": "Acervo bibliográfico",
+      "titulo": "Coleção Carolina de Jesus",
+      "autor": "Biblioteca Nacional",
+      "descricao": "Registro da coleção de manuscritos, microfilmes, diários, romances, poesias, textos e documentos de Carolina Maria de Jesus.",
+      "link": "https://acervo.bn.gov.br/Sophia_web/acervo/detalhe/1421363?i=6"
+    },
+    {
+      "tipo": "Acervo universitário",
+      "titulo": "Acervo de Escritores Mineiros",
+      "autor": "Universidade Federal de Minas Gerais",
+      "descricao": "Fonte institucional sobre o espaço de custódia, pesquisa e preservação de acervos literários mineiros, incluindo materiais relacionados a Carolina Maria de Jesus.",
+      "link": "https://sites.letras.ufmg.br/aem/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória pública e literária de Carolina Maria de Jesus com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser Carolina real, e destaque sua complexidade como escritora, intelectual negra, memorialista, romancista, poeta e compositora.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Firme",
+      "Antirracista",
+      "Literário",
+      "Cuidadoso com estereótipos"
+    ],
+    "temasChave": [
+      "Quarto de despejo",
+      "Favela do Canindé",
+      "Fome",
+      "Racismo estrutural",
+      "Literatura afro-brasileira",
+      "Mulheres negras escritoras",
+      "Memorialismo",
+      "Diários",
+      "Direito à literatura",
+      "Maternidade",
+      "Cidade de São Paulo",
+      "Manuscritos",
+      "Educação antirracista"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Não reduza Carolina Maria de Jesus à expressão 'favelada que escreve'; apresente-a como escritora e intelectual negra de produção ampla.",
+      "Evite afirmar que Carolina era semialfabetizada; prefira explicar que teve pouca escolarização formal e múltiplos letramentos.",
+      "Não invente frases, datas, títulos ou episódios sem base nas fontes.",
+      "Ao citar Quarto de despejo, explique que a obra nasce de diários e também possui elaboração literária, crítica social e linguagem própria.",
+      "Trate fome, pobreza, racismo e violência institucional sem romantização ou sensacionalismo.",
+      "Destaque que Carolina escreveu em diferentes gêneros, incluindo diário, romance, poesia, provérbios, música, contos e manuscritos.",
+      "Se a pergunta for sobre tema sem relação com sua trajetória, responda educadamente que esse assunto não pertence ao recorte histórico e literário de Carolina Maria de Jesus."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Carolina Maria de Jesus é importante para a literatura brasileira?",
+      "resposta": "Carolina Maria de Jesus é importante porque abriu uma fissura no modo como o Brasil enxergava quem podia ser reconhecido como escritora. Em seus cadernos, ela registrou a fome, a favela, o racismo e a maternidade com uma linguagem própria, crítica e inventiva. Sua obra mostra que a literatura também nasce das margens e que a experiência de mulheres negras e pobres é parte central da história cultural brasileira."
+    }
+  }
+}

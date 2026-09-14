@@ -1,0 +1,360 @@
+{
+  "id": "sonia-guajajara",
+
+  "dadosBasicos": {
+    "nome": "Sonia Guajajara",
+    "nomeCompleto": "Sonia Bone de Sousa Silva",
+    "grupo": "Indígena Guajajara/Tentehar",
+    "dataNascimento": "1974-03-06",
+    "localNascimento": "Terra Indígena Araribóia, região de Amarante do Maranhão, Maranhão, Brasil",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Viva",
+    "dataFalecimento": null
+  },
+
+  "observacaoCronologica": "Sonia Guajajara foi ministra dos Povos Indígenas de janeiro de 2023 a março de 2026. A Câmara dos Deputados registra que ela se licenciou do mandato em 2 de fevereiro de 2023 para assumir o ministério e reassumiu o mandato em 31 de março de 2026. Por isso, esta base a apresenta como deputada federal e ex-ministra, não como ministra atual.",
+
+  "ocupacoes": [
+    "Liderança indígena",
+    "Deputada federal por São Paulo",
+    "Ex-ministra dos Povos Indígenas",
+    "Ativista socioambiental",
+    "Defensora dos direitos indígenas",
+    "Professora",
+    "Enfermeira",
+    "Ex-coordenadora executiva da APIB"
+  ],
+
+  "resumo": "Sonia Guajajara é uma liderança indígena brasileira do povo Guajajara/Tentehar, reconhecida nacional e internacionalmente por sua atuação em defesa dos direitos dos povos originários, da demarcação de terras indígenas, da Amazônia e da justiça climática. Foi coordenadora executiva da Articulação dos Povos Indígenas do Brasil, candidata a vice-presidente da República em 2018, eleita deputada federal por São Paulo em 2022 e primeira pessoa a comandar o Ministério dos Povos Indígenas. Em 2026, deixou o ministério e reassumiu seu mandato parlamentar.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: território, educação e movimento indígena",
+    "imagem": {
+      "creditos": "Xuthoria, via Wikimedia Commons — CC BY-SA 4.0",
+      "url": "SoniaBio.png"
+    },
+    "descricao": "Sonia Guajajara nasceu na Terra Indígena Araribóia, no Maranhão, território do povo Guajajara/Tentehar. Cresceu em contato com as lutas de seu povo pela proteção da terra, da floresta, da cultura e da vida comunitária. Ainda jovem, saiu de seu território para estudar e construiu uma formação que une educação formal e saberes indígenas. Graduou-se em Letras e Enfermagem pela Universidade Estadual do Maranhão e fez especialização em Educação Especial. Antes de ocupar cargos nacionais, atuou em movimentos de base e organizações indígenas, ampliando sua participação na Coordenação das Organizações e Articulações dos Povos Indígenas do Maranhão, na Coordenação das Organizações Indígenas da Amazônia Brasileira e na Articulação dos Povos Indígenas do Brasil."
+  },
+
+  "perfil": {
+    "valores": [
+      "Autonomia dos povos indígenas",
+      "Proteção dos territórios",
+      "Justiça climática",
+      "Democracia",
+      "Coletividade",
+      "Ancestralidade",
+      "Direitos humanos"
+    ],
+    "caracteristicas": [
+      "Articuladora",
+      "Combativa",
+      "Estratégica",
+      "Internacionalista",
+      "Resiliente",
+      "Comprometida com seu povo"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Direitos dos povos indígenas",
+    "Demarcação de terras indígenas",
+    "Proteção ambiental",
+    "Amazônia",
+    "Justiça climática",
+    "Políticas públicas",
+    "Participação política indígena",
+    "Mulheres indígenas",
+    "Direitos humanos",
+    "Combate ao garimpo ilegal",
+    "Governança territorial"
+  ],
+
+  "causas": [
+    "Defesa dos direitos dos povos originários",
+    "Demarcação e proteção de terras indígenas",
+    "Combate ao marco temporal",
+    "Proteção da Amazônia",
+    "Justiça climática",
+    "Combate ao garimpo ilegal",
+    "Participação política das mulheres indígenas",
+    "Direitos humanos",
+    "Combate ao racismo e à discriminação",
+    "Soberania dos povos indígenas",
+    "Fortalecimento das organizações indígenas",
+    "Democracia e participação social"
+  ],
+
+  "habilidades": [
+    "Liderança política",
+    "Articulação nacional e internacional",
+    "Mobilização social",
+    "Incidência em direitos humanos",
+    "Formulação de políticas públicas",
+    "Comunicação pública",
+    "Defesa territorial",
+    "Representação institucional",
+    "Construção de alianças"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Corajosa",
+    "Firme",
+    "Resiliente",
+    "Coletiva",
+    "Persistente",
+    "Visionária"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 8,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 5,
+    "cienciaETecnologia": 2,
+    "esporte": 0,
+    "empreendedorismo": 4,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 10,
+    "filosofia": 7,
+    "literatura": 3,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Sonia Bone de Sousa Silva, conhecida publicamente como Sonia Guajajara, nasceu em 6 de março de 1974, na Terra Indígena Araribóia, na região de Amarante do Maranhão. Pertence ao povo Guajajara/Tentehar. Formou-se em Letras e Enfermagem pela Universidade Estadual do Maranhão e fez especialização em Educação Especial. Sua trajetória política começou nos movimentos de base e ganhou projeção em organizações indígenas regionais e nacionais, como a Coordenação das Organizações e Articulações dos Povos Indígenas do Maranhão, a Coordenação das Organizações Indígenas da Amazônia Brasileira e a Articulação dos Povos Indígenas do Brasil, da qual foi coordenadora executiva. Em 2018, tornou-se a primeira pessoa indígena a compor uma chapa presidencial no Brasil, como candidata a vice-presidente ao lado de Guilherme Boulos pelo PSOL. Em 2019, integrou a campanha internacional Sangue Indígena: Nenhuma Gota a Mais, que denunciou violações de direitos indígenas e ambientais. Em 2022, foi eleita deputada federal por São Paulo e foi reconhecida pela revista TIME como uma das 100 pessoas mais influentes do mundo. Em janeiro de 2023, assumiu o recém-criado Ministério dos Povos Indígenas, tornando-se a primeira pessoa a comandar a pasta e uma referência histórica de presença indígena no Poder Executivo federal. À frente do ministério, sua gestão articulou demarcações, proteção territorial, combate a invasões e participação indígena em debates climáticos nacionais e internacionais. Em 2024, recebeu o prêmio Champions of the Earth, do Programa das Nações Unidas para o Meio Ambiente, na categoria Liderança Política. Em 2025, recebeu o título de Doutora Honoris Causa da UERJ. Em 31 de março de 2026, transmitiu o cargo no Ministério dos Povos Indígenas a Eloy Terena e reassumiu seu mandato de deputada federal.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1974",
+      "descricao": "Nasce em 6 de março, na Terra Indígena Araribóia, na região de Amarante do Maranhão, pertencente ao povo Guajajara/Tentehar."
+    },
+    {
+      "ano": "Juventude",
+      "descricao": "Sai de seu território para estudar e constrói uma trajetória de formação que une educação formal, experiência comunitária e compromisso com as lutas indígenas."
+    },
+    {
+      "ano": "Formação acadêmica",
+      "descricao": "Forma-se em Letras e Enfermagem pela Universidade Estadual do Maranhão e realiza especialização em Educação Especial."
+    },
+    {
+      "ano": "Anos 2000",
+      "descricao": "Fortalece sua atuação no movimento indígena, com passagens por organizações como COAPIMA, COIAB e APIB."
+    },
+    {
+      "ano": "2012",
+      "descricao": "Participa de articulações ligadas à Cúpula dos Povos na Rio+20, ampliando sua presença nas pautas socioambientais e climáticas."
+    },
+    {
+      "ano": "2018",
+      "descricao": "Candidata-se à vice-presidência da República na chapa com Guilherme Boulos, tornando-se a primeira pessoa indígena a integrar uma chapa presidencial no Brasil."
+    },
+    {
+      "ano": "2019",
+      "descricao": "Integra a campanha Sangue Indígena: Nenhuma Gota a Mais, levando denúncias sobre violações de direitos indígenas a espaços nacionais e internacionais."
+    },
+    {
+      "ano": "2021",
+      "descricao": "Atua como coordenadora executiva da APIB e participa de mobilizações contra o marco temporal e contra ameaças aos territórios indígenas."
+    },
+    {
+      "ano": "2022",
+      "descricao": "É eleita deputada federal por São Paulo pelo PSOL e reconhecida pela revista TIME como uma das 100 pessoas mais influentes do mundo."
+    },
+    {
+      "ano": "2023",
+      "descricao": "Assume o Ministério dos Povos Indígenas, criado no governo federal, e licencia-se do mandato parlamentar para comandar a nova pasta."
+    },
+    {
+      "ano": "2024",
+      "descricao": "Recebe o prêmio Champions of the Earth, do Programa das Nações Unidas para o Meio Ambiente, na categoria Liderança Política."
+    },
+    {
+      "ano": "2025",
+      "descricao": "Recebe o título de Doutora Honoris Causa da Universidade do Estado do Rio de Janeiro, em reconhecimento à sua contribuição para a sociedade."
+    },
+    {
+      "ano": "2026",
+      "descricao": "Em 31 de março, deixa o Ministério dos Povos Indígenas, transmite o cargo a Eloy Terena e reassume seu mandato de deputada federal."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Liderança indígena global, defesa territorial e presença histórica no Estado brasileiro.",
+    "descricao": "Sonia Guajajara é extraordinária porque transformou a luta dos povos indígenas em pauta central da política brasileira e dos debates globais sobre clima. Sua trajetória mostra que os povos originários não devem ser tratados apenas como objetos de políticas públicas, mas como sujeitos que formulam, decidem e governam. Ao atuar na APIB, em mobilizações internacionais, na Câmara dos Deputados e no Ministério dos Povos Indígenas, Sonia ampliou a visibilidade das lutas por terra, vida, biodiversidade e justiça. Sua presença como primeira pessoa à frente do Ministério dos Povos Indígenas marcou um ciclo de protagonismo institucional indígena no Brasil, sem apagar o caráter coletivo dessas conquistas.",
+    "imagem": {
+      "creditos": "Ricardo Stuckert / Presidência da República, via Wikimedia Commons — CC BY 2.0",
+      "url": "soniaExtraodinaria.png"
+    }
+  },
+
+  "obras": [],
+
+  "registroPublico": "A trajetória de Sonia Guajajara está documentada principalmente em discursos públicos, entrevistas, campanhas de mobilização, registros parlamentares, documentos institucionais, participação em conferências climáticas e materiais de organizações indígenas. Ao tratar de suas falas, é necessário citar fontes verificáveis e contextualizar que sua atuação expressa uma luta coletiva dos povos indígenas.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "TIME100 - 100 pessoas mais influentes do mundo",
+      "ano": 2022,
+      "descricao": "Reconhecimento internacional por sua atuação na defesa dos povos indígenas, dos territórios e da Amazônia."
+    },
+    {
+      "titulo": "Champions of the Earth - Policy Leadership",
+      "ano": 2024,
+      "descricao": "Prêmio do Programa das Nações Unidas para o Meio Ambiente, considerado a maior honraria ambiental da ONU."
+    },
+    {
+      "titulo": "Doutora Honoris Causa da UERJ",
+      "ano": 2025,
+      "descricao": "Título concedido pela Universidade do Estado do Rio de Janeiro em reconhecimento à sua trajetória em defesa da educação, da cultura, dos povos originários e da humanidade."
+    }
+  ],
+
+  "movimentos": [
+    "Movimento indígena brasileiro",
+    "Articulação dos Povos Indígenas do Brasil",
+    "Coordenação das Organizações Indígenas da Amazônia Brasileira",
+    "Coordenação das Organizações e Articulações dos Povos Indígenas do Maranhão",
+    "Articulação Nacional das Mulheres Indígenas Guerreiras da Ancestralidade",
+    "Acampamento Terra Livre",
+    "Campanha Sangue Indígena: Nenhuma Gota a Mais",
+    "Mobilizações contra o marco temporal",
+    "Bancada do Cocar",
+    "Justiça climática indígena"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre política indígena, proteção territorial, clima e representação pública",
+    "descricao": "O legado de Sonia Guajajara está ligado ao fortalecimento da presença indígena nos espaços de decisão. Sua atuação ajudou a projetar a APIB como referência nacional e internacional, aproximando a defesa dos territórios indígenas da agenda climática global. Na política institucional, sua eleição como deputada federal e sua passagem pelo Ministério dos Povos Indígenas abriram caminhos para que lideranças indígenas participem diretamente da formulação de políticas públicas. Sua trajetória também fortalece a liderança das mulheres indígenas, mostrando que a defesa da floresta envolve território, corpo, memória, cultura, educação, saúde, democracia e futuro. Como liderança Guajajara/Tentehar, Sonia conecta a experiência de seu povo a uma luta ampla dos povos originários do Brasil e do mundo."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Sonia Guajajara participa do Acampamento Terra Livre, mobilização nacional dos povos indígenas em defesa da demarcação, dos territórios e dos direitos originários.",
+      "creditos": "APIB Comunicação / Mídia Ninja, via Wikimedia Commons — CC BY-SA 2.0",
+      "imagem": "sonia-galeria-1.png"
+    },
+    {
+      "descricao": "Sonia Guajajara em protesto internacional da campanha Sangue Indígena: Nenhuma Gota a Mais, denunciando violações ambientais e territoriais.",
+      "creditos": "Gert-Peter Bruch, via Wikimedia Commons — CC BY-SA 4.0",
+      "imagem": "soniaProstesto.png"
+    },
+    {
+      "descricao": "Sonia Guajajara assume o Ministério dos Povos Indígenas, marco histórico de protagonismo indígena no Poder Executivo federal.",
+      "creditos": "Jacqueline Lisboa / WWF-Brasil",
+      "imagem": "SoniaEleita.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Perfil institucional",
+      "titulo": "Biografia do(a) Deputado(a) Federal Sônia Guajajara",
+      "autor": "Câmara dos Deputados",
+      "descricao": "Fonte para nome civil, nascimento, naturalidade, formação, mandato parlamentar, licença para o ministério e reassunção em 2026.",
+      "link": "https://www.camara.leg.br/deputados/220643/biografia"
+    },
+    {
+      "tipo": "Balanço institucional",
+      "titulo": "Após três anos, ministra Sonia Guajajara deixa Ministério dos Povos Indígenas com legado de entregas históricas à frente da pasta",
+      "autor": "Ministério dos Povos Indígenas",
+      "ano": "2026",
+      "descricao": "Balanço da gestão de Sonia Guajajara no Ministério dos Povos Indígenas e perfil de sua trajetória como liderança indígena.",
+      "link": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2026/03/apos-tres-anos-ministra-sonia-guajajara-deixa-ministerio-dos-povos-indigenas-com-legado-de-entregas-historicas-a-frente-da-pasta"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Em ato na Esplanada, Sonia Guajajara transmite cargo a Eloy Terena",
+      "autor": "Ministério dos Povos Indígenas",
+      "ano": "2026",
+      "descricao": "Registra a transmissão do cargo e o encerramento da gestão de Sonia Guajajara no MPI em março de 2026.",
+      "link": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2026/04/em-ato-na-esplanada-sonia-guajajara-transmite-cargo-a-eloy-terena"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Sonia Guajajara é empossada Ministra de Estado dos Povos Indígenas do Brasil",
+      "autor": "Ministério dos Povos Indígenas",
+      "ano": "2023",
+      "descricao": "Registra a posse de Sonia Guajajara no Ministério dos Povos Indígenas e o contexto de criação da pasta.",
+      "link": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/sonia-guajajara-e-empossada-ministra-de-estado-dos-povos-indigenas-do-brasil"
+    },
+    {
+      "tipo": "Perfil / entrevista",
+      "titulo": "Indígenas não vão abrir mão de territórios se marco temporal passar, diz Sonia Guajajara",
+      "autor": "APIB / Folha de S.Paulo",
+      "ano": "2021",
+      "descricao": "Fonte para formação, atuação na APIB, participação na chapa presidencial de 2018 e posicionamento contra o marco temporal.",
+      "link": "https://apiboficial.org/2021/10/05/indigenas-nao-vao-abrir-mao-de-territorios-se-marco-temporal-passar-diz-sonia-guajajara/"
+    },
+    {
+      "tipo": "Prêmio internacional",
+      "titulo": "Sonia Guajajara - Policy Leadership",
+      "autor": "United Nations Environment Programme - Champions of the Earth",
+      "ano": "2024",
+      "descricao": "Perfil do PNUMA sobre Sonia Guajajara como laureada Champions of the Earth por liderança política ambiental.",
+      "link": "https://www.unep.org/championsofearth/laureates/2024/sonia-guajajara"
+    },
+    {
+      "tipo": "Reconhecimento internacional",
+      "titulo": "Sônia Guajajara Is on the 2022 TIME100 List",
+      "autor": "TIME",
+      "ano": "2022",
+      "descricao": "Reconhecimento de Sonia Guajajara como uma das 100 pessoas mais influentes do mundo em 2022.",
+      "link": "https://time.com/collections/100-most-influential-people-2022/6177858/sonia-guajajara/"
+    },
+    {
+      "tipo": "Notícia universitária",
+      "titulo": "Entrega do título de Doutora Honoris Causa a Sonia Guajajara",
+      "autor": "Universidade do Estado do Rio de Janeiro",
+      "ano": "2025",
+      "descricao": "Registra a concessão do título de Doutora Honoris Causa pela UERJ e resume sua formação e atuação socioambiental.",
+      "link": "https://www.uerj.br/agenda/entrega-do-titulo-de-doutora-honoris-causa-a-sonia-guajajara/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória pública de Sonia Guajajara com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser a pessoa real, e relacione sua atuação às lutas coletivas dos povos indígenas, especialmente do povo Guajajara/Tentehar e das organizações do movimento indígena brasileiro.",
+    "tomDeVoz": [
+      "Respeitoso",
+      "Didático",
+      "Firme",
+      "Acolhedor",
+      "Antirracista",
+      "Socioambiental",
+      "Comprometido com os direitos indígenas"
+    ],
+    "temasChave": [
+      "Povo Guajajara/Tentehar",
+      "Terra Indígena Araribóia",
+      "Direitos dos povos indígenas",
+      "Demarcação de terras indígenas",
+      "Ministério dos Povos Indígenas",
+      "Articulação dos Povos Indígenas do Brasil",
+      "Marco temporal",
+      "Justiça climática",
+      "Amazônia",
+      "Mulheres indígenas na política",
+      "Bancada do Cocar"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Sonia Guajajara em terceira pessoa; não simule memórias, sentimentos privados ou falas inéditas dela.",
+      "Não invente citações, contatos, fatos biográficos ou posições políticas. Só reproduza declarações verificáveis e contextualizadas.",
+      "Diferencie o nome civil Sonia Bone de Sousa Silva do nome público Sonia Guajajara.",
+      "Apresente Sonia como liderança do povo Guajajara/Tentehar, evitando tratar os povos indígenas como um grupo único.",
+      "Informe que Sonia foi ministra dos Povos Indígenas de janeiro de 2023 a março de 2026 e que reassumiu o mandato de deputada federal em 31 de março de 2026.",
+      "Não apresente Sonia como ministra atual, a menos que uma atualização posterior e verificável indique isso.",
+      "Ao tratar do Ministério dos Povos Indígenas, destaque que sua criação e sua gestão fazem parte de uma luta coletiva dos povos indígenas.",
+      "Ao falar de clima e Amazônia, relacione a proteção ambiental aos direitos territoriais indígenas, sem reduzir os povos indígenas a guardiões simbólicos da natureza.",
+      "Ao tratar da candidatura de 2018, informe que foi candidata a vice-presidente na chapa com Guilherme Boulos pelo PSOL.",
+      "Se a informação não estiver na base ou em fonte confiável, declare a limitação em vez de supor.",
+      "Ao citar fontes, priorize a Câmara dos Deputados, o Ministério dos Povos Indígenas, a APIB, o PNUMA, a TIME e a UERJ."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Sonia Guajajara é uma liderança importante?",
+      "resposta": "Sonia Guajajara é importante porque transformou a defesa dos territórios indígenas, da Amazônia e da justiça climática em pauta nacional e internacional. Ela atua a partir do povo Guajajara/Tentehar e de organizações coletivas do movimento indígena, como a APIB. Foi candidata a vice-presidente em 2018, eleita deputada federal em 2022 e comandou o Ministério dos Povos Indígenas de 2023 a março de 2026, abrindo caminhos para maior presença indígena nos espaços de decisão."
+    }
+  }
+}

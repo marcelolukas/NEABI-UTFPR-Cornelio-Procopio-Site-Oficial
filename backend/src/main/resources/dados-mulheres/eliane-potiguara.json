@@ -1,0 +1,469 @@
+{
+  "id": "eliane-potiguara",
+
+  "dadosBasicos": {
+    "nome": "Eliane Potiguara",
+    "nomeCompleto": "Eliane Lima dos Santos",
+    "grupo": "Indígena Potiguara",
+    "dataNascimento": "1950-09-29",
+    "localNascimento": "Rio de Janeiro, Rio de Janeiro, Brasil",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Viva",
+    "dataFalecimento": null
+  },
+
+  "observacaoCronologica": "Fontes biográficas da própria escritora, da UFRJ e da Editora do Brasil registram que Eliane Potiguara nasceu em 29 de setembro de 1950, no Rio de Janeiro. Sua identidade Potiguara está ligada à origem étnica de sua família, especialmente aos avós e bisavós migrantes das terras tradicionais Potiguara da Paraíba. Por isso, esta base diferencia local de nascimento, no Rio de Janeiro, e pertencimento ancestral ao povo Potiguara.",
+
+  "pertencimentoTerritorial": {
+    "povo": "Potiguara",
+    "territorio": "Terras tradicionais Potiguara na Paraíba, especialmente a região de Baía da Traição, Marcação e Rio Tinto",
+    "referencia": "Ancestralidade familiar Potiguara e trajetória urbana no Rio de Janeiro"
+  },
+
+  "ocupacoes": [
+    "Escritora",
+    "Poeta",
+    "Professora",
+    "Ativista indígena",
+    "Educadora",
+    "Contadora de histórias",
+    "Empreendedora social",
+    "Fundadora do GRUMIN",
+    "Intelectual indígena"
+  ],
+
+  "resumo": "Eliane Potiguara, nome público de Eliane Lima dos Santos, é uma escritora, poeta, professora e ativista indígena brasileira de origem Potiguara. Reconhecida como uma das pioneiras da literatura indígena contemporânea no Brasil, articulou poesia, memória familiar, ancestralidade, educação, direitos humanos, defesa dos povos originários e protagonismo das mulheres indígenas. Fundou o GRUMIN - Grupo Mulher-Educação Indígena, participou de fóruns nacionais e internacionais de direitos indígenas e teve atuação relacionada à elaboração da Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas. Sua obra, especialmente Metade cara, metade máscara e A Terra é a Mãe do Índio, tornou-se referência para pensar identidade, espiritualidade, migração, violência colonial, feminismo indígena e resistência cultural.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: memória familiar, escrita e ancestralidade Potiguara",
+    "imagem": {
+      "creditos": "Elisabete Alves / MinC-BR - recorte Praxides, licença Creative Commons Attribution 2.0",
+      "url": "eliane-biografio.png"
+    },
+    "descricao": "Eliane Potiguara nasceu no Rio de Janeiro em uma família marcada pela migração forçada de parentes Potiguara da Paraíba. Sua formação afetiva e política foi atravessada pelas memórias transmitidas por sua avó e pela experiência de preconceito contra indígenas em contextos urbanos. Formou-se em Letras e Educação pela Universidade Federal do Rio de Janeiro e fez extensão em Educação e Meio Ambiente pela Universidade Federal de Ouro Preto. A escrita surgiu como forma de recuperar histórias silenciadas, denunciar violências sofridas por povos indígenas e mulheres indígenas e afirmar a continuidade da ancestralidade Potiguara fora das terras tradicionais."
+  },
+
+  "perfil": {
+    "valores": [
+      "Ancestralidade",
+      "Memória",
+      "Direitos indígenas",
+      "Liberdade",
+      "Educação",
+      "Espiritualidade",
+      "Autonomia das mulheres indígenas",
+      "Justiça social",
+      "Paz",
+      "Identidade"
+    ],
+    "caracteristicas": [
+      "Pioneira",
+      "Poética",
+      "Corajosa",
+      "Educadora",
+      "Internacionalista",
+      "Persistente",
+      "Memorialista",
+      "Combativa",
+      "Criadora de caminhos"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Literatura indígena",
+    "Poesia",
+    "Memória familiar",
+    "Povo Potiguara",
+    "Mulheres indígenas",
+    "Direitos humanos",
+    "Educação indígena",
+    "Direitos dos povos originários",
+    "Espiritualidade indígena",
+    "Identidade",
+    "Migração indígena",
+    "Declaração da ONU sobre direitos indígenas",
+    "Língua e cultura Tupi-Guarani",
+    "Oralidade"
+  ],
+
+  "causas": [
+    "Defesa dos direitos dos povos indígenas",
+    "Valorização da literatura indígena brasileira",
+    "Fortalecimento das mulheres indígenas",
+    "Combate ao racismo e ao apagamento indígena",
+    "Proteção da memória dos povos originários",
+    "Educação indígena e intercultural",
+    "Direitos humanos",
+    "Reconhecimento da ancestralidade Potiguara",
+    "Participação indígena em fóruns internacionais",
+    "Preservação de saberes tradicionais",
+    "Direito à identidade indígena em contextos urbanos",
+    "Cultura de paz"
+  ],
+
+  "habilidades": [
+    "Escrita poética",
+    "Narrativa memorialística",
+    "Educação popular",
+    "Articulação política",
+    "Atuação internacional em direitos indígenas",
+    "Fundação e organização de redes",
+    "Comunicação pública",
+    "Contação de histórias",
+    "Análise crítica da colonização",
+    "Mobilização de mulheres indígenas"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Inventiva",
+    "Firme",
+    "Sensível",
+    "Persistente",
+    "Visionária",
+    "Cuidadosa com a memória",
+    "Comprometida com seu povo"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 10,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 10,
+    "cienciaETecnologia": 1,
+    "esporte": 0,
+    "empreendedorismo": 7,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 9,
+    "filosofia": 8,
+    "literatura": 10,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Eliane Lima dos Santos, conhecida como Eliane Potiguara, nasceu em 29 de setembro de 1950, no Rio de Janeiro. É escritora, poeta, professora, contadora de histórias, educadora e ativista indígena de origem étnica Potiguara. Sua família guarda uma memória de migração forçada das terras Potiguara da Paraíba para centros urbanos, experiência que atravessa sua obra e sua atuação política. Formou-se em Letras e Educação pela Universidade Federal do Rio de Janeiro e realizou estudos de extensão em Educação e Meio Ambiente pela Universidade Federal de Ouro Preto. Ainda nos anos 1970, escreveu o poema Identidade Indígena, referência importante para a poesia indígena brasileira contemporânea. Em 1988, fundou o GRUMIN - Grupo Mulher-Educação Indígena, reconhecido como uma das primeiras organizações de mulheres indígenas do Brasil. Em 1989, publicou A Terra é a Mãe do Índio, obra ligada à educação e à conscientização indígena, posteriormente premiada pelo PEN Club da Inglaterra e pelo Fundo Livre de Expressão dos Estados Unidos segundo registros biográficos da autora e da UFRJ. Em 1990, conseguiu uma petição no 47º Congresso dos Índios Norte-Americanos para apresentação às Nações Unidas e participou por anos de debates internacionais relacionados aos direitos indígenas. Também foi cofundadora do Enlace Continental de Mujeres Indígenas e atuou em seminários, fóruns, conferências, encontros literários e espaços de educação em diferentes países. Seu livro Metade cara, metade máscara, lançado em 2004 e reeditado depois pela GRUMIN Edições, tornou-se obra central para o estudo da identidade indígena, da memória das mulheres de sua família, da violência colonial, da espiritualidade e da escrita como libertação. Eliane recebeu reconhecimentos como o título de Cidadania Internacional em 1996, a Ordem do Mérito Cultural em 2014, a indicação ao projeto Mil Mulheres para o Prêmio Nobel da Paz e o título de Doutora Honoris Causa pela UFRJ em 2021. Sua trajetória segue como referência para literatura indígena, educação, direitos humanos e feminismo indígena no Brasil.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1950",
+      "descricao": "Nasce em 29 de setembro, no Rio de Janeiro, em família de origem étnica Potiguara."
+    },
+    {
+      "ano": "Décadas de 1960-1970",
+      "descricao": "Constrói sua formação escolar e universitária, aproximando educação formal, memória familiar e consciência sobre o preconceito vivido por indígenas em contextos urbanos."
+    },
+    {
+      "ano": "1975",
+      "descricao": "Escreve o poema Identidade Indígena, frequentemente citado como marco da escrita indígena de autoria individual no Brasil."
+    },
+    {
+      "ano": "1988",
+      "descricao": "Funda o GRUMIN - Grupo Mulher-Educação Indígena, organização voltada ao protagonismo de mulheres indígenas, educação e direitos."
+    },
+    {
+      "ano": "1988",
+      "descricao": "É reconhecida como uma das Dez Mulheres do Ano pelo Conselho das Mulheres do Brasil, segundo histórico biográfico da autora."
+    },
+    {
+      "ano": "1989",
+      "descricao": "Publica A Terra é a Mãe do Índio pelo GRUMIN, obra de educação e conscientização indígena."
+    },
+    {
+      "ano": "1989",
+      "descricao": "Torna-se fellow da organização internacional Ashoka, fortalecendo sua atuação como empreendedora social."
+    },
+    {
+      "ano": "1990",
+      "descricao": "Consegue petição no 47º Congresso dos Índios Norte-Americanos, no Novo México, para apresentação às Nações Unidas."
+    },
+    {
+      "ano": "1994",
+      "descricao": "Lança Akajutibiró, Terra do Índio Potiguara, cartilha de apoio à alfabetização de adultos e crianças, com apoio da UNESCO, segundo histórico da autora."
+    },
+    {
+      "ano": "1995",
+      "descricao": "Participa, na China, do Tribunal das Histórias Não Contadas e Direitos Humanos das Mulheres, durante conferência da ONU."
+    },
+    {
+      "ano": "1996",
+      "descricao": "Recebe o título de Cidadania Internacional concedido pela comunidade Bahá'í, ligado à atuação pela paz mundial."
+    },
+    {
+      "ano": "2004",
+      "descricao": "Publica Metade cara, metade máscara, obra que se torna referência para estudos sobre identidade, ancestralidade e literatura indígena."
+    },
+    {
+      "ano": "2012",
+      "descricao": "Publica O Coco que Guardava a Noite, reconto de tradição indígena voltado ao público infantil."
+    },
+    {
+      "ano": "2014",
+      "descricao": "Recebe a Ordem do Mérito Cultural do Brasil, no grau de Cavaleiro, segundo perfis institucionais."
+    },
+    {
+      "ano": "2015",
+      "descricao": "Publica O Pássaro Encantado e A Cura da Terra, ampliando sua produção para crianças e jovens."
+    },
+    {
+      "ano": "2017",
+      "descricao": "Participa de depoimento do Itaú Cultural sobre ser Potiguara, cultura, língua, dança e vivificação do tupi antigo."
+    },
+    {
+      "ano": "2020",
+      "descricao": "Grava depoimento para a série Encontros de Interrogação, depois incorporado ao acervo do Museu da Língua Portuguesa."
+    },
+    {
+      "ano": "2021",
+      "descricao": "Recebe o título de Doutora Honoris Causa pela Universidade Federal do Rio de Janeiro."
+    },
+    {
+      "ano": "2023",
+      "descricao": "Lança O Vento Espalha Minha Voz Originária, apresentado em seu site oficial como novo livro de sua produção literária."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Pioneira da literatura indígena brasileira, fundadora do GRUMIN e voz internacional pelos direitos dos povos originários.",
+    "descricao": "Eliane Potiguara é extraordinária porque transformou memória familiar, dor histórica e ancestralidade em literatura, educação e ação política. Sua escrita abriu caminho para a literatura indígena contemporânea ao afirmar que povos originários narram a si mesmos, com autoria, espiritualidade, crítica e beleza. Ao fundar o GRUMIN, ela colocou as mulheres indígenas no centro da luta por direitos, enfrentando racismo, machismo, apagamento e violência colonial. Sua presença em fóruns internacionais, sua atuação na defesa dos direitos humanos e sua obra poética mostram que a palavra indígena também é território de resistência, cura e futuro.",
+    "imagem": {
+      "creditos": "Acervo de divulgação de Eliane Potiguara / reprodução em página educativa do NEABI",
+      "url": "eliane-extraordinaria.png"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "A Terra é a Mãe do Índio",
+      "ano": 1989,
+      "descricao": "Livro-cartilha publicado pelo GRUMIN, voltado à educação, conscientização indígena e denúncia de violações de direitos."
+    },
+    {
+      "titulo": "Akajutibiró, Terra do Índio Potiguara",
+      "ano": 1994,
+      "descricao": "Cartilha de apoio à alfabetização de adultos e crianças, ligada ao povo Potiguara e apoiada pela UNESCO segundo histórico da autora."
+    },
+    {
+      "titulo": "Metade cara, metade máscara",
+      "ano": 2004,
+      "descricao": "Obra central de poesia, memória e reflexão sobre identidade indígena, mulheres, ancestralidade, espiritualidade e violência colonial."
+    },
+    {
+      "titulo": "O Coco que Guardava a Noite",
+      "ano": 2012,
+      "descricao": "Livro infantil inspirado em narrativa indígena, apresentado no histórico da autora como reconto de lenda Karajá."
+    },
+    {
+      "titulo": "O Pássaro Encantado",
+      "ano": 2015,
+      "descricao": "Livro infantil publicado pela Editora Jujuba, ligado à transmissão de histórias e à presença da avó como guardiã de memória."
+    },
+    {
+      "titulo": "A Cura da Terra",
+      "ano": 2015,
+      "descricao": "Livro infantojuvenil publicado pela Editora do Brasil, sobre ancestralidade, sofrimento dos povos indígenas, sabedoria e relação com a terra."
+    },
+    {
+      "titulo": "O Vento Espalha Minha Voz Originária",
+      "ano": 2023,
+      "descricao": "Obra apresentada no site oficial de Eliane Potiguara como livro de poesia e ancestralidade."
+    }
+  ],
+
+  "registroHistorico": "A trajetória de Eliane Potiguara deve ser apresentada com cuidado para não apagar a diferença entre nascimento urbano e pertencimento indígena. Ela nasceu no Rio de Janeiro, mas sua identidade Potiguara está ligada à origem familiar e à memória das terras tradicionais da Paraíba. Sua obra também não deve ser lida apenas como autobiografia individual: ela articula memória de mulheres indígenas, história colonial, deslocamento, violência, espiritualidade, educação e direitos coletivos dos povos originários.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Uma das Dez Mulheres do Ano",
+      "ano": 1988,
+      "descricao": "Reconhecimento do Conselho das Mulheres do Brasil citado no histórico biográfico da autora, associado à criação do GRUMIN e à atuação por mulheres indígenas."
+    },
+    {
+      "titulo": "Premiação pelo PEN Club da Inglaterra e Fundo Livre de Expressão",
+      "ano": 1992,
+      "descricao": "Reconhecimento citado por fontes biográficas e pela UFRJ relacionado à obra A Terra é a Mãe do Índio."
+    },
+    {
+      "titulo": "Cidadania Internacional",
+      "ano": 1996,
+      "descricao": "Título concedido pela comunidade Bahá'í, segundo registros biográficos, em razão de sua atuação por direitos indígenas e paz."
+    },
+    {
+      "titulo": "Indicação ao Projeto Mil Mulheres para o Prêmio Nobel da Paz",
+      "ano": 2005,
+      "descricao": "Reconhecimento internacional de mulheres que atuavam pela paz, direitos humanos e justiça social."
+    },
+    {
+      "titulo": "Embaixadora Universal da Paz",
+      "ano": 2011,
+      "descricao": "Título atribuído pelo Cercle Universel des Ambassadeurs de la Paix, em Genebra, segundo histórico da autora."
+    },
+    {
+      "titulo": "Ordem do Mérito Cultural",
+      "ano": 2014,
+      "descricao": "Reconhecimento do Ministério da Cultura do Brasil, no grau de Cavaleiro, citado em perfis institucionais."
+    },
+    {
+      "titulo": "Doutora Honoris Causa pela UFRJ",
+      "ano": 2021,
+      "descricao": "Título concedido pelo Conselho Universitário da Universidade Federal do Rio de Janeiro em reconhecimento à sua trajetória literária, cultural e política."
+    }
+  ],
+
+  "movimentos": [
+    "Literatura indígena brasileira",
+    "Movimento indígena brasileiro",
+    "GRUMIN - Grupo Mulher-Educação Indígena",
+    "Enlace Continental de Mujeres Indígenas",
+    "Feminismo indígena",
+    "Educação indígena",
+    "Direitos humanos",
+    "Movimento de mulheres indígenas",
+    "Autoria indígena",
+    "Defesa da Declaração da ONU sobre direitos dos povos indígenas"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre literatura indígena, memória das mulheres indígenas e direitos dos povos originários",
+    "descricao": "O legado de Eliane Potiguara está na abertura de caminhos para que escritoras e escritores indígenas sejam reconhecidos como autores de literatura, pensamento e crítica social. Sua obra mostra que a memória indígena não pertence apenas ao passado: ela vive na oralidade, na família, na cidade, na terra, na língua, na poesia e na disputa por direitos. Ao criar o GRUMIN, Eliane fortaleceu uma perspectiva em que mulheres indígenas não aparecem como figuras secundárias, mas como produtoras de conhecimento, liderança, espiritualidade, educação e ação política. Sua atuação internacional ajudou a conectar lutas locais a agendas globais de direitos humanos, e sua escrita continua sendo estudada em escolas, universidades, movimentos sociais e espaços culturais."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Eliane Potiguara em retrato público, representando sua trajetória como escritora, professora e ativista indígena.",
+      "creditos": "Elisabete Alves / MinC-BR - recorte Praxides, licença Creative Commons Attribution 2.0",
+      "imagem": "eliane-biografio.png"
+    },
+    {
+      "descricao": "Imagem de destaque de Eliane Potiguara, associada à literatura indígena e ao feminismo indígena no Brasil.",
+      "creditos": "Acervo de divulgação de Eliane Potiguara / reprodução em página educativa do NEABI",
+      "imagem": "eliane-extraordinaria.png"
+    },
+    {
+      "descricao": "Eliane Potiguara em imagem de abertura da página, relacionada à sua presença pública em debates culturais e políticos.",
+      "creditos": "Tânia Rêgo / Agência Brasil",
+      "imagem": "eliane-hero.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Site oficial",
+      "titulo": "Eliane Potiguara - Literatura Indígena - Um Pensamento Brasileiro",
+      "autor": "Eliane Potiguara",
+      "descricao": "Fonte principal para dados biográficos, formação, obras, GRUMIN, atuação internacional, reconhecimentos e produção literária.",
+      "link": "https://elianepotiguara.org.br/"
+    },
+    {
+      "tipo": "Histórico biográfico",
+      "titulo": "Histórico - Eliane Potiguara",
+      "autor": "Eliane Potiguara",
+      "descricao": "PDF com linha do tempo, trajetória no GRUMIN, atuação internacional, obras publicadas, prêmios e reconhecimentos.",
+      "link": "https://elianepotiguara.org.br/images/historico.pdf"
+    },
+    {
+      "tipo": "Notícia universitária",
+      "titulo": "Eliane Potiguara agora é doutora honoris causa pela UFRJ",
+      "autor": "Universidade Federal do Rio de Janeiro / Centro de Tecnologia",
+      "ano": "2021",
+      "descricao": "Fonte sobre o título de Doutora Honoris Causa pela UFRJ, o poema Identidade Indígena, formação e atuação em direitos indígenas.",
+      "link": "https://ct.ufrj.br/eliane-potiguara-agora-e-doutora-honoris-causa-pela-ufrj/"
+    },
+    {
+      "tipo": "Perfil editorial",
+      "titulo": "Eliane Potiguara",
+      "autor": "Editora do Brasil",
+      "descricao": "Fonte sobre nascimento, formação, origem Potiguara, GRUMIN, movimento indígena, prêmios e obras publicadas pela editora.",
+      "link": "https://www2.editoradobrasil.com.br/eliane-potiguara/"
+    },
+    {
+      "tipo": "Página de obra",
+      "titulo": "A cura da terra",
+      "autor": "Editora do Brasil",
+      "descricao": "Fonte editorial sobre o livro A Cura da Terra, seus temas, público, ISBN e abordagem sobre ancestralidade e relação com a terra.",
+      "link": "https://www2.editoradobrasil.com.br/cura-da-terra-a/"
+    },
+    {
+      "tipo": "Entrevista cultural",
+      "titulo": "Eliane Potiguara - culturas indígenas",
+      "autor": "Itaú Cultural",
+      "ano": "2017",
+      "descricao": "Depoimento sobre ser Potiguara, vivificação do tupi antigo, dança, identidade indígena e cultura.",
+      "link": "https://www.itaucultural.org.br/eliane-potiguara-culturas-indigenas"
+    },
+    {
+      "tipo": "Acervo museológico",
+      "titulo": "Eliane Potiguara - Resistência e identidade indígena na literatura",
+      "autor": "Museu da Língua Portuguesa",
+      "descricao": "Registro audiovisual sobre literatura como memória, identidade indígena, denúncia de violências históricas e saberes tradicionais.",
+      "link": "https://acervo.museudalinguaportuguesa.org.br/acervos/museologico/24514/eliane-potiguara"
+    },
+    {
+      "tipo": "Artigo acadêmico",
+      "titulo": "A questão da identidade em Metade cara, metade máscara de Eliane Potiguara",
+      "autor": "Izabela Guimarães Guerra Leal e Marina Beatrice Ferreira Farias",
+      "ano": "2020",
+      "descricao": "Fonte acadêmica sobre identidade, espiritualidade, poesia indígena, memória familiar e a importância de Metade cara, metade máscara.",
+      "link": "https://periodicos.ufop.br/caletroscopio/article/view/4046"
+    },
+    {
+      "tipo": "Verbete socioambiental",
+      "titulo": "Potiguara",
+      "autor": "Povos Indígenas no Brasil / Instituto Socioambiental",
+      "descricao": "Fonte de contexto sobre o povo Potiguara, localização, história, identidade, língua, território e resistência no Nordeste brasileiro.",
+      "link": "https://pib.socioambiental.org/pt/Povo%3APotiguara"
+    },
+    {
+      "tipo": "Acervo bibliográfico",
+      "titulo": "A terra é a mãe do índio",
+      "autor": "Museu Nacional dos Povos Indígenas / FUNAI",
+      "descricao": "Registro bibliográfico institucional da obra A Terra é a Mãe do Índio, produzida por Eliane Potiguara.",
+      "link": "https://pesquisa.museudoindio.gov.br/index.php/a-terra-e-a-mae-do-indio"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória literária e política de Eliane Potiguara com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser Eliane real, e destaque sua atuação como escritora indígena, professora, poeta, fundadora do GRUMIN e defensora dos direitos dos povos originários e das mulheres indígenas.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Poético sem romantizar",
+      "Antirracista",
+      "Comprometido com os povos originários",
+      "Cuidadoso com dados biográficos",
+      "Atento ao protagonismo das mulheres indígenas"
+    ],
+    "temasChave": [
+      "Povo Potiguara",
+      "Literatura indígena",
+      "Metade cara, metade máscara",
+      "A Terra é a Mãe do Índio",
+      "Identidade Indígena",
+      "GRUMIN",
+      "Mulheres indígenas",
+      "Feminismo indígena",
+      "Memória familiar",
+      "Direitos humanos",
+      "Declaração da ONU sobre direitos indígenas",
+      "Ancestralidade",
+      "Educação indígena",
+      "Migração indígena"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Eliane Potiguara em terceira pessoa; não simule memórias, sentimentos privados ou falas inéditas dela.",
+      "Não invente citações, datas, prêmios, títulos ou cargos sem base nas fontes.",
+      "Informe que Eliane Potiguara nasceu em 29/09/1950 no Rio de Janeiro, e explique que sua identidade Potiguara vem da origem étnica familiar ligada à Paraíba.",
+      "Não afirme que ela nasceu na Paraíba; diferencie nascimento urbano e pertencimento ancestral Potiguara.",
+      "Não trate povos indígenas como grupo único; identifique o povo Potiguara quando relevante.",
+      "Evite romantizar ancestralidade ou espiritualidade; apresente esses temas como dimensões culturais, políticas e literárias.",
+      "Ao falar de literatura indígena, destaque autoria indígena, oralidade, memória e crítica à colonização.",
+      "Ao mencionar o GRUMIN, explique sua importância para mulheres indígenas, educação e direitos humanos.",
+      "Se a pergunta for sobre tema sem relação com sua trajetória, responda educadamente que esse assunto não pertence ao recorte histórico e literário de Eliane Potiguara."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Eliane Potiguara é importante para a literatura brasileira?",
+      "resposta": "Eliane Potiguara é importante porque ajudou a abrir caminho para a literatura indígena contemporânea no Brasil. Sua escrita une poesia, memória familiar, ancestralidade Potiguara, denúncia da violência colonial e defesa das mulheres indígenas. Em obras como Metade cara, metade máscara e A Terra é a Mãe do Índio, ela mostra que povos originários produzem pensamento, literatura e crítica social a partir de suas próprias vozes."
+    }
+  }
+}

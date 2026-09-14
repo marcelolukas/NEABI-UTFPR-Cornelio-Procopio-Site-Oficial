@@ -1,0 +1,452 @@
+{
+  "id": "mercedes-baptista",
+
+  "dadosBasicos": {
+    "nome": "Mercedes Baptista",
+    "nomeCompleto": "Mercedes Ignácia da Silva Krieger",
+    "grupo": "Negra",
+    "dataNascimento": "1921-05-20",
+    "localNascimento": "Campos dos Goytacazes, Rio de Janeiro, Brasil",
+    "nacionalidade": "Brasileira",
+    "estadoAtual": "Falecida",
+    "dataFalecimento": "2014-08-18"
+  },
+
+  "observacaoCronologica": "As fontes consultadas registram Mercedes Baptista como nascida em Campos dos Goytacazes, em 1921. Há divergência sobre a data exata: Ancestralidades/Itaú Cultural e materiais da Prefeitura de Campos usam 20 de maio de 1921, data celebrada por ex-alunos e instituições; a Revista Continente informa que a certidão de nascimento divulgada posteriormente aponta 28 de março de 1921. Também há variação no falecimento: Ancestralidades, Revista Continente e obituários registram 18 de agosto de 2014, enquanto notícia da Prefeitura de Campos informa 19 de agosto de 2014. Esta base usa 20/05/1921 como data pública celebrada e 18/08/2014 como data mais recorrente, mantendo a divergência registrada.",
+
+  "ocupacoes": [
+    "Bailarina",
+    "Coreógrafa",
+    "Professora de dança",
+    "Criadora da dança afro-brasileira cênica",
+    "Diretora de companhia de dança",
+    "Artista do Theatro Municipal do Rio de Janeiro",
+    "Integrante do Teatro Experimental do Negro",
+    "Pesquisadora de danças afro-brasileiras",
+    "Referência do carnaval carioca"
+  ],
+
+  "resumo": "Mercedes Baptista foi uma bailarina, coreógrafa e professora brasileira, reconhecida como a primeira mulher negra a integrar o corpo de baile do Theatro Municipal do Rio de Janeiro. Nascida em Campos dos Goytacazes, mudou-se jovem para a capital fluminense, trabalhou desde cedo e iniciou sua formação em dança em 1945. Enfrentou racismo no balé clássico, mas transformou sua trajetória em criação, ensino e abertura de caminhos para artistas negros. Após estudar com Katherine Dunham nos Estados Unidos, desenvolveu no Brasil uma linguagem de dança afro-brasileira cênica, fundou o Ballet Folclórico Mercedes Baptista e levou sua pesquisa para teatros, televisão, cinema, escolas de samba e espaços de formação. Seu legado atravessa dança, carnaval, memória negra, educação artística e luta antirracista.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: Campos, Rio de Janeiro e o encontro com a dança",
+    "imagem": {
+      "creditos": "Wigder Frota, via Wikimedia Commons - CC BY-SA 4.0",
+      "url": "mercedes-biografia.png"
+    },
+    "descricao": "Mercedes Baptista nasceu em Campos dos Goytacazes, no norte do estado do Rio de Janeiro, filha de João Baptista Ribeiro e Maria Ignácia da Silva. Ainda jovem, mudou-se com a mãe para a cidade do Rio de Janeiro, onde morou no Grajaú e trabalhou em atividades como gráfica, fábrica de chapéus, casas de família e bilheteria de cinema. O contato com filmes e espetáculos alimentou seu desejo de ser artista. Em 1945, ingressou em um curso gratuito de danças do Serviço Nacional do Teatro, com Eros Volúsia, e depois continuou sua formação na Escola de Danças do Theatro Municipal, onde enfrentou barreiras raciais em um ambiente elitizado e majoritariamente branco."
+  },
+
+  "perfil": {
+    "valores": [
+      "Excelência artística",
+      "Dignidade negra",
+      "Resistência",
+      "Disciplina",
+      "Criação",
+      "Ancestralidade afro-brasileira",
+      "Ensino",
+      "Coletividade",
+      "Memória",
+      "Liberdade corporal"
+    ],
+    "caracteristicas": [
+      "Pioneira",
+      "Rigorosa",
+      "Criativa",
+      "Corajosa",
+      "Generosa como professora",
+      "Inovadora",
+      "Persistente",
+      "Antirracista",
+      "Formadora de gerações"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Balé clássico",
+    "Dança afro-brasileira",
+    "Dança moderna",
+    "Dança folclórica",
+    "Candomblé e corporeidades afro-brasileiras",
+    "Carnaval carioca",
+    "Teatro Experimental do Negro",
+    "Educação em dança",
+    "Memória da população negra",
+    "Artes cênicas",
+    "Cultura afro-brasileira",
+    "Coreografia",
+    "Representatividade negra nas artes"
+  ],
+
+  "causas": [
+    "Combate ao racismo nas artes",
+    "Valorização de artistas negros",
+    "Reconhecimento da dança afro-brasileira",
+    "Acesso de pessoas negras à formação artística",
+    "Memória de mulheres negras",
+    "Presença negra nos palcos institucionais",
+    "Valorização da cultura afro-brasileira",
+    "Educação antirracista",
+    "Reconhecimento do corpo negro como produtor de técnica e conhecimento",
+    "Preservação de acervos de dança",
+    "Afirmação da estética negra nas artes cênicas"
+  ],
+
+  "habilidades": [
+    "Balé clássico",
+    "Coreografia",
+    "Dança afro-brasileira",
+    "Dança moderna",
+    "Ensino de dança",
+    "Pesquisa corporal",
+    "Direção de grupo artístico",
+    "Criação cênica",
+    "Articulação com carnaval",
+    "Formação de bailarinos",
+    "Trabalho com ritmo e corporeidades afro-brasileiras"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Disciplinada",
+    "Inventiva",
+    "Corajosa",
+    "Resiliente",
+    "Generosa",
+    "Exigente",
+    "Inspiradora"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 9,
+    "lideranca": 9,
+    "justicaSocial": 9,
+    "arteECultura": 10,
+    "cienciaETecnologia": 0,
+    "esporte": 0,
+    "empreendedorismo": 7,
+    "comunidade": 9,
+    "direitosHumanos": 8,
+    "politica": 7,
+    "filosofia": 6,
+    "literatura": 1,
+    "igualdadeDeGenero": 9,
+    "combateAoRacismo": 10
+  },
+
+  "biografia": "Mercedes Baptista, também registrada como Mercedes Ignácia da Silva Krieger, nasceu em Campos dos Goytacazes, no estado do Rio de Janeiro, em 1921. Filha de João Baptista Ribeiro e Maria Ignácia da Silva, mudou-se ainda jovem com a mãe para a cidade do Rio de Janeiro, onde trabalhou em diferentes ocupações antes de se dedicar profissionalmente à dança. Em 1945, iniciou seus estudos no curso gratuito de danças do Serviço Nacional do Teatro, com Eros Volúsia, artista ligada à pesquisa da cultura brasileira. Depois ingressou na Escola de Danças do Theatro Municipal do Rio de Janeiro, onde estudou com professores como Yuco Lindberg. Em 1948, após concurso marcado por tentativa de exclusão, foi aprovada para integrar o corpo de baile do Theatro Municipal, tornando-se a primeira mulher negra a ocupar esse espaço. Apesar da conquista, enfrentou racismo institucional, recebendo poucas oportunidades em repertórios clássicos e sendo muitas vezes afastada dos papéis de destaque. Sua aproximação com Abdias Nascimento e o Teatro Experimental do Negro fortaleceu uma trajetória artística ligada à valorização da identidade negra. Em 1950, durante o Primeiro Congresso do Negro Brasileiro, recebeu uma bolsa para estudar com Katherine Dunham nos Estados Unidos, onde teve contato com uma pesquisa de dança moderna e culturas negras da diáspora. Ao retornar ao Brasil, estruturou aulas e criações que uniam balé clássico, dança moderna, danças populares negras e movimentos inspirados em rituais afro-brasileiros. Em 1953, fundou o Ballet Folclórico Mercedes Baptista, que ofereceu formação e oportunidade a artistas negros e difundiu a dança afro-brasileira em palcos nacionais e internacionais. Também atuou no carnaval carioca, especialmente no Salgueiro, onde sua coreografia para o enredo Xica da Silva, em 1963, ajudou a transformar a linguagem das comissões de frente e das alas coreografadas. Foi professora da Escola de Dança do Theatro Municipal, fundou a Academia de Danças Étnicas Mercedes Baptista em 1973 e trabalhou em televisão, cinema, teatro e cursos no Brasil e no exterior. Mercedes Baptista faleceu no Rio de Janeiro em agosto de 2014, deixando um legado decisivo para a dança afro-brasileira, a memória de mulheres negras e a luta antirracista nas artes.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1921",
+      "descricao": "Nasce em Campos dos Goytacazes, no estado do Rio de Janeiro. A data de 20 de maio é celebrada por instituições e ex-alunos, embora a Revista Continente registre que a certidão divulgada posteriormente aponta 28 de março."
+    },
+    {
+      "ano": "Infância e juventude",
+      "descricao": "Muda-se com a mãe para a cidade do Rio de Janeiro, vive no Grajaú e trabalha em diferentes ocupações antes de ingressar no campo artístico."
+    },
+    {
+      "ano": "1945",
+      "descricao": "Inicia estudos de dança no curso gratuito do Serviço Nacional do Teatro, com Eros Volúsia, entrando em contato com balé clássico e danças ligadas à cultura brasileira."
+    },
+    {
+      "ano": "1946-1948",
+      "descricao": "Estuda na Escola de Danças do Theatro Municipal do Rio de Janeiro e prepara-se para o concurso de ingresso no corpo de baile."
+    },
+    {
+      "ano": "1948",
+      "descricao": "É aprovada no concurso e torna-se a primeira mulher negra a integrar o corpo de baile do Theatro Municipal do Rio de Janeiro."
+    },
+    {
+      "ano": "1948",
+      "descricao": "Aproxima-se de Abdias Nascimento e do Teatro Experimental do Negro, fortalecendo sua atuação em arte, cultura negra e luta antirracista."
+    },
+    {
+      "ano": "1950",
+      "descricao": "Recebe bolsa de estudos para a Dunham School of Dance, em Nova York, durante o Primeiro Congresso do Negro Brasileiro."
+    },
+    {
+      "ano": "1952",
+      "descricao": "Retorna ao Brasil e começa a estruturar uma técnica de dança afro-brasileira cênica a partir de pesquisa, ensino e criação coreográfica."
+    },
+    {
+      "ano": "1953",
+      "descricao": "Funda o Ballet Folclórico Mercedes Baptista, grupo que forma artistas negros e leva a dança afro-brasileira a palcos nacionais e internacionais."
+    },
+    {
+      "ano": "1958",
+      "descricao": "Realiza turnê com seu grupo na Argentina, ampliando a circulação internacional do Ballet Folclórico Mercedes Baptista."
+    },
+    {
+      "ano": "1960",
+      "descricao": "Coreografa para o Salgueiro no enredo Quilombo dos Palmares, aproximando dança cênica, cultura negra e carnaval."
+    },
+    {
+      "ano": "1963",
+      "descricao": "Assina coreografias para o desfile Xica da Silva, do Salgueiro, marco da teatralização e dos passos marcados no carnaval carioca."
+    },
+    {
+      "ano": "1966-1982",
+      "descricao": "Atua como professora de Dança Afro na Escola de Dança do Theatro Municipal, atual Escola Estadual de Dança Maria Olenewa."
+    },
+    {
+      "ano": "1973",
+      "descricao": "Funda a Academia de Danças Étnicas Mercedes Baptista, em Copacabana, ampliando sua atuação como professora e formadora."
+    },
+    {
+      "ano": "2005",
+      "descricao": "Tem sua trajetória retratada no documentário Balé de Pé no Chão - A dança afro de Mercedes Baptista."
+    },
+    {
+      "ano": "2007",
+      "descricao": "É publicado o livro Mercedes Baptista: a criação da identidade negra na dança, de Paulo Melgaço da Silva Júnior, pela Fundação Cultural Palmares."
+    },
+    {
+      "ano": "2009",
+      "descricao": "Recebe o Estandarte de Ouro de Personalidade pelo desfile da Unidos de Vila Isabel, segundo registro da Prefeitura de Campos dos Goytacazes."
+    },
+    {
+      "ano": "2014",
+      "descricao": "Falece no Rio de Janeiro, aos 93 anos, deixando um legado central para a dança afro-brasileira."
+    },
+    {
+      "ano": "2016",
+      "descricao": "Recebe homenagem póstuma com uma estátua no Largo de São Francisco da Prainha, na região da Pequena África, no Rio de Janeiro."
+    },
+    {
+      "ano": "2022",
+      "descricao": "Parte de seu acervo, com figurinos, fotos e prêmios, é doado ao município de Campos dos Goytacazes e passa à guarda do Museu Histórico."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Pioneira negra no Theatro Municipal e criadora de uma linguagem decisiva para a dança afro-brasileira.",
+    "descricao": "Mercedes Baptista é extraordinária porque enfrentou o racismo de instituições artísticas elitizadas e transformou exclusão em criação. Ao entrar no corpo de baile do Theatro Municipal, abriu uma porta histórica para artistas negros, mas seu legado vai além do pioneirismo individual. Ela criou caminhos coletivos: formou bailarinos, fundou grupo próprio, pesquisou movimentos afro-brasileiros, levou a cultura negra para palcos, escolas, televisão, cinema e carnaval. Sua trajetória mostra que a dança é também conhecimento, memória, técnica, corpo político e disputa por reconhecimento.",
+    "imagem": {
+      "creditos": "Acervo de dança brasileira / reprodução em página educativa do NEABI",
+      "url": "mercedes-extraordinarai.png"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "Ballet Folclórico Mercedes Baptista",
+      "ano": 1953,
+      "descricao": "Grupo fundado por Mercedes Baptista para formar artistas negros e divulgar a dança afro-brasileira em apresentações no Brasil e no exterior."
+    },
+    {
+      "titulo": "Coreografias para Quilombo dos Palmares - Salgueiro",
+      "ano": 1960,
+      "descricao": "Atuação coreográfica no carnaval carioca em diálogo com a valorização da história negra."
+    },
+    {
+      "titulo": "Minueto / Xica da Silva - Acadêmicos do Salgueiro",
+      "ano": 1963,
+      "descricao": "Coreografia associada à revolução estética do carnaval carioca e à introdução de alas com passos marcados."
+    },
+    {
+      "titulo": "Academia de Danças Étnicas Mercedes Baptista",
+      "ano": 1973,
+      "descricao": "Escola fundada em Copacabana, onde Mercedes ampliou sua atuação como professora e formadora em danças afro-brasileiras."
+    },
+    {
+      "titulo": "Balé de Pé no Chão - A dança afro de Mercedes Baptista",
+      "ano": 2005,
+      "descricao": "Documentário dirigido por Lilian Solá Santiago e Marianna Monteiro sobre a trajetória de Mercedes Baptista e da dança negra no Brasil."
+    }
+  ],
+
+  "registroHistorico": "Mercedes Baptista deve ser apresentada como primeira mulher negra a integrar o corpo de baile do Theatro Municipal do Rio de Janeiro, e não como primeira-bailarina no sentido hierárquico do balé clássico, a menos que a fonte esteja tratando a expressão de modo jornalístico. Sua importância não se limita à entrada no Municipal: ela criou metodologia, repertório, grupo, escola e memória para a dança afro-brasileira. A frase usada em algumas homenagens sobre 'destroçar portas' foi associada à despedida organizada por suas alunas e deve ser tratada com cautela, sem apresentá-la como citação direta comprovada de Mercedes se a fonte consultada não demonstrar autoria.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Primeira mulher negra no corpo de baile do Theatro Municipal do Rio de Janeiro",
+      "ano": 1948,
+      "descricao": "Marco histórico de presença negra em uma das principais instituições de dança clássica do país."
+    },
+    {
+      "titulo": "Precursora da dança afro-brasileira cênica",
+      "ano": "Década de 1950",
+      "descricao": "Reconhecimento por estruturar uma linguagem que articula técnica, pesquisa, cultura negra e criação coreográfica."
+    },
+    {
+      "titulo": "Transformação do carnaval carioca",
+      "ano": 1963,
+      "descricao": "Sua atuação no Salgueiro contribuiu para a teatralização das comissões de frente e alas coreografadas."
+    },
+    {
+      "titulo": "Estandarte de Ouro de Personalidade",
+      "ano": 2009,
+      "descricao": "Prêmio citado pela Prefeitura de Campos dos Goytacazes pelo desfile na Unidos de Vila Isabel."
+    },
+    {
+      "titulo": "Troféu do Prêmio Cesgranrio de Dança",
+      "ano": 2019,
+      "descricao": "O prêmio adotou Mercedes Baptista como nome e símbolo de reconhecimento e incentivo à dança."
+    },
+    {
+      "titulo": "Estátua no Largo de São Francisco da Prainha",
+      "ano": 2016,
+      "descricao": "Homenagem pública póstuma na região da Pequena África, no Rio de Janeiro."
+    },
+    {
+      "titulo": "Acervo no Museu Histórico de Campos dos Goytacazes",
+      "ano": 2022,
+      "descricao": "Doação de acervo com figurinos, fotos e prêmios ao município natal de Mercedes Baptista."
+    }
+  ],
+
+  "movimentos": [
+    "Dança afro-brasileira",
+    "Dança negra brasileira",
+    "Teatro Experimental do Negro",
+    "Movimento negro brasileiro",
+    "Carnaval carioca",
+    "Balé clássico no Brasil",
+    "Educação antirracista",
+    "Memória afro-brasileira",
+    "Artes cênicas negras",
+    "Pequena África"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre dança, carnaval, memória negra e formação artística",
+    "descricao": "O legado de Mercedes Baptista está na criação de uma linguagem de dança afro-brasileira que uniu técnica, pesquisa, ancestralidade e invenção cênica. Ela abriu caminhos para artistas negros em um campo marcado pelo racismo, transformou sua experiência no Theatro Municipal em crítica e criação, fundou espaços de formação e projetou bailarinos que circularam por teatros, escolas de samba, televisão e palcos internacionais. Sua presença no carnaval ajudou a modificar a estética das comissões de frente e das alas coreografadas, aproximando dança cênica, samba e história negra. Suas homenagens póstumas, como a estátua na Pequena África e a preservação de seu acervo em Campos, reforçam a necessidade de reconhecer mulheres negras como produtoras de arte, técnica, memória e patrimônio cultural."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Mercedes Baptista em registro histórico de dança afro-brasileira, representando sua pesquisa corporal e sua presença como primeira mulher negra no corpo de baile do Theatro Municipal.",
+      "creditos": "Arquivo Nacional / Correio da Manhã, via Alma Preta",
+      "imagem": "mercedes-galeria-1.png"
+    },
+    {
+      "descricao": "Comissão de Frente da Acadêmicos do Salgueiro no desfile de 1963, ligada à inovação coreográfica atribuída ao trabalho de Mercedes Baptista no carnaval.",
+      "creditos": "Acervo publicado pelo site Primeiros Negros - autoria não identificada",
+      "imagem": "mercedes-galeria-2.png"
+    },
+    {
+      "descricao": "Estátua de Mercedes Baptista no Largo de São Francisco da Prainha, na região da Pequena África, no Rio de Janeiro.",
+      "creditos": "Luiza Maia / Revista Galileu",
+      "imagem": "mercedes-baptista-galeria-3.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Verbete biográfico",
+      "titulo": "Mercedes Baptista",
+      "autor": "Ancestralidades / Itaú Cultural",
+      "descricao": "Fonte para nome completo, nascimento, falecimento, atuação como bailarina e coreógrafa, ingresso no Theatro Municipal e importância para a dança afro-brasileira.",
+      "link": "https://www.ancestralidades.org.br/biografias-e-trajetorias/mercedes-baptista"
+    },
+    {
+      "tipo": "Perfil jornalístico especializado",
+      "titulo": "Mercedes Baptista",
+      "autor": "Paulo Melgaço da Silva Junior / Revista Continente",
+      "ano": "2021",
+      "descricao": "Fonte detalhada sobre infância, formação, racismo no Theatro Municipal, Katherine Dunham, Ballet Folclórico, carnaval, ensino, homenagens e divergências de data.",
+      "link": "https://revistacontinente.com.br/edicoes/245/mercedes-baptista"
+    },
+    {
+      "tipo": "Acervo / livro",
+      "titulo": "Mercedes Baptista: a criação da identidade negra na dança",
+      "autor": "Portal MUD - Museu da Dança",
+      "descricao": "Registro do livro de Paulo Melgaço da Silva Júnior, publicado pela Fundação Cultural Palmares em 2007, sobre a construção da identidade negra na dança brasileira.",
+      "link": "https://portalmud.com.br/museu-da-danca/mercedes-baptista-a-criacao-da-identidade-negra-na-danca/"
+    },
+    {
+      "tipo": "Artigo acadêmico",
+      "titulo": "Ballet Folclórico Mercedes Baptista: entre brasilidade e negritude no Rio de Janeiro das décadas de 1950 e 1960",
+      "autor": "Erika Villeroy / Arte & Ensaios - UFRJ",
+      "ano": "2021",
+      "descricao": "Fonte acadêmica sobre a emergência da dança negra cênica, o Ballet Folclórico Mercedes Baptista e a articulação entre balé clássico, dança moderna e danças afro-brasileiras.",
+      "link": "https://revistas.ufrj.br/index.php/ae/article/view/2222-1448"
+    },
+    {
+      "tipo": "Artigo acadêmico",
+      "titulo": "Estratégias de evidenciação na trajetória de Mercedes Baptista",
+      "autor": "Taynara Rafaela dos Santos / Revista Mosaico - PUC Goiás",
+      "ano": "2024",
+      "descricao": "Fonte sobre invisibilização, biografia, pioneirismo e importância de Mercedes Baptista para a dança afro no Brasil.",
+      "link": "https://seer.pucgoias.edu.br/index.php/mosaico/article/view/13930"
+    },
+    {
+      "tipo": "Dissertação",
+      "titulo": "Memória, corpo e performances: a dança negra de Mercedes Baptista",
+      "autor": "Dayana Gomes Pereira / Universidade Federal de Goiás",
+      "ano": "2016",
+      "descricao": "Fonte acadêmica sobre corpo negro feminino, memória, performances culturais, dança afro-brasileira e documentário Balé de Pé no Chão.",
+      "link": "https://repositorio.bc.ufg.br/tede/items/55271749-82bb-4570-9f0b-5182c91d08da/full"
+    },
+    {
+      "tipo": "Notícia institucional",
+      "titulo": "Exposição sobre Mercedes Baptista segue em cartaz no Museu Histórico",
+      "autor": "Prefeitura Municipal de Campos dos Goytacazes",
+      "ano": "2024",
+      "descricao": "Fonte sobre nascimento em Campos, acervo no Museu Histórico, papel como primeira negra no Theatro Municipal, criação do balé afro-brasileiro e Estandarte de Ouro.",
+      "link": "https://www.campos.rj.gov.br/exibirNoticia.php?id_noticia=89556"
+    },
+    {
+      "tipo": "Artigo de memória pública",
+      "titulo": "O corpo monumento de Mercedes Baptista",
+      "autor": "Ana Luiza Izidio Barbosa das Neves / História Editorial",
+      "ano": "2024",
+      "descricao": "Fonte sobre a estátua de Mercedes Baptista, memória afro-brasileira, apagamento, Pequena África e trajetória no Theatro Municipal.",
+      "link": "https://historiaeditorial.com.br/o-corpo-monumento-de-mercedes-baptista/"
+    },
+    {
+      "tipo": "Reportagem",
+      "titulo": "Mercedes Baptista: os 100 anos da primeira bailarina negra do Municipal e nome fundamental da dança no Brasil",
+      "autor": "Leda Antunes / O Globo, republicado por Geledés",
+      "ano": "2021",
+      "descricao": "Fonte jornalística sobre centenário, racismo no Municipal, dança afro-brasileira, carnaval e homenagem com estátua no Largo São Francisco da Prainha.",
+      "link": "https://www.geledes.org.br/mercedes-baptista-os-100-anos-da-primeira-bailarina-negra-do-municipal-e-nome-fundamental-da-danca-no-brasil/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória artística e histórica de Mercedes Baptista com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser Mercedes real, e destaque sua atuação como bailarina, coreógrafa, professora, pioneira negra no Theatro Municipal e criadora de caminhos para a dança afro-brasileira.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Antirracista",
+      "Preciso com termos de dança",
+      "Cuidadoso com datas divergentes",
+      "Comprometido com a memória de mulheres negras",
+      "Atento à dimensão artística e política do corpo"
+    ],
+    "temasChave": [
+      "Dança afro-brasileira",
+      "Theatro Municipal do Rio de Janeiro",
+      "Ballet Folclórico Mercedes Baptista",
+      "Teatro Experimental do Negro",
+      "Abdias Nascimento",
+      "Katherine Dunham",
+      "Carnaval carioca",
+      "Salgueiro",
+      "Xica da Silva",
+      "Racismo nas artes",
+      "Mulheres negras na dança",
+      "Pequena África",
+      "Memória afro-brasileira"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Mercedes Baptista em terceira pessoa; não simule memórias, sentimentos privados ou falas inéditas dela.",
+      "Não invente citações, datas, prêmios, coreografias ou cargos sem base nas fontes.",
+      "Apresente Mercedes como primeira mulher negra a integrar o corpo de baile do Theatro Municipal do Rio de Janeiro; evite confundir isso com o posto hierárquico de primeira-bailarina.",
+      "Quando mencionar datas de nascimento e falecimento, reconheça que há divergências nas fontes.",
+      "Não reduza Mercedes ao pioneirismo institucional; destaque sua criação da dança afro-brasileira cênica, seu ensino, seu grupo e sua atuação no carnaval.",
+      "Explique o racismo no Theatro Municipal sem transformar a trajetória dela em sofrimento isolado; mostre também criação, técnica, coletividade e legado.",
+      "Ao falar de dança afro-brasileira, trate-a como linguagem artística e conhecimento corporal, não como folclore menor.",
+      "Não atribua como fala direta de Mercedes a frase 'destroçar portas' sem avisar que as fontes a associam a homenagens de alunas.",
+      "Se a pergunta for sobre tema sem relação com sua trajetória, responda educadamente que esse assunto não pertence ao recorte histórico e artístico de Mercedes Baptista."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Mercedes Baptista é importante para a dança brasileira?",
+      "resposta": "Mercedes Baptista é importante porque abriu caminho para artistas negros em uma área marcada pelo racismo e ajudou a criar uma linguagem cênica de dança afro-brasileira. Ela foi a primeira mulher negra a integrar o corpo de baile do Theatro Municipal do Rio de Janeiro, mas seu legado vai além disso: fundou o Ballet Folclórico Mercedes Baptista, formou bailarinos, pesquisou corporeidades afro-brasileiras e transformou também a estética do carnaval carioca."
+    }
+  }
+}

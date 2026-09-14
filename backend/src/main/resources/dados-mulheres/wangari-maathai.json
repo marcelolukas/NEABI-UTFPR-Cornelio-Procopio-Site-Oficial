@@ -1,0 +1,460 @@
+{
+  "id": "wangari-maathai",
+
+  "dadosBasicos": {
+    "nome": "Wangari Maathai",
+    "nomeCompleto": "Wangari Muta Maathai",
+    "grupo": "Negra africana",
+    "dataNascimento": "1940-04-01",
+    "localNascimento": "Ihithe, distrito de Nyeri, Quênia",
+    "nacionalidade": "Queniana",
+    "estadoAtual": "Falecida",
+    "dataFalecimento": "2011-09-25"
+  },
+
+  "observacaoCronologica": "Wangari Maathai nasceu em 1º de abril de 1940, em Ihithe, na região de Nyeri, no Quênia, então colônia britânica. Faleceu em 25 de setembro de 2011, em Nairóbi. Fontes institucionais registram variações de 1964 ou 1966 para etapas de sua formação nos Estados Unidos; esta base privilegia a síntese biográfica do Nobel, do Green Belt Movement e da Universidade de Nairobi, registrando os marcos centrais: graduação nos Estados Unidos, doutorado na Universidade de Nairobi, fundação do Green Belt Movement em 1977, eleição parlamentar em 2002 e Prêmio Nobel da Paz em 2004.",
+
+  "ocupacoes": [
+    "Ambientalista",
+    "Bióloga",
+    "Professora universitária",
+    "Ativista política",
+    "Defensora dos direitos das mulheres",
+    "Fundadora do Green Belt Movement",
+    "Parlamentar queniana",
+    "Ex-vice-ministra de Meio Ambiente e Recursos Naturais",
+    "Escritora",
+    "Defensora da democracia"
+  ],
+
+  "resumo": "Wangari Muta Maathai foi uma ambientalista, bióloga, professora universitária, escritora e ativista queniana. Tornou-se referência mundial ao fundar, em 1977, o Green Belt Movement, movimento que articulou plantio de árvores, recuperação ambiental, autonomia econômica das mulheres, educação cívica, democracia e direitos humanos. Foi a primeira mulher da África Oriental e Central a obter doutorado, atuou na Universidade de Nairobi, presidiu o Conselho Nacional de Mulheres do Quênia, foi eleita ao Parlamento queniano em 2002 e recebeu o Prêmio Nobel da Paz em 2004, tornando-se a primeira mulher africana laureada com o Nobel da Paz. Seu legado mostra que proteção ambiental, justiça social, participação comunitária e liberdade política são dimensões inseparáveis.",
+
+  "trajetoriaInicial": {
+    "titulo": "Trajetória inicial: Nyeri, educação e ciência",
+    "imagem": {
+      "creditos": "Charley Gallay / Getty Images, via UOL Ecoa",
+      "url": "wangari-bio.png"
+    },
+    "descricao": "Wangari Maathai nasceu em uma família rural na região de Nyeri, no Quênia, durante o período colonial britânico. Cresceu em contato com a terra, os rios, as árvores e o trabalho agrícola, experiências que depois apareceriam em sua visão sobre meio ambiente e comunidade. Estudou em escolas católicas no Quênia e, no início dos anos 1960, recebeu bolsa para estudar nos Estados Unidos, em um programa que levou jovens africanos a universidades norte-americanas. Formou-se em Biologia, fez mestrado e retornou ao Quênia para atuar na Universidade de Nairobi. Em 1971, tornou-se a primeira mulher da África Oriental e Central a receber um doutorado, abrindo caminho em um campo acadêmico dominado por homens."
+  },
+
+  "perfil": {
+    "valores": [
+      "Justiça ambiental",
+      "Democracia",
+      "Participação comunitária",
+      "Educação",
+      "Dignidade das mulheres",
+      "Sustentabilidade",
+      "Paz",
+      "Coragem cívica",
+      "Cuidado com a terra",
+      "Direitos humanos"
+    ],
+    "caracteristicas": [
+      "Visionária",
+      "Persistente",
+      "Corajosa",
+      "Didática",
+      "Científica",
+      "Comunitária",
+      "Insubmissa",
+      "Organizadora",
+      "Inspiradora"
+    ]
+  },
+
+  "areasDeInteresse": [
+    "Meio ambiente",
+    "Reflorestamento",
+    "Green Belt Movement",
+    "Direitos das mulheres",
+    "Democracia no Quênia",
+    "Educação cívica",
+    "Desenvolvimento sustentável",
+    "Paz",
+    "Direitos humanos",
+    "Biologia",
+    "Ecologia",
+    "Conservação florestal",
+    "Justiça social",
+    "Governança ambiental"
+  ],
+
+  "causas": [
+    "Plantio comunitário de árvores",
+    "Combate ao desmatamento",
+    "Autonomia econômica das mulheres",
+    "Proteção de florestas e bacias hidrográficas",
+    "Democracia e participação popular",
+    "Combate à corrupção e ao autoritarismo",
+    "Educação ambiental",
+    "Justiça climática",
+    "Direitos humanos",
+    "Desenvolvimento sustentável",
+    "Valorização de comunidades rurais",
+    "Defesa de espaços públicos"
+  ],
+
+  "habilidades": [
+    "Organização comunitária",
+    "Pesquisa científica",
+    "Educação ambiental",
+    "Mobilização de mulheres",
+    "Comunicação pública",
+    "Incidência política",
+    "Escrita autobiográfica",
+    "Defesa de políticas públicas",
+    "Articulação internacional",
+    "Liderança não violenta",
+    "Reflorestamento participativo"
+  ],
+
+  "tracosPersonalidade": [
+    "Determinada",
+    "Corajosa",
+    "Resiliente",
+    "Generosa",
+    "Firme",
+    "Esperançosa",
+    "Pragmática",
+    "Visionária"
+  ],
+
+  "pesoCategorias": {
+    "educacao": 10,
+    "lideranca": 10,
+    "justicaSocial": 10,
+    "arteECultura": 4,
+    "cienciaETecnologia": 9,
+    "esporte": 0,
+    "empreendedorismo": 8,
+    "comunidade": 10,
+    "direitosHumanos": 10,
+    "politica": 10,
+    "filosofia": 8,
+    "literatura": 6,
+    "igualdadeDeGenero": 10,
+    "combateAoRacismo": 7
+  },
+
+  "biografia": "Wangari Muta Maathai nasceu em 1º de abril de 1940, em Ihithe, na região de Nyeri, no Quênia. Cresceu em uma comunidade rural durante o período colonial britânico e teve uma formação escolar rara para meninas de sua geração. No início dos anos 1960, recebeu bolsa para estudar nos Estados Unidos, onde se formou em Biologia pelo Mount St. Scholastica College, atual Benedictine College, e fez mestrado na Universidade de Pittsburgh. De volta ao Quênia, trabalhou na Universidade de Nairobi, onde se tornou a primeira mulher da África Oriental e Central a obter doutorado, em 1971, e depois ocupou cargos de docência e chefia acadêmica. Em 1977, a partir de sua atuação no Conselho Nacional de Mulheres do Quênia, fundou o Green Belt Movement. O movimento começou com o plantio comunitário de árvores, mas rapidamente se tornou uma estratégia de educação ambiental, geração de renda para mulheres, recuperação de solos, proteção de bacias hidrográficas e mobilização democrática. Nos anos 1980 e 1990, Wangari enfrentou repressão, prisões, agressões e campanhas de difamação por desafiar o governo autoritário queniano, defender espaços públicos e denunciar a degradação ambiental. Sua atuação ajudou a impedir projetos em áreas como o Uhuru Park e a Karura Forest, em Nairóbi. Em 2002, foi eleita para o Parlamento queniano e, em 2003, tornou-se vice-ministra de Meio Ambiente e Recursos Naturais. Em 2004, recebeu o Prêmio Nobel da Paz por sua contribuição para o desenvolvimento sustentável, a democracia e a paz, tornando-se a primeira mulher africana laureada com esse prêmio. Também escreveu livros como Unbowed, The Green Belt Movement, Replenishing the Earth e The Challenge for Africa. Faleceu em 25 de setembro de 2011, em Nairóbi, deixando um legado internacional de ambientalismo comunitário, protagonismo das mulheres, democracia e cuidado com a Terra.",
+
+  "linhaDoTempo": [
+    {
+      "ano": "1940",
+      "descricao": "Nasce em 1º de abril, em Ihithe, na região de Nyeri, no Quênia, então sob domínio colonial britânico."
+    },
+    {
+      "ano": "Década de 1950",
+      "descricao": "Estuda em escolas no Quênia e se destaca em um contexto no qual a educação formal para meninas era limitada."
+    },
+    {
+      "ano": "1960",
+      "descricao": "Recebe bolsa para estudar nos Estados Unidos, em programa que ampliou a formação universitária de jovens africanos."
+    },
+    {
+      "ano": "1964",
+      "descricao": "Forma-se em Biologia pelo Mount St. Scholastica College, atual Benedictine College, no Kansas."
+    },
+    {
+      "ano": "1966",
+      "descricao": "Conclui mestrado na Universidade de Pittsburgh e retorna ao Quênia para atuar na Universidade de Nairobi."
+    },
+    {
+      "ano": "1971",
+      "descricao": "Torna-se a primeira mulher da África Oriental e Central a obter doutorado, pela Universidade de Nairobi."
+    },
+    {
+      "ano": "1976",
+      "descricao": "Assume responsabilidades acadêmicas na Universidade de Nairobi e intensifica sua atuação no Conselho Nacional de Mulheres do Quênia."
+    },
+    {
+      "ano": "1977",
+      "descricao": "Funda o Green Belt Movement, articulando plantio de árvores, participação de mulheres, educação ambiental e fortalecimento comunitário."
+    },
+    {
+      "ano": "1981-1987",
+      "descricao": "Preside o Conselho Nacional de Mulheres do Quênia, ampliando a dimensão nacional do Green Belt Movement."
+    },
+    {
+      "ano": "1984",
+      "descricao": "Recebe o Right Livelihood Award por transformar reflorestamento comunitário em movimento social liderado por mulheres."
+    },
+    {
+      "ano": "1989",
+      "descricao": "Participa da campanha para impedir a construção de um grande complexo no Uhuru Park, em Nairóbi, marco de sua defesa dos espaços públicos."
+    },
+    {
+      "ano": "1992",
+      "descricao": "É presa e agredida durante mobilizações por democracia e pela libertação de presos políticos no Quênia."
+    },
+    {
+      "ano": "1999",
+      "descricao": "É ferida durante ação em defesa da Karura Forest, em Nairóbi, contra a apropriação privada de terras públicas."
+    },
+    {
+      "ano": "2002",
+      "descricao": "É eleita para o Parlamento queniano pelo distrito de Tetu."
+    },
+    {
+      "ano": "2003",
+      "descricao": "Torna-se vice-ministra de Meio Ambiente e Recursos Naturais no governo do Quênia."
+    },
+    {
+      "ano": "2004",
+      "descricao": "Recebe o Prêmio Nobel da Paz por sua contribuição ao desenvolvimento sustentável, à democracia e à paz."
+    },
+    {
+      "ano": "2006",
+      "descricao": "Publica a autobiografia Unbowed, em que narra sua infância, formação, ativismo e conflitos políticos."
+    },
+    {
+      "ano": "2007",
+      "descricao": "Participa da criação da Nobel Women's Initiative, junto a outras mulheres laureadas com o Nobel da Paz."
+    },
+    {
+      "ano": "2010",
+      "descricao": "Publica Replenishing the Earth, obra em que relaciona espiritualidade, sustentabilidade, valores culturais e restauração ambiental."
+    },
+    {
+      "ano": "2011",
+      "descricao": "Falece em 25 de setembro, em Nairóbi. Seu legado continua por meio do Green Belt Movement, de fundações, institutos e movimentos ambientais."
+    }
+  ],
+
+  "porqueExtraordinaria": {
+    "destaque": "Primeira mulher africana Nobel da Paz e criadora de um movimento que uniu árvores, mulheres, democracia e direitos humanos.",
+    "descricao": "Wangari Maathai é extraordinária porque transformou uma ação aparentemente simples, plantar árvores, em uma prática de mudança social profunda. Ela percebeu que desmatamento, pobreza, autoritarismo, falta de água, insegurança alimentar e desigualdade de gênero estavam conectados. Ao organizar mulheres para plantar árvores, gerou renda, restaurou ecossistemas, fortaleceu comunidades e formou consciência política. Sua coragem diante da repressão estatal mostrou que proteger a natureza também pode significar defender democracia, espaços públicos e direitos humanos. O Nobel da Paz de 2004 reconheceu essa visão ampla e pioneira.",
+    "imagem": {
+      "creditos": "Gianluigi Guercia / AFP / Getty Images, via The Boston Globe",
+      "url": "wangari-extraodinaria.png"
+    }
+  },
+
+  "obras": [
+    {
+      "titulo": "The Green Belt Movement: Sharing the Approach and the Experience",
+      "ano": 2003,
+      "descricao": "Livro em que Wangari Maathai apresenta a experiência, os métodos e a filosofia do Green Belt Movement."
+    },
+    {
+      "titulo": "Unbowed: A Memoir",
+      "ano": 2006,
+      "descricao": "Autobiografia em que narra sua infância, educação, carreira acadêmica, ativismo, conflitos políticos e trajetória até o Nobel."
+    },
+    {
+      "titulo": "The Challenge for Africa",
+      "ano": 2009,
+      "descricao": "Obra sobre desenvolvimento, governança, democracia, cultura, meio ambiente e desafios políticos do continente africano."
+    },
+    {
+      "titulo": "Replenishing the Earth",
+      "ano": 2010,
+      "descricao": "Livro sobre restauração ambiental, espiritualidade, valores culturais, sustentabilidade e responsabilidade coletiva."
+    },
+    {
+      "titulo": "Taking Root: The Vision of Wangari Maathai",
+      "ano": 2008,
+      "descricao": "Documentário de Lisa Merton e Alan Dater sobre Wangari Maathai, o Green Belt Movement, democracia e resistência ambiental no Quênia."
+    }
+  ],
+
+  "registroPublico": "A trajetória de Wangari Maathai é amplamente documentada em discursos, livros, entrevistas, registros do Nobel, materiais do Green Belt Movement, instituições universitárias, organismos internacionais e organizações ambientais. A citação sobre 'pequenas coisas' é amplamente atribuída a ela, mas respostas educativas devem evitar inventar falas novas e, quando citarem frases, informar o contexto ou usar fontes verificáveis.",
+
+  "reconhecimentos": [
+    {
+      "titulo": "Primeira mulher da África Oriental e Central a obter doutorado",
+      "ano": 1971,
+      "descricao": "Reconhecimento associado à sua formação acadêmica pela Universidade de Nairobi."
+    },
+    {
+      "titulo": "Fundação do Green Belt Movement",
+      "ano": 1977,
+      "descricao": "Criação de um movimento que mobilizou mulheres e comunidades para plantio de árvores, educação ambiental e democracia."
+    },
+    {
+      "titulo": "Right Livelihood Award",
+      "ano": 1984,
+      "descricao": "Prêmio internacional por sua atuação em reflorestamento comunitário, participação de mulheres e sustentabilidade."
+    },
+    {
+      "titulo": "Prêmio Nobel da Paz",
+      "ano": 2004,
+      "descricao": "Primeira mulher africana a receber o Nobel da Paz, por sua contribuição ao desenvolvimento sustentável, à democracia e à paz."
+    },
+    {
+      "titulo": "Legião de Honra da França",
+      "ano": 2006,
+      "descricao": "Reconhecimento internacional citado em perfis biográficos sobre sua trajetória."
+    },
+    {
+      "titulo": "Nobel Women's Initiative",
+      "ano": 2007,
+      "descricao": "Participação na criação de uma iniciativa de mulheres laureadas com o Nobel da Paz em defesa de justiça, paz e direitos humanos."
+    },
+    {
+      "titulo": "Wangari Maathai Institute for Peace and Environmental Studies",
+      "ano": 2010,
+      "descricao": "Instituto vinculado à Universidade de Nairobi dedicado a paz, estudos ambientais, governança e legado de Wangari Maathai."
+    }
+  ],
+
+  "movimentos": [
+    "Green Belt Movement",
+    "Movimento ambiental comunitário",
+    "Movimento de mulheres no Quênia",
+    "Conselho Nacional de Mulheres do Quênia",
+    "Democracia multipartidária no Quênia",
+    "Defesa do Uhuru Park",
+    "Defesa da Karura Forest",
+    "Justiça ambiental",
+    "Nobel Women's Initiative",
+    "Educação ambiental",
+    "Desenvolvimento sustentável"
+  ],
+
+  "legadoExtenso": {
+    "titulo": "Influência sobre ambientalismo, democracia, mulheres e desenvolvimento sustentável",
+    "descricao": "O legado de Wangari Maathai está na integração entre cuidado ambiental e transformação social. O Green Belt Movement mostrou que o plantio de árvores podia recuperar solos, proteger água, gerar renda, fortalecer mulheres e abrir conversas sobre democracia e direitos. Sua atuação contra apropriações de terras públicas em Nairóbi revelou que meio ambiente também é disputa política: quem decide sobre parques, florestas, rios e bairros decide sobre a vida coletiva. Ao receber o Nobel da Paz, Wangari ampliou o entendimento global de que paz não é apenas ausência de guerra, mas também justiça ecológica, participação cidadã e dignidade para comunidades. Sua influência permanece em movimentos climáticos, projetos de reflorestamento, escolas, universidades e organizações de mulheres em vários países."
+  },
+
+  "galeria": [
+    {
+      "descricao": "Wangari Maathai em registro público ligado à sua trajetória como ambientalista, professora e primeira mulher africana a receber o Prêmio Nobel da Paz.",
+      "creditos": "Revista Galileu",
+      "imagem": "wangari-galeria-1.png"
+    },
+    {
+      "descricao": "Wangari Maathai em área de cultivo, imagem associada ao Green Belt Movement e ao plantio comunitário de árvores.",
+      "creditos": "Combate Racismo Ambiental",
+      "imagem": "wangari-galeria-2.png"
+    },
+    {
+      "descricao": "Estátua de Wangari Maathai no Benedictine College, instituição onde estudou nos Estados Unidos.",
+      "creditos": "Benedictine College / registro de homenagem institucional",
+      "imagem": "wangari-galeria-3.png"
+    }
+  ],
+
+  "fontes": [
+    {
+      "tipo": "Biografia oficial",
+      "titulo": "Wangari Maathai - Biographical",
+      "autor": "The Nobel Prize",
+      "descricao": "Fonte oficial para nascimento, formação, carreira acadêmica, Green Belt Movement, atuação pública e Nobel da Paz.",
+      "link": "https://www.nobelprize.org/prizes/peace/2004/maathai/biographical/"
+    },
+    {
+      "tipo": "Página do prêmio",
+      "titulo": "The Nobel Peace Prize 2004 - Wangari Maathai",
+      "autor": "The Nobel Prize",
+      "ano": "2004",
+      "descricao": "Fonte oficial sobre a concessão do Nobel da Paz a Wangari Maathai por desenvolvimento sustentável, democracia e paz.",
+      "link": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/"
+    },
+    {
+      "tipo": "Discurso",
+      "titulo": "Wangari Maathai - Nobel Lecture",
+      "autor": "The Nobel Prize",
+      "ano": "2004",
+      "descricao": "Discurso do Nobel usado para temas como democracia, sustentabilidade, paz, mulheres e responsabilidade coletiva.",
+      "link": "https://www.nobelprize.org/prizes/peace/2004/maathai/lecture/"
+    },
+    {
+      "tipo": "Organização oficial",
+      "titulo": "History of the Green Belt Movement",
+      "autor": "The Green Belt Movement",
+      "descricao": "Fonte sobre a fundação do movimento em 1977, plantio comunitário de árvores, mulheres, educação ambiental e democracia.",
+      "link": "https://greenbeltmovement.org/who-we-are/history"
+    },
+    {
+      "tipo": "Perfil institucional",
+      "titulo": "Prof. Wangari Maathai",
+      "autor": "Wangari Maathai Institute / University of Nairobi",
+      "descricao": "Fonte universitária sobre formação acadêmica, doutorado, docência, carreira pública, morte e legado institucional.",
+      "link": "https://wmi.uonbi.ac.ke/node/359"
+    },
+    {
+      "tipo": "Perfil internacional",
+      "titulo": "Wangari Maathai - Kenya",
+      "autor": "UN Environment Programme",
+      "descricao": "Fonte da ONU Meio Ambiente sobre seu papel como fundadora do Green Belt Movement, defensora ambiental e Nobel da Paz.",
+      "link": "https://www.unep.org/championsofearth/laureates/2006/wangari-maathai"
+    },
+    {
+      "tipo": "Prêmio internacional",
+      "titulo": "Wangari Maathai",
+      "autor": "Right Livelihood",
+      "ano": "1984",
+      "descricao": "Fonte sobre o Right Livelihood Award, participação de mulheres, reflorestamento, conservação e desenvolvimento sustentável.",
+      "link": "https://rightlivelihood.org/the-change-makers/find-a-laureate/wangari-maathai/"
+    },
+    {
+      "tipo": "Organização de laureadas",
+      "titulo": "Wangari Maathai",
+      "autor": "Nobel Women's Initiative",
+      "descricao": "Fonte sobre sua participação na criação da Nobel Women's Initiative e a relação entre paz, justiça e direitos das mulheres.",
+      "link": "https://www.nobelwomensinitiative.org/laureate/wangari-maathai/"
+    },
+    {
+      "tipo": "Página editorial",
+      "titulo": "Unbowed",
+      "autor": "Penguin Random House",
+      "descricao": "Fonte editorial sobre a autobiografia Unbowed e sua narrativa sobre infância, formação, ativismo ambiental e democracia.",
+      "link": "https://www.penguinrandomhouse.com/books/297874/unbowed-by-wangari-maathai/"
+    },
+    {
+      "tipo": "Documentário",
+      "titulo": "Taking Root: The Vision of Wangari Maathai",
+      "autor": "Taking Root Film",
+      "descricao": "Fonte sobre o documentário que retrata Wangari Maathai, o Green Belt Movement, resistência ambiental e democracia no Quênia.",
+      "link": "https://takingrootfilm.com/"
+    }
+  ],
+
+  "instrucoesIa": {
+    "persona": "Você é uma assistente educacional que apresenta a trajetória pública de Wangari Maathai com base nas fontes desta base. Fale sobre ela em terceira pessoa, sem afirmar ser Wangari real, e destaque sua atuação como cientista, professora, ambientalista, fundadora do Green Belt Movement, defensora das mulheres, da democracia e da paz.",
+    "tomDeVoz": [
+      "Didático",
+      "Respeitoso",
+      "Socioambiental",
+      "Firme",
+      "Inspirador sem romantizar",
+      "Cuidadoso com fontes",
+      "Comprometido com direitos humanos"
+    ],
+    "temasChave": [
+      "Green Belt Movement",
+      "Prêmio Nobel da Paz",
+      "Mulheres e meio ambiente",
+      "Reflorestamento",
+      "Quênia",
+      "Democracia",
+      "Uhuru Park",
+      "Karura Forest",
+      "Educação ambiental",
+      "Desenvolvimento sustentável",
+      "Justiça climática",
+      "Direitos humanos",
+      "Autobiografia Unbowed",
+      "Nobel Women's Initiative"
+    ],
+    "regrasEstritas": [
+      "Responda sempre em português do Brasil, com linguagem clara e apropriada para estudantes.",
+      "Fale de Wangari Maathai em terceira pessoa; não simule memórias, sentimentos privados ou falas inéditas dela.",
+      "Não invente citações, datas, cargos, livros ou prêmios sem base nas fontes.",
+      "Informe que ela nasceu em 01/04/1940 em Ihithe, Nyeri, Quênia, e faleceu em 25/09/2011 em Nairóbi.",
+      "Apresente o Green Belt Movement como movimento que articulava árvores, mulheres, educação ambiental, renda comunitária, democracia e direitos humanos.",
+      "Ao falar do Nobel, informe que ela recebeu o Prêmio Nobel da Paz em 2004 e foi a primeira mulher africana laureada com esse prêmio.",
+      "Evite reduzir Wangari a 'mulher que plantou árvores'; explique a dimensão política, científica, feminista, comunitária e democrática de seu trabalho.",
+      "Ao mencionar repressão estatal, prisões ou agressões, contextualize como parte da luta por democracia e defesa ambiental, sem sensacionalismo.",
+      "Se citar a frase sobre pequenas coisas e plantar árvores, trate-a como citação amplamente atribuída e use com parcimônia.",
+      "Se a informação não estiver na base ou em fonte confiável, declare a limitação em vez de supor."
+    ],
+    "exemploPoucoFormato": {
+      "pergunta": "Por que Wangari Maathai recebeu o Nobel da Paz?",
+      "resposta": "Wangari Maathai recebeu o Prêmio Nobel da Paz em 2004 porque sua atuação mostrou que desenvolvimento sustentável, democracia e paz estão conectados. Por meio do Green Belt Movement, ela mobilizou mulheres e comunidades para plantar árvores, recuperar ambientes degradados, gerar renda e defender direitos. O Nobel reconheceu que proteger a natureza também pode ser uma forma de defender justiça social, participação cidadã e dignidade humana."
+    }
+  }
+}
